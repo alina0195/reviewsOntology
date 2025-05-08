@@ -1,0 +1,273 @@
+:Product866425 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Mid Impermeabili Drumeție Capra GTX Bărbați " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.12 ;
+               :hasReview :Review866425_1 , :Review866425_2 , :Review866425_3 .
+:Product8603221 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete Mid din piele călduroase impermeabile drumeţie zăpadă SH500 X-Warm Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.85 ;
+               :hasReview :Review8603221_1 .
+:Product8493872 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci impermeabili rezistenți 500 Crosshunt maro Bărbați  " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.4 ;
+               :hasReview :Review8493872_1 , :Review8493872_3 , :Review8493872_4 , :Review8493872_6 , :Review8493872_7 , :Review8493872_8 , :Review8493872_10 .
+:Product8206478 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete Echitaţie Classic Negru Adulţi" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.5 ;
+               :hasReview :Review8206478_3 .
+:Product8185817 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci ușori și rezistenți 300 SPORTHUNT Bej Bărbați " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.45 ;
+               :hasReview :Review8185817_3 , :Review8185817_5 , :Review8185817_6 , :Review8185817_8 .
+:Product8493840 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Mid Impermeabili Drumeţie la munte MH500 Gri Bărbaţi " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.34 ;
+               :hasReview :Review8493840_1 , :Review8493840_2 , :Review8493840_3 , :Review8493840_4 , :Review8493840_5 , :Review8493840_6 , :Review8493840_8 , :Review8493840_9 , :Review8493840_11 , :Review8493840_12 , :Review8493840_13 , :Review8493840_16 , :Review8493840_17 , :Review8493840_18 , :Review8493840_19 , :Review8493840_20 , :Review8493840_21 , :Review8493840_22 , :Review8493840_23 , :Review8493840_24 , :Review8493840_26 .
+:Product8377410 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotinetă Town 7 XL Negru Adulți " ;
+                :belongsTo :Scooters ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.47 ;
+               :hasReview :Review8377410_2 , :Review8377410_3 , :Review8377410_4 , :Review8377410_7 , :Review8377410_8 , :Review8377410_9 , :Review8377410_10 , :Review8377410_11 , :Review8377410_12 , :Review8377410_14 , :Review8377410_15 , :Review8377410_16 , :Review8377410_19 , :Review8377410_20 , :Review8377410_25 .
+:Product8666200 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotinetă C900 Gri Adulți" ;
+                :belongsTo :Scooters ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.49 ;
+               :hasReview :Review8666200_1 .
+:Product8604460 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Impermeabili Trekking la munte MT100 Contact® Gri Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review8604460_1 .
+:Product8664975 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci impermeabili X-hunt Gore-Tex Vibram Bărbați " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.13 ;
+               :hasReview :Review8664975_1 .
+:Product8543212 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete Echitaţie 100 Negru Adulţi" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.51 ;
+               :hasReview :Review8543212_2 .
+:Product8579866 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Trekking în deșert Desert900 Bej Adulți" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.25 ;
+               :hasReview :Review8579866_1 , :Review8579866_2 , :Review8579866_3 , :Review8579866_4 , :Review8579866_5 , :Review8579866_6 , :Review8579866_8 , :Review8579866_9 .
+:Product8281869 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Crosshunt 100 maro  " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.29 ;
+               :hasReview :Review8281869_2 , :Review8281869_5 , :Review8281869_7 , :Review8281869_10 , :Review8281869_11 , :Review8281869_12 , :Review8281869_13 , :Review8281869_18 , :Review8281869_22 , :Review8281869_24 , :Review8281869_26 .
+:Product8618767 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Mid Impermeabili Drumeţie la Munte MH500 Maro Bărbaţi" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.43 ;
+               :hasReview :Review8618767_1 .
+:Product8367614 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete Iarnă Călduroase Impermeabile Drumeţie pe zăpadă SH100 U-Warm Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.47 ;
+               :hasReview :Review8367614_3 , :Review8367614_6 , :Review8367614_8 , :Review8367614_9 , :Review8367614_11 , :Review8367614_13 , :Review8367614_14 , :Review8367614_15 , :Review8367614_16 , :Review8367614_19 , :Review8367614_24 , :Review8367614_25 , :Review8367614_27 , :Review8367614_28 , :Review8367614_30 , :Review8367614_31 , :Review8367614_32 , :Review8367614_34 , :Review8367614_35 , :Review8367614_36 , :Review8367614_37 , :Review8367614_38 , :Review8367614_44 , :Review8367614_45 , :Review8367614_46 , :Review8367614_47 , :Review8367614_48 , :Review8367614_49 , :Review8367614_50 , :Review8367614_51 , :Review8367614_55 , :Review8367614_57 , :Review8367614_60 , :Review8367614_61 , :Review8367614_62 , :Review8367614_63 , :Review8367614_64 , :Review8367614_65 , :Review8367614_66 .
+:Product8502616 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete Călduroase Impermeabile Drumeţie zăpadă SH520 X-Warm Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.56 ;
+               :hasReview :Review8502616_1 , :Review8502616_2 , :Review8502616_6 , :Review8502616_7 , :Review8502616_9 , :Review8502616_10 , :Review8502616_14 , :Review8502616_15 , :Review8502616_16 , :Review8502616_17 , :Review8502616_19 , :Review8502616_20 , :Review8502616_24 , :Review8502616_25 , :Review8502616_26 , :Review8502616_28 , :Review8502616_32 , :Review8502616_34 , :Review8502616_36 , :Review8502616_38 , :Review8502616_39 , :Review8502616_40 , :Review8502616_43 , :Review8502616_44 , :Review8502616_45 , :Review8502616_46 , :Review8502616_49 , :Review8502616_50 , :Review8502616_51 , :Review8502616_52 , :Review8502616_53 .
+:Product8604707 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bețe schi BOOST 500 GRIP Alb " ;
+                :belongsTo :Ski ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.29 ;
+               :hasReview :Review8604707_1 .
+:Product8782848 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Schiuri cu legături WORLD CUP REBELS E.XSR Alb-Galben Bărbați " ;
+                :belongsTo :Ski ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review8782848_1 .
+:Product8503775 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci impermeabili rezistenți 520 Crosshunt maro Bărbați  " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.59 ;
+               :hasReview :Review8503775_2 , :Review8503775_3 .
+:Product8365825 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci impermeabili 500 Maro Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.13 ;
+               :hasReview :Review8365825_1 , :Review8365825_2 , :Review8365825_3 , :Review8365825_4 , :Review8365825_5 , :Review8365825_7 , :Review8365825_8 , :Review8365825_9 , :Review8365825_10 , :Review8365825_11 , :Review8365825_12 , :Review8365825_13 , :Review8365825_14 , :Review8365825_15 , :Review8365825_17 , :Review8365825_19 , :Review8365825_21 , :Review8365825_22 .
+:Product8554922 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Impermeabili Trekking la munte OFFTRAIL MT V2 VIBRAM® Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.05 ;
+               :hasReview :Review8554922_1 , :Review8554922_2 , :Review8554922_3 , :Review8554922_4 , :Review8554922_5 , :Review8554922_6 , :Review8554922_7 , :Review8554922_8 .
+:Product8352452 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete Classic Echitație din piele Maro Adulți" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.57 ;
+               :hasReview :Review8352452_1 , :Review8352452_2 , :Review8352452_3 , :Review8352452_5 .
+:Product8625196 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Înalți din Piele Impermeabili Trekking SALOMON QUEST 4 GTX Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.14 ;
+               :hasReview :Review8625196_1 .
+:Product8553119 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci mid impermeabili Drumeţie la Munte MH100 Negru Bărbați " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.43 ;
+               :hasReview :Review8553119_2 , :Review8553119_3 , :Review8553119_4 , :Review8553119_5 , :Review8553119_7 , :Review8553119_8 , :Review8553119_9 , :Review8553119_10 , :Review8553119_12 , :Review8553119_14 , :Review8553119_15 , :Review8553119_16 , :Review8553119_18 , :Review8553119_20 , :Review8553119_23 , :Review8553119_24 , :Review8553119_27 , :Review8553119_29 , :Review8553119_30 , :Review8553119_31 , :Review8553119_33 , :Review8553119_34 , :Review8553119_38 , :Review8553119_39 , :Review8553119_41 , :Review8553119_42 .
+:Product8550247 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Înalți Lați din piele Impermeabili Trekking MT100 Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review8550247_1 , :Review8550247_3 , :Review8550247_4 .
+:Product8503783 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci 100 Crosshunt maro Bărbați " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.38 ;
+               :hasReview :Review8503783_2 , :Review8503783_4 , :Review8503783_8 , :Review8503783_15 , :Review8503783_16 , :Review8503783_17 .
+:Product8319097 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Înalți din piele Impermeabili Trekking MT00 Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.19 ;
+               :hasReview :Review8319097_2 , :Review8319097_3 , :Review8319097_4 , :Review8319097_5 , :Review8319097_9 , :Review8319097_10 , :Review8319097_11 , :Review8319097_12 , :Review8319097_13 , :Review8319097_14 , :Review8319097_15 , :Review8319097_16 , :Review8319097_17 , :Review8319097_20 , :Review8319097_23 , :Review8319097_25 , :Review8319097_28 , :Review8319097_31 , :Review8319097_32 , :Review8319097_33 , :Review8319097_34 , :Review8319097_35 , :Review8319097_36 , :Review8319097_37 , :Review8319097_38 , :Review8319097_40 .
+:Product8583344 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Mid Impermeabili Drumeție în natură NH150 Albastru-Verde Bărbați " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.52 ;
+               :hasReview :Review8583344_2 , :Review8583344_4 , :Review8583344_5 , :Review8583344_6 , :Review8583344_13 .
+:Product8367617 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete Călduroase Impermeabile Drumeţie pe zăpadă SH100 U-Warm Negru Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.51 ;
+               :hasReview :Review8367617_1 , :Review8367617_3 , :Review8367617_5 , :Review8367617_7 , :Review8367617_8 , :Review8367617_9 , :Review8367617_10 , :Review8367617_15 , :Review8367617_17 , :Review8367617_18 , :Review8367617_21 , :Review8367617_23 , :Review8367617_25 , :Review8367617_26 , :Review8367617_27 , :Review8367617_30 , :Review8367617_31 , :Review8367617_32 , :Review8367617_34 , :Review8367617_35 , :Review8367617_36 , :Review8367617_37 , :Review8367617_40 , :Review8367617_41 , :Review8367617_42 .
+:Product8560076 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci impermeabili 500 Crosshunt Maro Bărbați " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.61 ;
+               :hasReview :Review8560076_1 , :Review8560076_3 .
+:Product8595306 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci CROSSHUNT 500 Bărbați " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.45 ;
+               :hasReview :Review8595306_1 , :Review8595306_4 , :Review8595306_5 , :Review8595306_6 , :Review8595306_7 , :Review8595306_8 , :Review8595306_9 , :Review8595306_11 .
+:Product8667209 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete Mid din piele Iarnă Călduroase Impermeabile Drumeţie SH100 X-Warm Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.63 ;
+               :hasReview :Review8667209_3 .
+:Product8641977 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete din piele Iarnă Impermeabile Drumeţie zăpadă SH100 X-Warm Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.73 ;
+               :hasReview :Review8641977_1 , :Review8641977_4 , :Review8641977_5 , :Review8641977_6 .
+:Product8674464 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete Drumeție pe zăpadă QUESTMID X ULTRA 04 Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.6 ;
+               :hasReview :Review8674464_1 .
+:Product8501910 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Înalți din piele Impermeabili Trekking MT00 Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.14 ;
+               :hasReview :Review8501910_1 .
+:Product8546262 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Ghete Călduroase Impermeabile din piele Drumeţie pe zăpadă SH500 Ultra-Warm Negru Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.5 ;
+               :hasReview :Review8546262_2 , :Review8546262_3 , :Review8546262_4 , :Review8546262_5 , :Review8546262_6 , :Review8546262_7 , :Review8546262_8 .
+:Product8281598 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Impermeabili Crosshunt 300 kaki " ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.48 ;
+               :hasReview :Review8281598_1 , :Review8281598_2 , :Review8281598_3 , :Review8281598_4 , :Review8281598_5 , :Review8281598_7 , :Review8281598_11 , :Review8281598_13 , :Review8281598_15 , :Review8281598_17 , :Review8281598_18 , :Review8281598_23 , :Review8281598_24 , :Review8281598_25 , :Review8281598_26 , :Review8281598_28 , :Review8281598_30 .
+:Product8618656 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bocanci Înalți din piele Impermeabili Trekking MT500 Bărbați" ;
+                :belongsTo :Boots ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.21 ;
+               :hasReview :Review8618656_1 , :Review8618656_4 , :Review8618656_5 .
+:Product8377409 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotinetă Town 7 XL Verde Adulți " ;
+                :belongsTo :Scooters ;
+                :hasWebsite :Decathlon ;
+                :aggregatesRating 4.58 ;
+               :hasReview :Review8377409_1 , :Review8377409_2 , :Review8377409_3 , :Review8377409_4 , :Review8377409_5 , :Review8377409_7 , :Review8377409_9 , :Review8377409_10 .

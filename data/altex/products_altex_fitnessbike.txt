@@ -1,0 +1,140 @@
+:Product291676 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta mecanica SPOKEY 928654, volanta 5 kg, greutate suportata 100 kg, rosu" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 1.0 ;
+               :hasReview :Review291676_1 .
+:Product313459 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta fitness ATHLETIC 240BV, volanta 4kg, greutate suportata 100kg, negru-gri" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review313459_1 .
+:Product291210 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta spinning OVICX Q100C, volanta 6.5kg, 100 trepte, greutate suportata 110kg" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review291210_1 , :Review291210_2 .
+:Product319003 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta spinning PROGRESSIVE SX2000SE, volanta 15kg, greutate suportata 120kg" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review319003_1 .
+:Product296211 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta spinning YESOUL YS3PRO, volanta 7.5kg, 100 trepte, greutate suportata 120kg, alb" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.333333333333333 ;
+               :hasReview :Review296211_1 , :Review296211_2 , :Review296211_3 .
+:Product287161 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Mini-bicicleta fitness JOCCA 6158N pentru maini si picioare" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.0 ;
+               :hasReview :Review287161_1 , :Review287161_2 .
+:Product237865 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Mini bicicleta fitness ENERGY FIT W002E, volanta 2kg, negru" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review237865_1 .
+:Product250502 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta fitness AB FI MB1.3, 10 trepte, greutate maxima 100kg, rosu" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 2.0 ;
+               :hasReview :Review250502_1 , :Review250502_2 .
+:Product265496 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta magnetica ORION Joy L200, volanta 5 kg, greutate suportata 110 kg, 8 trepte, negru" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.6666666666666665 ;
+               :hasReview :Review265496_1 , :Review265496_2 , :Review265496_3 .
+:Product291913 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta spinning ORION Force A100, volanta 6kg, greutate maxima 120kg, negru" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review291913_1 .
+:Product265494 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta magnetica ORION Joy L250, volanta 6 kg, greutate suportata 120 kg, 8 trepte, negru" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review265494_1 .
+:Product296208 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta spinning YESOUL YM1, volanta 7.5kg, 100 trepte, greutate suportata 100kg, negru" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review296208_1 , :Review296208_2 .
+:Product296209 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta spinning YESOUL YM1, volanta 7.5kg, 100 trepte, greutate suportata 100kg, alb" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review296209_1 .
+:Product296206 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta spinning TECHFIT SBK2500, volanta 15kg, 10 trepte, greutate suportata 120kg" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review296206_1 .
+:Product312533 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta fitness YESOUL C1H-BK, volanta 7.5kg, 100 trepte, greutate suportata 120kg" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review312533_1 , :Review312533_2 .
+:Product296210 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta spinning YESOUL YS3PRO, volanta 7.5kg, 100 trepte, greutate suportata 120kg, negru" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 1.3333333333333333 ;
+               :hasReview :Review296210_1 , :Review296210_2 , :Review296210_3 .
+:Product250503 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta fitness AB FI MB1.3, 10 trepte, greutate maxima 100kg, alb" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review250503_1 , :Review250503_2 , :Review250503_3 , :Review250503_4 .
+:Product291912 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta spinning ORION Force A110, volanta 6kg, greutate maxima 120kg, negru" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review291912_1 , :Review291912_2 .
+:Product265495 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta eliptica ORION Trax L200, volanta 6 kg, greutate suportata 110 kg, 8 trepte, negru" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review265495_1 .
+:Product312534 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Bicicleta fitness YESOUL S3, volanta 6.5kg, 100 trepte, greutate suportata 120kg" ;
+                :belongsTo :Fitness_Bike ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review312534_1 , :Review312534_2 .

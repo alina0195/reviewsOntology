@@ -1,0 +1,648 @@
+:Review866425_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "SUNT USORI SI FOARTE COMOZI" ; :hasAuthor "Ruxandra" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review866425_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Confortabili , corespund asteptarilor !" ; :hasAuthor "Cristian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review866425_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Extraordinar din toate punctele de vedere, potrivit si pentru femei. (sunt femeie)" ; :hasAuthor "Gyongyver" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8603221_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bocanci extrem de confortabili. Din păcate, impermeabililitatea nu a ținut niciodată mai mult de o oră. I-am folosit intens în vara lui 2020 și mai puțin de atunci încoace." ; :hasAuthor "Marcel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493872_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Fiind produs în România, este pe masura așteptărilor,   ca manusa , minunat, cofortabil, poti sa stai o zii intreaga incaltat in ei!" ; :hasAuthor "alexandru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493872_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O sa vedem cat de rezistenti sunt!<br /> Sper ca sunt facuti  integral  in Romania, deoarece acesta este unul din motivele pentru care i-am cumparat." ; :hasAuthor "Cristian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493872_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nemulțumit pt calitate/preț, am bocanci tot de la voi de la alti producători mult mai calitativi și culmea mai ieftini!" ; :hasAuthor "ciprian" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8493872_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "I am cumparat pentru iesirile in natura cu cainii, sunt impermeabili si deosebit de comozi<br /> Sunt unisex si ma bucur de achizitie<br /> <br /> As dori mai multe produse pentru femei de la acest raion, tot ce am este de calitate excelenta 👍" ; :hasAuthor "Leila" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493872_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ii am de 3 ani si nu am avut nicio problema cu ei!" ; :hasAuthor "Ovidiu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493872_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buni, mi-au depasit asteptarile." ; :hasAuthor "Florin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493872_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bocancii sunt rezistenți dar în prima drumeție mai serioasă, m-au bătut la călcâi. De asemenea talpa e rigidă și mi-a cauzat dureri în talpa piciorului. De luat în calcul." ; :hasAuthor "Alexandru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8206478_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt eleganți, comozi dar foarte reci..." ; :hasAuthor "Angela" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8185817_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Fata de versiunea lor din 2019, au fost micsorati in latime cu aprox. 2 cm.<br /> De asemenea au fost scumpiti cu 120 de lei, pe cei din 2019, platind 160 lei, acum pe cei din prezent - 280 lei.<br /> Atunci masura 43 mi-a fost suficienta, pantoful simtindu-se perfect pe picior, chiar si dupa drumuri lungi, insa acum a trebuit sa imi iau 45. Asta a dus la un pantof cu mult mai lung, insa ca latime, cat de cat ok, insa tot ingust se simte. Lungimea mai mare ma incurca cam cu 30% la drum, simtindu-i ca pe niste barci in picioare.<br /> Dupa drumuri lungi deja se simte cum strange in laterale, atunci cand piciorul se umfla de la oboseala / mers.<br /> Producatorii, incercand sa faca economie la materiale, au scazut drastic confortul si ergonomia produsului.<br /> Talpa sa zic ca a devenit mai aderenta fata de primul model, insa daca a fost ingustata, deja a primit o nota proasta din partea mea." ; :hasAuthor "RADU GABRIEL" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8185817_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "S-au rupt pe la cusaturi dupa 6 luni , in conditiile in care i-am folosit pt. drumetii de weekend.<br /> Poate am nimerit eu o pereche cu probleme din fabricatie." ; :hasAuthor "Hosu" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8185817_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte comozi, usori, si respira foarte bine piciorul in ei!" ; :hasAuthor "Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8185817_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ușori și respirabili" ; :hasAuthor "Remus" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "la inceputul lunii martie 2023 am achizitionat acest model. mare greseala. pe asfalt umed aluneci ca pe gheatza, iar materialul cauciucat negru dinspre talpa spre glezna, se dezlipeste. piciorul nu respira adecvat asa ca dupa ce stai incaltat vreo 8 - 10 ore, ai toate sansele sa fii cu ciorapii mustind a umezeala. nu recomand produsul pe suprafete ude (asfalt, grohotis etc), ai toate sansele sa aluneci necontrolat si prezinta un mare risc pentru siguranta utilizatorului, precum si un disconfort general. decat daca il utilizati exclusiv pe suprafete uscate, produsul este acceptabil. pretul este exagerat pentru ceea ce se ofera<br /> nu stiu daca pot fi inlocuiti cu unalt produs sau daca pot fi returnati, dar NU RECOMAND produsul cu aceste caracteristici pe care le-am constatat la produsul achizitionat <br /> sper sa fiu contactat de un reprezentant decathlon pentru rezolvarea situatiei expuse.<br /> am sa revin cu impresii in 10 zile indiferent daca sunt contactat de reprezentantii decathlon sau nu" ; :hasAuthor "Virgil" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8493840_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "După primele 2-3 drumeții, impermeabilitatea a dispărut aproape complet, după 10-20 min de mers prin iarba uda sau zăpadă, piciorul este ud, și băltește apa în papuci. Cu toate ca am folosit și spray impermeabilizant tot de la decathlon la maxim 3 utilizări. Pentru condiții uscate, decent, aderenta bună dar destul de moale materialul, se îndoaie glezna destul de ușor. Nu neapărat cel mai bun la acest preț, comparabil cu cele de  prim preț  mai degraba" ; :hasAuthor "andrei" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8493840_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Încălțămintea este cât se poate de ergonomica, perfecta pentru zăpadă și noroi." ; :hasAuthor "Cristinel-Costel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu e nici cel a-mi bun produs, dar pentru cât costă își face treaba - Adică e impermeabil, ușor și te simți în sugurranță când calci pe diferite suprafețe." ; :hasAuthor "Marius" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8493840_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "...am luat acești bocanci. Sunt foarte buni și pentru utilizare zilnică obișnuită.<br /> Ușori, comozi, calduroși și ce mă încântă este faptul ca nu alunecă pe suprafețe umede. <br /> Ocheții și cârligele pentru șiret sunt din materiale solide, rezistente." ; :hasAuthor "SEVER" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Salutare,<br /> <br /> Bocancii sunt usori si confortabili. Au o aderenta si impermeabilitate buna. Ii folosesc deja de cel putin 2 ani si inca isi fac treaba bine. De retinut insa ca nu i-am utilizat intens." ; :hasAuthor "NICOLAE" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8493840_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs de calitate extraordinara la un pret corect." ; :hasAuthor "Petru Catalin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Excelenta alegere, tin de cald, impermeabili. Merita" ; :hasAuthor "Lucica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs bun .sper sa si dureze in timp. Pret putin cam mare!" ; :hasAuthor "Stefan" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8493840_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sun la a 2-a pereche cu acest model.<br /> Excelent" ; :hasAuthor "Romulus" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Comozi pentru drumeți." ; :hasAuthor "Aurora" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Confortabili, aderenți, amortizare bună. Optimizați pentru drumeție la munte." ; :hasAuthor "Bogdan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte comozi și totuși foarte buni pentru plimbările in natura" ; :hasAuthor "dragos" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achzitionat si folosit aceasta pereche de bocanci fix de 3 ori si s-au descusut. Dupa ce am scris catre serviciul suport pentru a sesiza un defect clar de fabricatie si am fost trimis in magazin, acestia mi-au zis ca produsul are mai mult de 2 ani de la achizitie(4ani). Cu toate ca au fost purtati de 3 ori si au avut si defect de fabricatie(confirmat si de personalul decathlon) toata situatia lasa de dorit." ; :hasAuthor "BOGDAN" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8493840_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La pretul dat sunt super ok! Impermeabilitate, stabilitate, chiar si aderenta (chiar si pe zapada chiar daca nu sunt facuti pt iarna) super! La ture mai lungi de 5-6 ore fac bataturi usoare si incep sa transpire. Pielea pe ei incepe sa arate urat, dar nu-mi pasa." ; :hasAuthor "Adrian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bocancii cumparati acum 1 an si 2 luni, i-am dat la schimb in garantie, deslipindu-se lateral. Din pacate, cei noi, identici ca marca si model, nu mai au partea interioara din dreptul carligelor metalice asa groase, astfel ca acum acestea apasa pe oase si-ti creaza dureri foarte mari pe partea interioara, in special la coborare si la carligul de jos, mai ales. Dupa prima tura de 2 zile, m-am trezit cu dureri foarte mari la os si dificultati mari la coborare din cauza lor, chiar daca in a doua zi mi-am pus si pansamente. A aparut si o umflatura de la atata apasat. Va trebuii sa-i returnez si sa cer banii, nemaifiind asa confortabili ca cei schimbati si cei din generatiile anterioare." ; :hasAuthor "SORIN" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8493840_21 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt potriviti si comozi pentru drumetii montane." ; :hasAuthor "Constantin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_22 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Calitate preț corecte" ; :hasAuthor "HOREA RARES" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Au fost folositi cam 3 zile 8-9 ore/zi, sunt confortabili, sustin bine glezna" ; :hasAuthor "Daniel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8493840_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am mers dupa o ploaie in padure si dupa doua ore de mers am fost completa ud in picioare. Dupa ce mi-am uscat bocancii a doua zi iar ám facut o drumetie in padure si iar ám fost completa ud la picioare." ; :hasAuthor "STEFAN" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8493840_26 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Buna ziua! Am cumparat aceste ghete sperand ca sunt  impermeabile ,dar, dupa 30 de minute de mers prin padure si plouand mocaneste. Am simtit cum baltesc intr.o mare balta." ; :hasAuthor "GEORGE OCTAVIAN" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8377410_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte mulțumit de produs. Merita banii!" ; :hasAuthor "Lehel Istvan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am luat aceasta trotineta pentru deplasari mici/medii, si rezista foarte bine.<br /> Merge si la deplasari mai lungi, daca rezisti :).<br /> Va recomand!" ; :hasAuthor "Emeric" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotinetata se misca super bine si are materiale de calitate.Foarte multumit!" ; :hasAuthor "Cosmin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am primit-o ieri (21.06.22) și am învățat multe! Merge foarte smooth și este foarte rezistentă! Chiar recomand!" ; :hasAuthor "Corina Valentina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte ok ! Cum se spune si in descriere ca este ideala pentru deplasari scurte,suspensia isi face foarte bine treaba față de o trotineta clasica ! <br /> Pavelele nu se simt mai deloc ,față de celelalte clasice fără care se zgâlțâie de îti vine sa o iei pe jos :)))" ; :hasAuthor "Barbu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Robusta, comoda, usor de manevrat, frana pe fata iti da un plus de incredere" ; :hasAuthor "Doina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am un Oxelo ceva mai mic, de 7 ani, merge si acum foarte bine. Foarte multumit, 7XL are suspensie, foarte foarte buna." ; :hasAuthor "Razvan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "foarte multumita de produs,super incantata domnisoara mea...mai colorata daca era" ; :hasAuthor "Marinela" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Calitate buna, lucrate ingrijit" ; :hasAuthor "Nicu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O mizerie de trotineta sau ghinion (cu parere de rau o spun mai ales ca am primit-o cadou)? La a 2-a utilizare, in timpul unei plimbari linistite , in timp ce discutam cu un prieten care era  pe jos  (viteza de deplasare fiind foarte mica) a  zburat  arcul de amortizare al rotii spate, trotineta s-a  infipt  in asfalt iar ghidonul in stomacul meu. Ori a cedat filetul prinderii (piesa fiind din aluminiu) ori a fost prost asamblata. Mentionez ca, inainte de prima utilizare am verificat ca toate prinderile sa fie stranse cum trebuie, inclusiv surubul arcului respectiv si nu parea nestrans. In caz de nevoie pot oferi si poze doritorilor. Plangere ANPC + actiune pt. daune?" ; :hasAuthor "Anamaria-cristina" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8377410_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "RAPORT CALITATE - PRET EXCELENT" ; :hasAuthor "Ramona" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am comandat aceasta trotineta pentru fiul meu de 7 ani care din prima secunda s-a acomodat cu ea. Împreună cu bicicletatot pentru elam comandat-o si ridicat-o din Târgoviște. Doresc sa mulțumesc personalului pentru amabilitatea de care au dat dovada. Felicitări !!!" ; :hasAuthor "Cosmin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un pic cam scumpă dar merita" ; :hasAuthor "Ion Cristian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377410_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Din pacate sistemul de blocare al ghidonului este oribil, daca la versiunile vechi era si un arc cu bila care bloca ghidonul, la modelul asta nu exista si se lasa ghidonul in jos.<br /> Frana cand e umed este inutila, nu tine deloc." ; :hasAuthor "Adrian-George" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8377410_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta decenta dar se putea mai bine.<br /> Minusuri:<br /> Din prima utilizare are un zornait metalic.<br /> Fluturasul de la sistemul de pliere foarte greu de inchis ori deschis asemenea si fluturasul de la coarne.<br /> Plusuri:<br /> Usoara<br /> Roti mari<br /> Frana pe spate destul de utila.<br /> Suspensia este foarte buna,mai ales pentru genunchi." ; :hasAuthor "Cosmin" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8666200_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotineta ruleaza bine si este rezistenta. Inconvenientul, pentru mine, este ca face mult zgomot in timpul rularii. Zgomotul dispare in momentul in care apas usor pe aripa rotii din spate (care actioneaza si ca frana daca apas ferm). Mentionez ca acest zgomot il face de cand am cumparat-o.<br /> <br /> In plus, manerele ghidonul sunt pliabile, iar manerul din stanga a capatat joc. Astfel, imi da senzatia ca se va plia in mers. <br /> <br /> Am fost o data cu ea la garantie, dar cei de la service nu au reusit sa regleze ceva astfel incat sa scap de zgomot si sa fixeze mai bine manerele ghidonului." ; :hasAuthor "Bogdan Alexandru" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8604460_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "I-am folosit un sezon toamnă- iarnă-primăvară, se comportă bine, nu absorb umiditate, nu îți este rece în ei. Recomand." ; :hasAuthor "Ionel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8664975_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt mulțumit. Sunt super recomand" ; :hasAuthor "Tabita" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8543212_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "100% corespunzătoare așteptărilor." ; :hasAuthor "ANTON" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8579866_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bocancii sunt foarte comozi, materialele sunt moi și de foarte bună calitate! În combinație cu șosetele lungi, antifrecare de la Decathlon, oferă un grad ridicat de confort! Păcat că nu se mai găsesc!!!" ; :hasAuthor "George Cătălin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8579866_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte util, calitate maxima la pret maimult decat ok.<br /> Sunt foarte multumit!!!" ; :hasAuthor "GRIGORE-LUCIAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8579866_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Extrem de confortabili și foarte bine lucrați." ; :hasAuthor "Mihaela" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8579866_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand....un produs de calitate!" ; :hasAuthor "gabriel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8579866_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Marimea 38 a fost mica. Am achiziționat o marime mai mare" ; :hasAuthor "Daniela" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8579866_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Au fost cea mai buna alegere pentru excursia in desert! Recomand" ; :hasAuthor "Andreea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8579866_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bocancii de tracking in deșert au fost excelenți, I-am folosit timp de 2 săptămâni în care au fost foarte comozi și nu a intrat niciun grăunte de nisip." ; :hasAuthor "Camelia" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8579866_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este al treia pereche și al treilea model cumpărat!<br /> E un produs excelent!!" ; :hasAuthor "Alin-Paul" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281869_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Excelenți pentru drumeții." ; :hasAuthor "Delia" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281869_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand cu toată încrederea!!!" ; :hasAuthor "Ioana" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281869_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "nu vă uitați la preț,puneți încă 200 lei și luați ceva de calitate" ; :hasAuthor "ionut" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8281869_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bune si comode<br /> Le recomand tuturor" ; :hasAuthor "Cristina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281869_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt ok insa poti aluneca daca nu ești atent" ; :hasAuthor "Robert Gabriel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281869_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "SUNT CEEA CE CAUTAM!" ; :hasAuthor "Sorin-Aurel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281869_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Soțul mulțumit de produs." ; :hasAuthor "Gabriela" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281869_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt buni pentru padure, dealuri si toate cele. Eu personal i-am luat pentru masuratori si ma impac bine cu ei. Sunt destul de confortabili, dar nu wow, impermeabilitatea la apa f buna, practici si rezistenti." ; :hasAuthor "Petru - Iulian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281869_22 rdf:type owl:NamedIndividual , rev:Review ; rev:text "5 stele - comoditate rezistenta design . Produs excelent!" ; :hasAuthor "sorin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281869_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un raport pret/calitate extraordinar!" ; :hasAuthor "CRISTIAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281869_26 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buni pentru ieșirile in câmp, pădure, arătură. Pana acum nu au pus probleme de impermeabilizare, au un preț corect pentru ce sunt" ; :hasAuthor "Ionut" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8618767_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Potriviți pentru ture cu motoscuterul in vreme ploioasă datorita impermeabilității.<br /> Atenție ! Aluneca pe asfaltul vopsit cu vopsea de marcaje." ; :hasAuthor "Adrian" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8367614_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte rezistente și confortabile!" ; :hasAuthor "Laura" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Adolescentul meu zice ca sunt comode (el are piciorul mai lat), au fost calduroase iarna si inca le poarta si acum in iunie, se pare ca nu-i transpira piciorul in ele..Bun raport calitate-pret." ; :hasAuthor "Andreea" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8367614_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Încă nu le-am folosit dar par bune și am aflat de la cineva care le folosește de 3 ani că se comporta conform specificatiei" ; :hasAuthor "Georgeta" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte călduroși de calitate, nu știu ce sa zic de impermeabilitate nu am intrat in apa cu ei, dar ca si caldura si comfort sunt super." ; :hasAuthor "Paul Edwin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Stramt pentru piciorul stang, am.facut batai ña fegetuo mic..nu imi puteam misca degetul." ; :hasAuthor "Valentin" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8367614_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand,au fost purtate întrega iarna și nu am avut deloc probleme din cauza frigului." ; :hasAuthor "Melania" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Folosesc acesti bocanci la munca , si la mers la pescuit. Sunt multumit." ; :hasAuthor "Robert" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "lejeri. caldurosi. nu suficient impermeabili" ; :hasAuthor "Adelina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte comode și călduroase👌" ; :hasAuthor "maxim" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte comode." ; :hasAuthor "Elena" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Comozi si caldurosi" ; :hasAuthor "Ibolya" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bune si utile" ; :hasAuthor "BOGDAN GABRIEL" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_27 rdf:type owl:NamedIndividual , rev:Review ; rev:text "rezista o zi cu brio la drumetie. Sunt caldurosi si au stabilitate buna. Aluneca foarte tare in schimb pe suprafete cat de cat alunecoase. Era sa imi rup picioarele atat pe strada, cu bruma inghetata peste noapte dar si intr-un lift cu podeaua umeda. Dupa cateva ore in frig incepi sa simti frigul de la varf. Dar per total sunt super ok pentru cat costa." ; :hasAuthor "Alex" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8367614_28 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Perfecti pentru iernile care le trăim" ; :hasAuthor "Alin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_30 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cam transpiri in ele, dar per total recomand." ; :hasAuthor "Ionut" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_31 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Le voi purta eu" ; :hasAuthor "Rasvan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_32 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu sunt chiar atât de călduroși. Impermeabilitatea lasă de dorit și se alunecă foarte ușor cu ei. Aderență zero." ; :hasAuthor "Laurențiu" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8367614_34 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O achizitie foarte buna" ; :hasAuthor "Virgil" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_35 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Se merita, comode , nu intra apa, sunt bune" ; :hasAuthor "Ştefan Alexandru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_36 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Suntem deja la a doua pereche" ; :hasAuthor "Maria Magdalena" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_37 rdf:type owl:NamedIndividual , rev:Review ; rev:text "nu sunt cusute bine in interior spate ,ma dor picioarele de la rani!" ; :hasAuthor "DUMITRU" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8367614_38 rdf:type owl:NamedIndividual , rev:Review ; rev:text "+ marimea se potriveste<br /> + tin de cald (n-am prins mai putin de -2C)<br /> <br /> - zero confort. am simtit talpa dura din prima secunda cand i-am probat, am zis poate mi se pare, nope. pt. a stii exacct ce fel se simte sa mergeti cu ghetele astea puneti 2 pietre in orice incaltaminte si plimbati-va prin casa, exact asa se simte.<br /> -zero tractiune, daca nu e zapada moale sau ciment uscat, aluneci pana si la cel mai mic petic de apa. mai multa tractiune am in sosete.<br /> <br /> total dezamagit. ma asteptam la mai mult de la produse vandute pe Decathlon. cand ma gandesc ca vroiam sa comand si alte chestii. mi-am invatat lectia." ; :hasAuthor "ionut" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8367614_44 rdf:type owl:NamedIndividual , rev:Review ; rev:text "foarte comfortabil :)" ; :hasAuthor "Luciana" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_45 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Preț calitate ok" ; :hasAuthor "Istvan" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8367614_46 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Lack of grip, especially on wet conditions.<br /> I don’t they are suitable for medium/hard mountains trips.<br /> As for wet, they are ok, I only wore them twice in rain, in the city." ; :hasAuthor "George" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_47 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Impermeabilitate buna, insa la capitolul caldura, nu sunt grozave. Picioarele transpira in aceste ghete si nu se incalzesc deloc." ; :hasAuthor "Bogdan" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8367614_48 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt conform așteptărilor" ; :hasAuthor "Ana Cristina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_49 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Isi fac treaba foarte bine, raport calitate pret imbatabil." ; :hasAuthor "alexandru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_50 rdf:type owl:NamedIndividual , rev:Review ; rev:text "in mare parte bune<br /> in niciun caz nu sant calduroase,chiar in adidas mi-e mai cald decat in ghetele astea<br /> cel putin nu cu o pereche de sosete iarna ,la +5 grade simteam frigul" ; :hasAuthor "Iulian" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8367614_51 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Super comozi. Recomand." ; :hasAuthor "mirela" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_55 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Felicitari si mult succes" ; :hasAuthor "Claudia" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_57 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport calitate pret coprespunzator" ; :hasAuthor "Monica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_60 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Calduroase si impermeabile. Sunt peste asteptari." ; :hasAuthor "George" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_61 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Super buni pt folosirea de zi cu zi,indiferent de situatie sau sport." ; :hasAuthor "Lucian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_62 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Talpa rigidă pentru iarna , slabă aderența." ; :hasAuthor "DANIEL" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_63 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Putin mai stramte decat ma asteptam" ; :hasAuthor "Iustin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_64 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pantoful are un viciu de fabricatie ce nu se simte la proba din magazin dar in momentul in care incepi sa mergi cu el capsa ultima de pe laba piciorului din partea dreapta de la gheata aferenta piciorului drept se simte prin material si preseaza pielea iar in 30 de minute de mers poate sa afecteze pielea piciorului, gheata stanga preseaza laba piciorului la indoitura si freaca pielea piciorului intr-un mod deranjant." ; :hasAuthor "Sorin Petre" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8367614_65 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La temperaruri foarte scazute se pierde din aderenta" ; :hasAuthor "vasile" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367614_66 rdf:type owl:NamedIndividual , rev:Review ; rev:text "se transpiră mult în ele, își pierd impermeabilitatea după câteva folosiri intense, pe zăpadă, iar dacă staționezi aprox.15 minute, îngheți efectiv în ele. Raport slab calitate-preț!" ; :hasAuthor "Sergiu" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8502616_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ma simt excelent cu ei, nu alunec pe carosabil umed, sunt comozi, ma simt usor in ei, imi ofera o caldura foarte buna, nu intra deloc umezeala sau apa in ei, sunt prietenii mei la drum lung in conditii umede si reci!. Cu ei la drum nu am nici o grija despre picioarele mele, sunt uscate si calde! De asemenea, nu-mi simt deloc picioarele obosite, dupa o zi intreaga!" ; :hasAuthor "Adina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buni,nu simți frigul ,nu simți apa .sunt foarte buni" ; :hasAuthor "gheorghe" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "am cumparat a doua pereche dupa cativa ani de folosire.<br /> sunt rezistenti, comozi, sustin piciorul foarte bine." ; :hasAuthor "Stefan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte placuti si comozi." ; :hasAuthor "Ramona" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "raport corect calitate pret,dar ca de obicei,marimile sunt m mici decat cele obisnuite ( un copil cu marimea 39 tb sa isis cumper4e 41 de la Decathlon)" ; :hasAuthor "emanuela" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8502616_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu am gasit marimea exacta..." ; :hasAuthor "ATTILA CAROL" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "I am cumpărat “din inerție”, trebuia sa înfrunt o zapada venită pe neașteptate și nu ma încumetam sa dau o suma exorbitanta pe încălțăminte. Aveam de gând sa mai testez pana sa investesc in ceva “de calitate” și de durata. Ii am de doi ani și sunt extrem de mulțumită. Deși sunt femeie, ma caracterizează acești bocanci, sunt extrem de comozi, piciorul are loc de mișcare, lejeritate interioară, nu ma țin când ii închei, nu îmi amorțește piciorul (așa cum mi s-a întâmplat in bocanci Salomon, de exemplu…). In zapada nu am înghețat niciodată și impermeabilitatea este chiar reala. Ii recomand cu drag, mai ales ca eu deja comand a doua pereche :) atât de dragi îmi sunt." ; :hasAuthor "Aniana" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "02.02.2023 am primit comanda, 03.02.2023 am probat in zapada, se comporta perfect termic, impermeabilitate exact ca in descriere, aderenta perfecta pe zapada. Pe gheata am o usoara instabilitate dar nu este accentuata. Sunt multumit de achizitia facuta , nu stiam de acest brand, sper sa ma pot bucura cat mai mult timp de ei" ; :hasAuthor "Nicu Stelian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte confortabili<br /> Talpa moale<br /> Foarte călduros<br /> Recomand<br /> Raport calitate preț foarte bun." ; :hasAuthor "Liviu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "SUper faini !!" ; :hasAuthor "Calin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Băiatul meu este foarte mulțumit de ele." ; :hasAuthor "Eliza Elena" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8502616_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs foarte bun cu un pret decent." ; :hasAuthor "Roxana" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am utilizat unul la fel 3 ani si sunt multumit cu el." ; :hasAuthor "Vajda" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ii am de 2 ani, i-am purtat doar de cateva ori pentru ca sunt extrem de caldurosi. I-am purtat pe zapada cu viscol la -20 grade (-25 temperatura resimtita) si au fost perfecti. De la 0 grade in jos sunt in elementul lor. Nici la aderanta nu stau rau." ; :hasAuthor "George" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_26 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Calitate/pret, e okay." ; :hasAuthor "Catalin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_28 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sincer nu îmi mai curge nasul :))) am caldura la picioare logic!!!" ; :hasAuthor "petrovschi" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_32 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Super buni, sunt la a 3-a pereche de genul<br /> Recomand" ; :hasAuthor "Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_34 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand...la altitudine 2000m, mers 6 km prin zapada pana la genunchi, incaltamintea a ramas perfect uscata si pe deasupra si calduroasa." ; :hasAuthor "Violeta" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_36 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte călduroase, nu intră apă dar la stângul e puțin confortabil deoarece la mers apasă pe degetul mic și e destul de neplăcut. În rest le dau nota 10" ; :hasAuthor "Claudiu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_38 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pe gheata cam aluneci,dar in rest nota 10. Le-am probat la munte." ; :hasAuthor "Andrei Lucian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_39 rdf:type owl:NamedIndividual , rev:Review ; rev:text "rezista la spalat inclusiv cu jet de apa sub presine (spalatorie auto)" ; :hasAuthor "Marius" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_40 rdf:type owl:NamedIndividual , rev:Review ; rev:text "PRODUSUL ESTE OK ,CONFORM DESCRIERILOR." ; :hasAuthor "Sorin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_43 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Au rezitat excelent la aventurile prin mormanele de zapada iar aderenta a fost excelenta, alunecand putin pe stratul proaspat de omat.<br /> <br /> In consecinta produsul a fost excelent si la un pret atractiv :)" ; :hasAuthor "Constantin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_44 rdf:type owl:NamedIndividual , rev:Review ; rev:text "un produs foarte bun" ; :hasAuthor "Nicoleta" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_45 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bocancii sunt călduroși, confortabili, cu o foarte buna amortizare, rezistenți la umezeala. Precizez ca am făcut o tura de mers la munte prin zăpada pana dincolo de genunchi pentru vreo 7 ore.<br /> Eu i-am prins la oferta iar raportul preț calitate excelent." ; :hasAuthor "Paul George" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_46 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Dupa doar 3 saptamani de purtare peretele exterior al papucului s-a rupt in locul unde se pliaza talpa, inpartea de jos a șiretului. Pur si simplu s-a gaurit cu totul. S-au folosit in oras si nu au intrat in contact cu obiecte care sa-i poata deteriora." ; :hasAuthor "laurentiu" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8502616_49 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand pasionatilor de drumetii!!!" ; :hasAuthor "Arpad" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_50 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pentru drumetii cea mai Buna optiune.<br /> Plasa cosului de baschet rezistenta la interperii." ; :hasAuthor "Tudor" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_51 rdf:type owl:NamedIndividual , rev:Review ; rev:text "calitate buna la pret ok" ; :hasAuthor "Robert" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_52 rdf:type owl:NamedIndividual , rev:Review ; rev:text "foarte confortabil, cald, dar pe gheata aluneca foarte tare." ; :hasAuthor "Levente" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8502616_53 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt de o calitate buna" ; :hasAuthor "Alexandru" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8604707_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "S-au îndoit foarte tare după prima săptămână de utilizare.Nu recomand." ; :hasAuthor "Manuela" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8782848_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Mulțumit si le-am achiziționat la un preț bun din oferta Decathlon. Am reusit deja să mă dau de câteva ori cu acestea 👍👍🥰" ; :hasAuthor "Corneliu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8503775_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am de aproape 3 ani perechea, i-am purtat pe drumuri accidentate, prin zapada, noroi, pietre, la munte si inca arata si se comporta ca noi. I-am cumparat la viteza, altele aveam de luat din magazin si nu m-am documentat dar s-a dovedit ca sunt ok. Azi am vazut ca in pozele de pe site arata mult mai bine decat in realitate. De fapt, pielea e piele intoarsa. Dar nu mi-a intrat apa, sunt comozi... asa de comozi ca pot conduce masina cu ei, sunt caldurosi, izoleaza bine.<br /> <br /> Nu imi place ca atunci cand le leg sireturile pe ultimele 3-4 randuri de sus au capse si trebuie mereu sa crosetez traseul sireturilor... in loc sa treaca prin imele normale. E un aspect enervant si dureaza cam mult sa ii incalt. Felul in care sunt gandite sireturile strica toata experienta de a ii incalta. Tot confortul simtit de talpa dupa ce intra laba piciorului corect in incinta, brusc se darama cand incepe procesul anevoios de 3-4 minute de crosetare... din nou si din nou... a unor banale sireturi. Capsele alea intelegeam sa fie pe ultimul rand, dar nu pe ultimele 4 randuri, sa tot stau sa infasor si sa trag si sa incrucisez si sa impletesc si sa nu nimeresc capsa corecta si sa mai incerc odata si sa mai trag si sa mai infasor si sa mai incrucisez si tot asa de taie toata placerea!!! <br /> Intentionam sa dau 4 stele pt. asta dar acum ca mi-am adus aminte, dau 3, mai ales avand in vedere si pretul." ; :hasAuthor "dragos" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8503775_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Comozi și foarte stabili" ; :hasAuthor "Mihai" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8365825_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "i-am luat tot ca recomandare" ; :hasAuthor "Nicolae" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8365825_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "The productvdoes look and feel very good. Maybe a little stiff, but it’s rather new so that’s ok.<br /> The size is quite small. I wear 43,5 but ordered a 44 and seems thatvthey are an exact fit or maybe even a bit small, for me.<br /> What i don’t like about the shoes is the colour. Here on the site is one colour in reality they are not brown but rather a darker shade of grey.<br /> Quality is overall good, but minor visual defects from glue-ing the sole and stuff like this." ; :hasAuthor "Alvin" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8365825_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport calitate-pret foarte bun. Pielea exterioara eleganta, dar ușor sensibila pentru zonele cu vegetație agresiva. Talpa foarte aderenta." ; :hasAuthor "MARIUS" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8365825_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Multumit de produs" ; :hasAuthor "ADRIAN" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8365825_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport pret calitate foarte bun" ; :hasAuthor "ZSOLT" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8365825_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ii folosesc in oras. Multumit de produs. Singurul minus e ca talpa e din cauciuc destul de rigid care la umezeala si pe suprafete luciase aluneca ..." ; :hasAuthor "EUGEN" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8365825_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Comozi și călduroși." ; :hasAuthor "DRAGOS" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8365825_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand cu căldură, ghetele au un raport bun calitate preț, sunt din piele, sunt impermeabile, comode și arată foarte bine. Sunt mulțumit de produsul ales." ; :hasAuthor "Nicolae" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8365825_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La scurt timp au sărit capsule de la șireturi ! <br /> Nu recomand acest produs!" ; :hasAuthor "Cristian" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8365825_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buni pe 'offroad  (pamant si pe vegetatie), in oras aluneca insa putin pe asfaltul/cimentul ud." ; :hasAuthor "Ionel" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8365825_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Dețin o pereche mărimea 45 pe care i-am purtat intensiv in medie 5 zile pe săptămână, timp de 2 ani, pe conditii de iarna, vara,. iarba uda, la cosit, tură pe munte de cca 30 de km, cu bicicleta, au dormit pisicile pe ei :) Au fost putini strâmți, eu port 46 in mod normal, dar au mai cedat în timp. <br /> Incă sunt funcționali, au cedat puțin cusăturile dar incă nu iau apă. <br /> Am cumpărat a doua pereche după 2 ani, de data asta mărimea 46. sa se mai fabrice, voi mai lua probabil peste 2 ani. cei vechi mai sunt inca buni de drumuri zilnice, apoi probabil pentru lucru in gospodărie" ; :hasAuthor "Maximilian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8365825_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este un bocanc bun,destul de ușor,nu trece apa prin el,atata doar ca numarul nu corespunde,de ex. 44 este 43.Recomand !" ; :hasAuthor "Petru" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8365825_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Transpir foarte tare în acești bocanci." ; :hasAuthor "valentin" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8365825_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nimic de adăugat" ; :hasAuthor "Daniel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8365825_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Usori si potriviti pe forma piciorului" ; :hasAuthor "Ramona" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8365825_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "CArligul pt siret in caz de strangere normala se lasa intro parte (spre interior) si poate jena piciorul. Daca nu se strange tare nu reprezinta o problema." ; :hasAuthor "Ferencz Andras" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8365825_21 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Călduroși, comozi, rezistenți la apa , foarte ușori in picioare , foarte mulțumit cost calitate preț." ; :hasAuthor "Bogdan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8365825_22 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Incaltaminte foarte rezistenta si comoda.Buna si pe teren dar si in oras.O sa vedem si cum se comporta in timp.Recomand ." ; :hasAuthor "Marcel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8554922_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt impresionat de calitatea bocancilor, un pic chiar prea ridicat pentru cum mi-am imaginat sa-i folosesc. Mai exact in primele zile i-am purtat in oras ca sa ma acomodez cu ei si nu sunt chiar confortabili, fiind putin cam grei, super rigizi in talpa, calcaiul parca prins intr-un cleste ca in claparii de schi si foarte-foarte caldurosi. Plus de asta nu puteam sa scap de un punct in care ma apasau pe glezna dreapta - sigur problema mea, la piciorul stang nimic de genul. Toate aceste probleme au disparut la prima tura serioasa de mers ore in sir in zapada de 30-40cm si un pic pe pietris/noroi/stanci. Faptul ca n-am simtit absolut nicio infiltratie nici nu mai vine ca o surpriza. De atunci i-am mai avut de cateva ori in picioare tot la munte, tot in zapada si tot n-am de ce sa ma plang. Am si condus cu ei, sunt OK. Deci bocancii fac exact ce promit si chiar mai mult, insa sunt de folosit in conditiile respective ca sa nu devina PREA MULT. Talpa s-a mai lasat din rigiditate (1-2% fata de total rigid), stramtoarea din fata clar a disparut, clestele de la calcai deloc, tine si acum piciorul ca un clapar." ; :hasAuthor "Tamas" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8554922_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt impermeabili, rezistenți, de buna calitate, în foarte tapeni. Nu poți sa îndoi piciorul. După o drumeție pana la Susai ma dureau picioarele.... Cea mai proasta cheltuiala." ; :hasAuthor "Alexandru" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8554922_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "De acești bocanci sunt satisfăcut pe măsură pretențiilor mele, deoarece fac ture la munte cât pot de multe și anotimpuri diferite. Sunt mândru că îi fabricăm in Romania. Au talpa rigidă,însă este normal la acest model. Închiderea și deschiderea bocancului se face lejer. Îi recomand deoarece produsul(calitate,preț)este de apreciat și achiziționat. Nu uitați că întreținerea lor este importantă pentru o viață cât mai lungă." ; :hasAuthor "marius" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8554922_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am fost indus in eroare de fotografii și descriere. Am crezut ca este un bocanc de vara / vreme calda. Când mi-au ajuns (comandați online), și i-am probat, am văzut ca sunt extrem de călduroși, deci sunt bocanci de iarna - maxim primăvara-toamna in zile foarte reci. <br /> Cum din păcate clima noastră e exagerat de calda și eu mai am 4 bocanci de iarna care așteaptă zadarnic zăpada, a trebuit sa-i returnez. <br /> Altminteri, impresia despre bocanc ar fi fost extrem de pozitiva din toate punctele de vedere." ; :hasAuthor "Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8554922_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Impermeabilitate buna (deocamdată ), talpa cam rigida (pentru plimbări scurte )<br /> Alegeți fara dubii mărime mai mare. Daca pentru Trek 100 Nr 42 erau buni, pentru acestia sunt fix.Calapod îngust (sunt cam strâmți pentru lățime 100mm) dar văd că se mulează pe picior in timpul purtării. Pe urcări trebuie sa te joci cu șireturile pentru a nu deranja . La urcări mai abrupte simt presiune la calcai când tinde să se ridice (zona interioara de calcai e rigidă și nu prea are material moale). <br /> Aderenta foarte buna, chiar și pe piatra umeda . Pe grohotiș rigiditatea ajuta, talpa piciorului fiind bine protejata. <br /> Pot sa zic că sunt niște bocanci pe care ii alegi in cazul unor trasee mai dificile, altfel greutatea (830 gr / buc pentru mărimea 42) și rigiditatea sunt un dezavantaj. Folosiți în 2 ture de aprox 15 km, prin noroi , pădure umeda , pietre ude." ; :hasAuthor "BOGDAN" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8554922_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un pic mai stramti si mai mici decat ma asteptam ." ; :hasAuthor "Viorel" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8554922_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Salutare!<br /> Recomand acest produs cu drag,insa nu recomand o folosire intensa in mediu umed deoarece dupa ce se usuca se strang prea tare pe picior,,,dureaza circa o ora de utilizare pana isi revin din rigiditate." ; :hasAuthor "MARIAN" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8554922_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "1: Este un produs ROMANESC ceea ce ma face mandru, ca stim sa facem si noi bocanci (cum se faceau  odata ). Adrenta foarte ok, foarte misto talpa semirigida (mai ptuin pe asfalt) - desi nu eram adeptul, daca nu mergi iarna cu coltari. Impermeabilitate foarte buna, am trecut prin apa cu ei de doua ori, Testat si pe zapada, piatra uda, iarba uda, printre blovani, etc. Se comporta excelent de fiecare data. Pentru mine si pentru traseele facute de mine (medii) sunt excelenti." ; :hasAuthor "Adrian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8352452_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs calitativ confortabil este ce trebuie 👍👍" ; :hasAuthor "George" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8352452_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt mulțumit de achiziția făcută , nota 10<br /> Felicitări dechatlon ,pentru produsele voastre !" ; :hasAuthor "ovidiu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8352452_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sub toate aspectele excelent." ; :hasAuthor "Leonte" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8352452_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt comode, bine realizate si rezistente. Trebuie purtate cu sosete lungi sau pantaloni, pentru a nu provoca rani deasupra gleznei. Le recomand pentru cei care, ca si mine, practica echitatia ca si hobby, ocazional." ; :hasAuthor "Elena" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8625196_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am fost neplacut surprins ca pe piatra umeda aluneca in mod periculos. Este prima pereche de ghete/incaltaminte de drumetie care patineaza pe piatra uda." ; :hasAuthor "Marius" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8553119_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte confortabil, călduroși, buni la munte și peste tot, buni la mers lung, impenetrabili 100%<br /> Contra - nu prea respiră piciorul dar nu-i rău, depinde de persoană." ; :hasAuthor "Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ușori si comozi. Asigură protecție împotriva apei. Stabilizează bine gleznele." ; :hasAuthor "Stelian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pt mine nu au fost OK. După 12 ore de mers pe munte am făcut bataturi" ; :hasAuthor "Aleodor" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8553119_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte buni pt plimbari pe munte" ; :hasAuthor "Dorin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparat acum 5 ani bocanci asemanatori si inca sunt foarte multumit de ei. I-am incaltat atat vara cat si iarna, defapt in toate anotimpurile. Merg la pescuit cu ei si sunt multumit ." ; :hasAuthor "Robert" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Daca va prinde o torentiala, ati face bine sa va adapostiti cit de repede posibil. Eu am stat cu ei intr-o ploaie mocaneasca de vreo 4 ore si deja incepusera sa se umezeasca la interior. In principiu sint comozi, dar dupa citeva ore incep sa ma doara talpile. Utilizarea unor branturi soft/cu memorie ar putea rezolva problema. Privind marimea, am cumparat 44 si imi vin ok, desi la adidasi/pantofi port 43 fara probleme. Lipiturile cam lasa de dorit, dar se putea si mai rau. Per total, avind in vedere pretul, cred ca sint acceptabili cu un plus mic la sfirsit. ;)" ; :hasAuthor "Codrut" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8553119_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport pret-calitate f. bun pt. acest tip de bocanci dedicati pt. drumetii montane." ; :hasAuthor "Cristian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trebuie sa schimb pe mai mare. E intre numere" ; :hasAuthor "Claudiu Petru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cumparati si nu veti regreta" ; :hasAuthor "Gigi" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Confortabili, căldurosi si cu adetenra buna la sol. Oferta sustinere si fixare gleznei, dar in acelasi timp sunt flexibili. Foarte multumit." ; :hasAuthor "Emil" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Excelează prin durabilitate !Penultima pereche a ținut 5 ani cu o frecventa moderată de ieșit pe munte aprox de doua ori pe săptămână minim 15 km tura" ; :hasAuthor "Sandel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Excelenți. Foarte usori, foarte confortabili sunt perfecți." ; :hasAuthor "andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte mulțumit de papuci" ; :hasAuthor "Iulia" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am folosit acești bocanci la o drumeți de 4h.. (Grohotis +pietre... Vegetație) .. , sunt mulțumit de ei pentru prima ieșire... Vedem pe viitor..." ; :hasAuthor "Florin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Quality mid boots for the orice. Very good grip on sharp rocks" ; :hasAuthor "Bercea" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8553119_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt mulțumit de produsul achiziționat, respectiv Bocanci mid impermeabili Drumeţie la Munte MH100 Negru Bărbați QUECHUA." ; :hasAuthor "Vasile" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8553119_27 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Punctul lor forte este comoditatea și ușurimea. Talpa are aderență foarte bună. I-am testat și, într-adevăr sunt impermeabili. Cred că își merită banii!<br /> Zic că sunt și aspectoși." ; :hasAuthor "Doru Alexandru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_29 rdf:type owl:NamedIndividual , rev:Review ; rev:text "își fac treaba pe traseu usor, mediu, dificil zic bine, însă la prima ploaie prinsa pe munte mi a intrat apa la greu, deși ii protejam cât de cât și cu o pelerina de ploaie lunga, cât și cu parazăpezile. deci pentru practica ocazionala buni, cu condiția sa nu te prindă ploaia :)." ; :hasAuthor "Mihai Adrian" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8553119_30 rdf:type owl:NamedIndividual , rev:Review ; rev:text "I-am folosit doar o dată la munte și m-a prins și ploaia. 🙂<br /> Confortabili, ușori, aderență bună. Impermeabili doarpână intri în iarba udă 😁" ; :hasAuthor "Eusebiu" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8553119_31 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am purtat toata iarna acesti pantofi, n-am avut nici un fel de problema cu frigul sau cu apa. Sunt usori fata de ce aveam eu inainte, sunt usor de intretinut si cel mai important e ca poti merge oriunde cu ei. Excelenti!" ; :hasAuthor "Adrian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_33 rdf:type owl:NamedIndividual , rev:Review ; rev:text "F buni de drumeții montane" ; :hasAuthor "Mariana" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_34 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bocani pentru drumetie destul de bune, si confortabile (dupa cateva kilometri putin e iritant la glezna, dar cred ca asta depinde si de persoana). Foarte bun si pe teren cu stanci/pietre, avand talpa chiar numai atat de tare sa nu simti toate pietrele ascutite iar varful este intarita ceea ce ofera o siguranta mai sporita.<br /> Raport pret/calitate destul de bun." ; :hasAuthor "Mihaly-Zsolt" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8553119_38 rdf:type owl:NamedIndividual , rev:Review ; rev:text "multumit de achizitie , impermeabili si caldurosi... isi merita banii" ; :hasAuthor "Cornel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_39 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu am nimic de comentat!" ; :hasAuthor "Bogdan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8553119_41 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ok insa nu sunt impermeabili." ; :hasAuthor "cristina" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8553119_42 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport calitate preț peste așteptări." ; :hasAuthor "FLORENTINA" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8550247_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte comfortabili si caldurosi" ; :hasAuthor "Dragan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8550247_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am urcat Vf Pietrosu cu ei la prima purtare , 2303 m aprox 9 ore.Confortabili și au o aderenta f buna ." ; :hasAuthor "Florentin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8550247_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte mulțumit de acest model: aderența pe pietre este foarte bună, sunt rezistenți la apă, iar lățimea puțin mai mare față de alte modele de bocanci oferă un plus de confort celui care urcă pe munte." ; :hasAuthor "Alexandru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8503783_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Confortabili si de calitate!" ; :hasAuthor "Edmond Gabriel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8503783_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Au aceeași problemă la fel ca alte produse Decathlon: talpa are aderență foarte scăzută pe suprafețe ude. Pur și simplu aluneci ca pe ghiață pe pietre ude. Altceva: apa trece ca prin brânză prin pielea întoarsă. O plimbare prin iarbă udă și vă faceți fleoașcă la picioare." ; :hasAuthor "Tudor" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8503783_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "am purtat primul model , si pot spu e ca modelul bou difera mult.<br /> pro:<br /> +In primul rand materialul difera , asta poate inseamna o calitate mai buna.<br /> +Pret calitate.<br /> +Tractiune.<br /> <br /> contra:<br /> -Materialul de deasupra produsului care ar putea fi piele apasa pe laba piciorului. efectul fiind producerea unei dureri din cauza ca vena labei este tinuta in presiune ( cei care port ghete de protectie stiu la ce ma refer). Aceasta apasare dispare in timp.<br /> <br /> <br /> p.s recomand !" ; :hasAuthor "Valentin" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8503783_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Mulțumit de produs." ; :hasAuthor "Constantin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8503783_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand cu drag" ; :hasAuthor "Cristina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8503783_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Calitate si confort" ; :hasAuthor "Sergiu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Singurul minus este ca nu sunt cei mai comozi.dar in rest își fac treaba perfect" ; :hasAuthor "Adrian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs ok pentru drumetie pe vreme uscata in anotimpul rece .<br /> <br /> Din pacate trebuie sa spun ca sunt tare nemultumit in legatura cu impermeabilitatea prodsului, o plimbare prin roua diminetii sau prin iarba mai mare in zile ploioase se lasa cu sosete ude... Am si alti bocanci de la Decathlon mai ieftini care au o impermeabilitate mult superioara . De asemenea atentie , nu se pot folosii cu parazapezi !<br /> <br /> Am sa-i pastrez oricum si o sa-i port pe vreme rece dar uscata ." ; :hasAuthor "RAZVAN-ANDREI" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8319097_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte buni si caldurosi" ; :hasAuthor "Antonio" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Opinia mea nu are legatura cu produsul, de produs am fost foarte multumiti. Stim ca nu oferiti cutii pentru papucii achizitionati, insa ati putea pune in pretul produsului si costul unei cutii. Avand o familie numeroasa imi este comod sa depozitez papucii in cutii in functie de sezon si cred ca e ok pentru atragerea clientilor. Un client care nu doreste sa cumpere o punga cand achită produsul rămâne să mearga cu papucii in mână să facă alte cumpărături în spatiul comercial. Cel putin asa am patit noi cu acesti papuci(care sunt calitativi-nimic de reprosat), insa pentru pretul lor mai bine mai adăugați 10 lei și să îi oferiți în cutie la vânzare." ; :hasAuthor "Catalina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand pentru drumetii medii in sezon de toamna si primavara." ; :hasAuthor "Labancz" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport pret-calitate excelent." ; :hasAuthor "Aurelian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "I-am utilizat timp de aproximativ 8 ore in mediu umed,ploaie si noroi... După 8 ore eram încă uscat la picioare." ; :hasAuthor "DORU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand. I-am folosit pe zăpadă pe M. Ceahlău." ; :hasAuthor "Serafim" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cumparati in 2020. Acum au inceput sa nu mai reziste la umezeala, pe langa faptul ca au fost intretinute. Un plus la acesti bocanci este fptul ca sunt inalti, poti trece cu usurinta prin paraie nu prea adanci. Aderenta este buna la ses si in zona de deal, dar nu pe teren accidentat. Eu la-m folosit intensiv, am tras de ea, in drumetii lungi, si am fost multumit in mare parte." ; :hasAuthor "Robert" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8319097_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt rezistenți, eu îi folosesc aproape zilnic în medie 10 km/zi și mă țin un an. După un an își pierd impermeabilitate, crapă spre vârf unde se flexeaza la mers, iar spre final se dezlipește talpa. Am avut ghete de la multe firme, dar aceștia sunt cei mai rezistenți." ; :hasAuthor "Ganea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Neasteptat de confortabil" ; :hasAuthor "Daria Laura" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "L-am folosit 4 zile si s-a stricat (a fost inlocuit)" ; :hasAuthor "Miklos" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8319097_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Mulțumit de Bocanci înalți din piele Impermeabili" ; :hasAuthor "Andrea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "sunt la a doua pereche, nu au niciun defect, le-am inlocuit pur si simplu pentru ca am mers cu ele pana s-au tocit 2 straturi de talpi si alunecam peste tot.. m-au tinut 3 ani de drumetii, mers pe iarna, vara, toamna, ploi, munti, pietre ascutite, namol, toate nenorocirile. Le-am intretinut cu mink oil pt impermeabilitate si le-am curatat cu peria. in rest, le-am schimbat sireturile dupa 1 an si talpa interioara cu una tot de la decathlon numita WALK 500 GEL. Talpa interioara originala e cam basic, in rest, 10/10, de lasat la nepoti." ; :hasAuthor "Mihai" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cald . Aderența.Impermeabili.Foarte utili ." ; :hasAuthor "Costel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "299 lei ok" ; :hasAuthor "MARIAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_28 rdf:type owl:NamedIndividual , rev:Review ; rev:text "mie mi se pare prea rigizi si ma jeneaza in fata, am incercat cu tot felul de sosete si degeaba. sunt suparat, vreau altii" ; :hasAuthor "ALIN" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8319097_31 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Purtati 2 luni de iarna. Nu am ce sa le reprosez.<br /> Ma ingrijoreaza celelalte reviewuri despre talpa." ; :hasAuthor "ALEXANDRU" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8319097_32 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Extraordinar de trainici si de buni.La pretul asta nu gasesti nimic pe piata care sa te tina atat si sa fie atat de buni.Jos palaria Decathlon" ; :hasAuthor "Petru Florin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_33 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am mai avut o pereche identică." ; :hasAuthor "Ovidiu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_34 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Va multumesc pentru calitatea produselor si seriozitate ! Cu respect , Emanoil" ; :hasAuthor "EMANOIL" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_35 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bocanci comozi. Corespunzator asteptarilor." ; :hasAuthor "Iuliana Agota" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_36 rdf:type owl:NamedIndividual , rev:Review ; rev:text "rezistenti , comozi" ; :hasAuthor "Radu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_37 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand cu încredere, sunt rezistenți." ; :hasAuthor "Silvia" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_38 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Excelenti. Merita achizitionati." ; :hasAuthor "Monica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8319097_40 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumpărat in 2020 o pereche, pe care am utilizat-o până s-a tocit talpa, astfel că in luna ianuarie 2022 mi-am cumpărat altă pereche, cu care am parcurs poate 1900 km pe munți (conform pedometrului).<br /> Rezultatul ? S-A TOCIT TALPA !!!" ; :hasAuthor "horea" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8583344_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "In sfârșit mărimea 40 care nu ma strânge" ; :hasAuthor "Adrian Ionut" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8583344_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Mulțumit în raport cu pretul" ; :hasAuthor "Romeo" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8583344_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buni si usori. Recomand." ; :hasAuthor "Roxana" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8583344_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs de calitate ,preț accesibil" ; :hasAuthor "Balcu" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8583344_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "e f ok acest bocanci pt drumeție" ; :hasAuthor "Norbert" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs excelent care merită achiziționat , un produs de calitate conform așteptărilor" ; :hasAuthor "Ecaterina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Călduroase...Foarte bune pe timp de iarnă." ; :hasAuthor "ALEXANDRU IONUȚ" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt ok, calduroase" ; :hasAuthor "Laurentiu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Excelent, raport pret calitate bun" ; :hasAuthor "Francisc - Ioan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Chiar sunt de nota 10! Calduroase, confortabile, le folosesc in general pentru plimbari pe munte, mers la schi si sanius, bulgarit si construit castele de zapada...chiar sunt foarte foarte calduroase, piciorul ramane 100% uscat si cald! RECOMAND !!!" ; :hasAuthor "MARIUS ALEXA" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs de calitate la un preț bun !" ; :hasAuthor "Octavian Florin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs excelent! Sunt la a doua pereche comandata." ; :hasAuthor "ILIE" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Se potriveste foarte bine si este confortabil." ; :hasAuthor "Andras" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Călduroase ,ușoare și foarte comode" ; :hasAuthor "mihaela" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produse de calitate" ; :hasAuthor "iulian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_21 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La bugetul acesta sunt excelente ! Am o pereche cumparata acum 3 ani, purtata aproape zilnic incepand din noiembrie si pana in martie, aprilie, care arata foarte bine si care mai merge purtată cel putin inca 2 ierni si am mai cumpărat o pereche sa fie rezerva pt ca sunt prea bune si rezistente ! Felicitari producatorului si Decathlon !" ; :hasAuthor "Gabi" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bune intr-o iarna grea!" ; :hasAuthor "Laura" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Călduroși, impermeabili și comozi. Recomand cu încredere!" ; :hasAuthor "MARIUS" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_26 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs conform așteptărilor. Recomand" ; :hasAuthor "Mircea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_27 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Deocamdată sunt bune. Vom vedea pe viitor cum se comporta." ; :hasAuthor "Adela Beatrix" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_30 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte slab .." ; :hasAuthor "LIZA" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8367617_31 rdf:type owl:NamedIndividual , rev:Review ; rev:text ".... până acum toate produsele cumpărate au super de bune!!!!" ; :hasAuthor "Ionel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_32 rdf:type owl:NamedIndividual , rev:Review ; rev:text "super calduroase, impermeabile, foarte comode" ; :hasAuthor "Martina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_34 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ghete de iarna foarte bune daca te miști!<br /> Cat de cat impermeabile, transpir cam mult în ele dar per total sunt ft bune! Îți faci treaba" ; :hasAuthor "Eduard" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_35 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu ma asteptam. Sunt foarte ok. Sunt lejeri, caldurosi, inalti. De obicei ini luam ghete sau cizme din piele dar sunt f.multumit de produs. Usor de curatat cu o carpa umeda." ; :hasAuthor "Gabriel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_36 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte utile in aceasta perioadă de iarnă. La început au fost puțin mai rigide la îndoit piciorul dar acum sunt foarte comode și confortabile" ; :hasAuthor "TEODOR SERBAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_37 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs ok, conform asteptarilor" ; :hasAuthor "CRISTINA" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_40 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs foarte bun si adecvat sezonului de iarna. Călduroase, design modern si plăcut, ușor de purtat. Produs conform cu imaginile afisate pe site." ; :hasAuthor "Sonia-Maria" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8367617_41 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt OK, însă au o problema la călcâi. Este a doua pereche in 2 ani și se deteriorează la spate, de la călcâi in sus spre glezna. Acest defect deteriorează și șosetele bineînțeles.<br /> Daca ați remedia acest aspect ar fi perfect!" ; :hasAuthor "Raluca" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8367617_42 rdf:type owl:NamedIndividual , rev:Review ; rev:text "FIX CE TREBUIE PENTRU ZAPADA" ; :hasAuthor "ADINA MINODODRA" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8560076_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt bocanci confortabili, rezistenți la lovituri și zgârieturi, impermeabili,eu ii folosesc prin zăpadă și apă și sunt mulțumit de ei, merită să îi aveți!" ; :hasAuthor "Constantin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8560076_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte călduroși și confortabili. Ușor de întreținut." ; :hasAuthor "Viorel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8595306_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte faini si buni" ; :hasAuthor "Nicolae" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8595306_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte confortabili, caldurosi si cel mai important chiar sunt impermeabili." ; :hasAuthor "Costea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8595306_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Versatili,adaptabili pe orice teren(plaja cu bolovani,padure,zapada)" ; :hasAuthor "silviu cristinel" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8595306_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs bun." ; :hasAuthor "Cristian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8595306_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Super super mulțumită, calitate bună, caldurosi și chiar recomand." ; :hasAuthor "Steliana" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8595306_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La temperatură apropiată de limita de ingheț și fără prea multă mișcare datorită așteptării în post, la vânătoare, frigul și-a făcut destul de bine prezența." ; :hasAuthor "Andrei" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8595306_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bocanci caldurosi, lejeri si impermeabili. Purtati impreuna cu sosetele calduroase de la Solognac, ACT500, asigura piciorului caldura si confort indiferent de vreme." ; :hasAuthor "Adrian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8595306_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Să se facă și jumătăti de nr. Pt cei cu piciorul lat.<br /> Exemplu: 40 ,1/2" ; :hasAuthor "Marius" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8667209_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport calitate-pret foarte buni. Caldurosi si impermeabili. Fac ce au promis" ; :hasAuthor "Nicoleta" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8641977_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "folosit la vremea de afara si se comporta bine. fara reprosuri pana acum." ; :hasAuthor "Leonard" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8641977_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ii poată fiul meu de 16 ani, e multumit, i-a purtat pe vreme rece de -10°C, cu ploaie sau zapada de 30cm si nu au fost probleme cu impermeabilitatea sau caldura." ; :hasAuthor "DIANA" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8641977_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Usor dure primele zile dar izoleaza bine de frig si maleabile. Confortabile" ; :hasAuthor "Ovidiu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8641977_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt extrem de mulțumit de aceste ghete din piele, sunt minunate și foarte confortabile." ; :hasAuthor "Radu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8674464_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Dau 4 stele deoarece au venit într-o pungă in loc de cutie. In rest sunt ok, conform descrierii și de calitate. Firma spune tot in acest caz." ; :hasAuthor "ANDREI" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8501910_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buni pentru drumetii" ; :hasAuthor "POP" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8546262_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs foarte bun" ; :hasAuthor "Baleanu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8546262_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am fost pe Piatra Craiului in zapada pana la genunchi 5 ore la -15 grade in urma cu 2 zile. Foarte caldurosi si nu am avut probleme cu patrunsul zapezii. Aderenta depinde .. pe gheata nicio talpa nu e ok probabil. Cel din comentariul anterior, care zice ca i-au inghetat degetele, probabil ca iti trebuia un numar mai mare. Daca sunt ficsi, clar ingheti." ; :hasAuthor "Mihai" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8546262_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "👍 Recomand, am avut o pereche și am înlocuito după 4 ani și 3 ierni fără probleme." ; :hasAuthor "Rizea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8546262_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparat acest ghete de la decathlon Targu Mures in decembrie dar nu merita banii,degetele a inghetit,in 30 minute la munte.nu stiu de ce scrieti pe raft ca e bun pana la -19° grade.E bun pana la -2°" ; :hasAuthor "Csaba" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8546262_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt perfecte pentru plimbari pe zapada in oras sau la un light hike. Nu m-as duce cu ele pe munte. Talpa e de 2 ori mai moale decat a unui bocan de trekking/mountaineering. Pe gheata si zapada intarita e nevoie de altceva." ; :hasAuthor "Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8546262_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O pereche perfectă de ghete de munte. Ușoare, călduroase, rezistente la umiditate și suficient de aderente. Cam tot ce îți poți dori de la o pereche de ghete de munte, mai puțin etichetele aferente brandurilor renumite. Pentru performanțe similare, se poate plăti aproape dublu la un brand cu figuri, un fel de Duster: cinstit și eficient !" ; :hasAuthor "Flavius Ioan Adrian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8546262_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bine lucrate, îndeplinesc toate cerințele penrru care au fost create" ; :hasAuthor "Bogdan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand foarte bun" ; :hasAuthor "nicolae-marin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte călduros și impermeabil" ; :hasAuthor "Attila" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bocanci confortabili, rezistenti!" ; :hasAuthor "Dragos" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La inceput mi s-au parut ficsi, talpa fiind cam rigida la utilizare pentru prima data. In timp, se lasa si sunt foarte ok. Par rezistenti, recomand!" ; :hasAuthor "Ionut Alexandru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte rezistenti și chiar rezista la apa, o zi intreaga prin zăpadă, ploaie și umezeala, nu a trecut apa deloc." ; :hasAuthor "Valentin Alexandru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte rezistenti,purtați în fiecare zi la lucru in construcții." ; :hasAuthor "ADINA PETRONELA" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8281598_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Perfecți pentru plimbări medii pe dealuri cu vegetație joasă și tufe ori zone împădurite. Se comportă bine pe iarbă, noroi, pietriș, zăpadă înghețată. Călduroși și comozi, chiar și când stai pe loc mai mult timp.Nu sunt foarte silențioși, lasă un scârțâit specific mai ales pe pietriș." ; :hasAuthor "Mihai" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte confortabili și caldurosi." ; :hasAuthor "Mihai" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt confortabili, rezistenți și chiar arată bine.Recomand!" ; :hasAuthor "Marian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Îl utilizez zilnic la pădure. Comfortabil, chiar şi 8-10 ore pe zi. Rezistent la spini, rouă, noroi." ; :hasAuthor "bokor" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8281598_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buni rezistenți la munca de la țară" ; :hasAuthor "Maria Gabriela" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text "la interior materialul folosit este slab calitativ brantul de pe talpa este prea subtire, parti bune ar fi ca se curata usor au inaltime buna sint caldurosi la temperaturi de -4 plus 6grade la temperaturi mai scazute nu prea ajuta cred ca se poate imbunatati asta o sa vad in timp cit de rezistenti sint" ; :hasAuthor "felician" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review8281598_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu iti ingheata piciorul in ei, nu iau apa." ; :hasAuthor "daniela" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte geriatrie și incomozi." ; :hasAuthor "Andreea" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review8281598_26 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte multumit de acesti bocanci!" ; :hasAuthor "Victor Robert" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_28 rdf:type owl:NamedIndividual , rev:Review ; rev:text "un pic mare, port 42 si am cumparat 41, sunt la a 3a pereche, toate 3 marimea 41, comozi, usori, impermeabili, piciorul respira foarte bine" ; :hasAuthor "Valentin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8281598_30 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand, calitativ conform așteptărilor" ; :hasAuthor "Silvia" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8618656_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Inca putin folosit, dar multumit." ; :hasAuthor "Keresztes" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8618656_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "E dastul de confortabil doar putin strânge la teral" ; :hasAuthor "gergely" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8618656_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Umpic prea caldurosi pentru perioada de vara acesti bocanci. In rest, sunt multumit de ei." ; :hasAuthor "Sorin" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8377409_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotinetă superbă" ; :hasAuthor "Ianos" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8377409_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "cu toate ca este mai grea decat m-am asteptat, in rest sunt foarte multumit de achizitie" ; :hasAuthor "Giunyet" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377409_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Eu am luat-o pentru fetita de 10 ani.... 145 cm , desi e de adulti. I-a placut mult, si se descurca foarte bine pe. Am probat-o si eu si e foarte ok." ; :hasAuthor "Adriana" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377409_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "pana in 2km este foarte buna. suspensia isi face treaba.<br /> simti totusi nevoia rotilor gonflabile pe asfaltul din Bucuresti.<br /> frana merge putin cam greu dar nu prea e nevoie de ea" ; :hasAuthor "Alexandru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377409_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Perfecta achiziționata de anul trecut dar fata 15 ani nu o dorește <br /> Folosită de 4 ori <br /> 350RON" ; :hasAuthor "Magda" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review8377409_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este ușoară, mobila și are aspect frumos. Partea negativă este jocul la ghidon unde se pliază. Acel bolt are un diametru prea mic." ; :hasAuthor "alexandru" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review8377409_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Se slăbește piulița de la furcă, rulmentul circular se îndoaie și se rupe ." ; :hasAuthor "George" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review8377409_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs foarte bun" ; :hasAuthor "Lincu Petrica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+

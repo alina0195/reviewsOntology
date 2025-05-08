@@ -1,0 +1,567 @@
+:Product308470 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart Vortex V55R0213VS, Ultra HD 4K, 139cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.75 ;
+               :hasReview :Review308470_1 , :Review308470_2 , :Review308470_3 , :Review308470_4 , :Review308470_5 , :Review308470_6 , :Review308470_7 , :Review308470_8 .
+:Product281430 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED VORTEX V24TPHDE1, HD, 61cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review281430_1 , :Review281430_2 , :Review281430_3 , :Review281430_4 , :Review281430_5 .
+:Product324246 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED PHILIPS 32PHS5527, HD, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review324246_1 , :Review324246_2 , :Review324246_3 .
+:Product309877 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart Full HD Vortex V40V850S, 101cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review309877_1 , :Review309877_2 , :Review309877_3 .
+:Product312251 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor / monitor LED LG 27TQ615S-WZ, Full HD, 68 cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review312251_1 .
+:Product298052 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart VORTEX V43R0213VS, Ultra HD 4K, 109cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.090909090909091 ;
+               :hasReview :Review298052_1 , :Review298052_2 , :Review298052_3 , :Review298052_4 , :Review298052_5 , :Review298052_6 , :Review298052_7 , :Review298052_8 , :Review298052_9 , :Review298052_10 , :Review298052_11 .
+:Product303567 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor Lifestyle The Frame QLED Smart SAMSUNG 32LS03B, Full HD, HDR, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.1666666666666665 ;
+               :hasReview :Review303567_1 , :Review303567_2 , :Review303567_3 , :Review303567_4 , :Review303567_5 , :Review303567_6 .
+:Product304528 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SONY BRAVIA 43X72K, Ultra HD 4K, HDR, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.166666666666667 ;
+               :hasReview :Review304528_1 , :Review304528_2 , :Review304528_3 , :Review304528_4 , :Review304528_5 , :Review304528_6 .
+:Product303595 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor QLED Smart SAMSUNG 50Q80B, Ultra HD 4K, HDR, 125cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review303595_2 , :Review303595_3 .
+:Product303911 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor OLED Smart SAMSUNG 65S95B, Ultra HD 4K, HDR, 163cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review303911_1 , :Review303911_2 , :Review303911_3 .
+:Product304512 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor OLED Smart SONY BRAVIA XR65A80K, Ultra HD 4K, HDR, 164cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review304512_1 , :Review304512_2 , :Review304512_3 , :Review304512_4 , :Review304512_5 , :Review304512_6 .
+:Product305020 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor OLED Smart LG 65G23LA, Ultra HD 4K, HDR, 164cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review305020_1 , :Review305020_2 , :Review305020_3 , :Review305020_4 , :Review305020_6 , :Review305020_7 .
+:Product258834 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart VORTEX 32TD2070S, HD, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.636363636363637 ;
+               :hasReview :Review258834_1 , :Review258834_2 , :Review258834_3 , :Review258834_4 , :Review258834_5 , :Review258834_6 , :Review258834_7 , :Review258834_8 , :Review258834_9 , :Review258834_10 , :Review258834_11 , :Review258834_12 , :Review258834_13 , :Review258834_14 , :Review258834_15 , :Review258834_16 , :Review258834_17 , :Review258834_18 , :Review258834_19 , :Review258834_20 , :Review258834_21 , :Review258834_22 , :Review258834_23 , :Review258834_24 , :Review258834_25 , :Review258834_26 , :Review258834_27 , :Review258834_28 , :Review258834_29 , :Review258834_30 , :Review258834_31 , :Review258834_32 , :Review258834_33 , :Review258834_34 , :Review258834_35 , :Review258834_36 , :Review258834_37 , :Review258834_38 , :Review258834_39 , :Review258834_40 , :Review258834_41 , :Review258834_42 , :Review258834_43 , :Review258834_44 , :Review258834_45 , :Review258834_46 , :Review258834_47 , :Review258834_48 , :Review258834_49 , :Review258834_50 , :Review258834_51 , :Review258834_52 , :Review258834_53 , :Review258834_54 , :Review258834_55 .
+:Product308680 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart VORTEX V65R0213VS, Ultra HD 4K,164cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review308680_1 , :Review308680_2 , :Review308680_3 .
+:Product306501 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart LG 60UQ81003LB, Ultra HD 4K, HDR, 152cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review306501_1 , :Review306501_2 , :Review306501_3 , :Review306501_4 , :Review306501_5 , :Review306501_6 , :Review306501_7 , :Review306501_8 .
+:Product303230 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SONY BRAVIA 55X80K, Ultra HD 4K, HDR, 139cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review303230_1 , :Review303230_2 , :Review303230_3 , :Review303230_4 , :Review303230_5 .
+:Product303232 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SONY BRAVIA 43X80K, Ultra HD 4K, HDR, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review303232_1 , :Review303232_2 , :Review303232_3 , :Review303232_4 , :Review303232_5 , :Review303232_6 , :Review303232_7 , :Review303232_8 , :Review303232_9 , :Review303232_10 , :Review303232_11 , :Review303232_12 .
+:Product304527 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SONY BRAVIA 50X72K, Ultra HD 4K, HDR, 126cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review304527_1 , :Review304527_2 , :Review304527_3 .
+:Product305021 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor NanoCell Smart LG 65NANO763QA, Ultra HD 4K, HDR, 164cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.166666666666667 ;
+               :hasReview :Review305021_1 , :Review305021_2 , :Review305021_3 , :Review305021_4 , :Review305021_5 , :Review305021_6 .
+:Product313083 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor QLED Smart SAMSUNG 50Q67B, Ultra HD 4K, HDR, 125cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.523809523809524 ;
+               :hasReview :Review313083_1 , :Review313083_2 , :Review313083_3 , :Review313083_4 , :Review313083_5 , :Review313083_6 , :Review313083_7 , :Review313083_8 , :Review313083_9 , :Review313083_10 , :Review313083_11 , :Review313083_12 , :Review313083_13 , :Review313083_14 , :Review313083_15 , :Review313083_16 , :Review313083_17 , :Review313083_18 , :Review313083_19 , :Review313083_20 , :Review313083_21 .
+:Product301229 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor Neo QLED Smart SAMSUNG 43QN90B, Ultra HD 4K, HDR, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review301229_1 , :Review301229_2 , :Review301229_3 , :Review301229_4 , :Review301229_5 , :Review301229_6 .
+:Product291579 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart HISENSE 50A6BG, Ultra HD 4K, 127cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.9523809523809526 ;
+               :hasReview :Review291579_1 , :Review291579_2 , :Review291579_3 , :Review291579_4 , :Review291579_5 , :Review291579_6 , :Review291579_7 , :Review291579_8 , :Review291579_9 , :Review291579_10 , :Review291579_11 , :Review291579_12 , :Review291579_13 , :Review291579_14 , :Review291579_15 , :Review291579_17 , :Review291579_18 , :Review291579_19 , :Review291579_20 , :Review291579_21 .
+:Product307826 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart PHILIPS 55PUS8007, Ultra HD 4K, HDR10+, 139cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 2.0 ;
+               :hasReview :Review307826_1 .
+:Product304520 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SONY BRAVIA XR55X90K, Ultra HD 4K, HDR, 139cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review304520_1 , :Review304520_2 , :Review304520_3 .
+:Product238945 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart VORTEX V24E19DS, HD, 60cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.888888888888889 ;
+               :hasReview :Review238945_1 , :Review238945_2 , :Review238945_3 , :Review238945_4 , :Review238945_5 , :Review238945_6 , :Review238945_7 , :Review238945_8 , :Review238945_9 .
+:Product324281 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart TV SONY 32W800, HD, HDR,10 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review324281_1 , :Review324281_2 .
+:Product304783 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor QLED Smart HISENSE 43E7HQ, Ultra HD 4K, HDR 10+, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.804878048780488 ;
+               :hasReview :Review304783_1 , :Review304783_2 , :Review304783_3 , :Review304783_4 , :Review304783_5 , :Review304783_6 , :Review304783_7 , :Review304783_8 , :Review304783_9 , :Review304783_10 , :Review304783_11 , :Review304783_12 , :Review304783_13 , :Review304783_14 , :Review304783_15 , :Review304783_16 , :Review304783_17 , :Review304783_18 , :Review304783_19 , :Review304783_20 , :Review304783_21 , :Review304783_22 , :Review304783_23 , :Review304783_24 , :Review304783_25 , :Review304783_26 , :Review304783_27 , :Review304783_28 , :Review304783_29 , :Review304783_30 , :Review304783_31 , :Review304783_32 , :Review304783_33 , :Review304783_34 , :Review304783_35 , :Review304783_36 , :Review304783_37 , :Review304783_38 , :Review304783_39 , :Review304783_40 , :Review304783_41 .
+:Product308705 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart PHILIPS 55PUS7607, Ultra HD 4K, HDR10+, 139 cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review308705_1 , :Review308705_2 , :Review308705_3 , :Review308705_4 , :Review308705_5 , :Review308705_6 .
+:Product305024 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED SMART LG 65UQ75003LF, Ultra HD 4K, HDR, 164cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.25 ;
+               :hasReview :Review305024_1 , :Review305024_2 , :Review305024_3 , :Review305024_4 .
+:Product303582 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor QLED Smart SAMSUNG 65Q67B, Ultra HD 4K, HDR, 163cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review303582_1 .
+:Product311703 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor OLED Smart LG 65A23LA, Ultra HD 4K, HDR, 164cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.818181818181818 ;
+               :hasReview :Review311703_1 , :Review311703_2 , :Review311703_3 , :Review311703_4 , :Review311703_5 , :Review311703_6 , :Review311703_7 , :Review311703_8 , :Review311703_9 , :Review311703_10 , :Review311703_11 .
+:Product238306 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED SCHNEIDER 40SCHSC510K, Full HD, 100 cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.7142857142857144 ;
+               :hasReview :Review238306_1 , :Review238306_2 , :Review238306_3 , :Review238306_4 , :Review238306_5 , :Review238306_6 , :Review238306_7 .
+:Product307824 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart PHILIPS 50PUS8007, Ultra HD 4K, HDR10+, 126cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.8 ;
+               :hasReview :Review307824_1 , :Review307824_2 , :Review307824_3 , :Review307824_4 , :Review307824_5 .
+:Product305023 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor NanoCell Smart LG 50NANO763QA, Ultra HD 4K, HDR, 126cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review305023_1 , :Review305023_2 , :Review305023_3 , :Review305023_4 , :Review305023_5 .
+:Product304459 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED SCHNEIDER 39-SC410K, HD, 98cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.717948717948718 ;
+               :hasReview :Review304459_1 , :Review304459_2 , :Review304459_3 , :Review304459_4 , :Review304459_5 , :Review304459_6 , :Review304459_7 , :Review304459_8 , :Review304459_9 , :Review304459_10 , :Review304459_11 , :Review304459_12 , :Review304459_13 , :Review304459_14 , :Review304459_15 , :Review304459_16 , :Review304459_17 , :Review304459_18 , :Review304459_19 , :Review304459_20 , :Review304459_21 , :Review304459_22 , :Review304459_23 , :Review304459_24 , :Review304459_25 , :Review304459_26 , :Review304459_27 , :Review304459_28 , :Review304459_29 , :Review304459_30 , :Review304459_31 , :Review304459_32 , :Review304459_33 , :Review304459_34 , :Review304459_35 , :Review304459_36 , :Review304459_37 , :Review304459_38 , :Review304459_39 , :Review304459_40 , :Review304459_41 , :Review304459_42 , :Review304459_43 , :Review304459_44 , :Review304459_45 , :Review304459_46 , :Review304459_47 , :Review304459_48 , :Review304459_49 , :Review304459_50 , :Review304459_51 , :Review304459_52 , :Review304459_53 , :Review304459_54 , :Review304459_55 , :Review304459_56 , :Review304459_57 , :Review304459_58 , :Review304459_59 , :Review304459_60 , :Review304459_61 , :Review304459_62 , :Review304459_63 , :Review304459_64 , :Review304459_65 , :Review304459_66 , :Review304459_67 , :Review304459_68 , :Review304459_69 , :Review304459_70 , :Review304459_71 , :Review304459_72 , :Review304459_73 , :Review304459_74 , :Review304459_75 , :Review304459_76 , :Review304459_77 .
+:Product305767 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor / monitor LED LG 24TQ510S-PZ, HD, 60 cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review305767_1 , :Review305767_2 , :Review305767_3 , :Review305767_4 , :Review305767_5 , :Review305767_6 , :Review305767_7 , :Review305767_8 , :Review305767_9 .
+:Product307820 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart PHILIPS 43PUS8007, Ultra HD 4K, HDR10+, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.4 ;
+               :hasReview :Review307820_1 , :Review307820_2 , :Review307820_3 , :Review307820_4 , :Review307820_5 , :Review307820_6 , :Review307820_7 , :Review307820_8 , :Review307820_9 , :Review307820_10 .
+:Product321788 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor / monitor LED LG 24TQ510S-WZ, HD, 60 cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.5 ;
+               :hasReview :Review321788_1 , :Review321788_2 .
+:Product327350 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED SMART LG 55UQ70006LB, Ultra HD 4K, HDR, 139cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review327350_1 .
+:Product305260 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart PHILIPS 50PUS8507, Ultra HD 4K, HDR10+, 126cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review305260_1 , :Review305260_2 , :Review305260_3 , :Review305260_4 , :Review305260_5 , :Review305260_6 .
+:Product305022 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor NanoCell Smart LG 55NANO763QA, Ultra HD 4K, HDR, 139cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.818181818181818 ;
+               :hasReview :Review305022_1 , :Review305022_2 , :Review305022_3 , :Review305022_5 , :Review305022_6 , :Review305022_7 , :Review305022_8 , :Review305022_9 , :Review305022_11 .
+:Product312258 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor / monitor LED LG 28TQ515S-PZ, HD, 70 cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 0.0 ;
+               :hasReview :Review312258_1 .
+:Product330658 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart HISENSE 32A4K, HD, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review330658_1 .
+:Product298050 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED VORTEX V24R6212, HD, 61cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.883333333333334 ;
+               :hasReview :Review298050_1 , :Review298050_2 , :Review298050_3 , :Review298050_4 , :Review298050_5 , :Review298050_6 , :Review298050_7 , :Review298050_8 , :Review298050_9 , :Review298050_10 , :Review298050_11 , :Review298050_12 , :Review298050_13 , :Review298050_14 , :Review298050_15 , :Review298050_16 , :Review298050_17 , :Review298050_18 , :Review298050_19 , :Review298050_20 , :Review298050_21 , :Review298050_22 , :Review298050_23 , :Review298050_24 , :Review298050_25 , :Review298050_26 , :Review298050_27 , :Review298050_28 , :Review298050_29 , :Review298050_30 , :Review298050_31 , :Review298050_32 , :Review298050_33 , :Review298050_34 , :Review298050_35 , :Review298050_36 , :Review298050_37 , :Review298050_38 , :Review298050_39 , :Review298050_40 , :Review298050_41 , :Review298050_42 , :Review298050_43 , :Review298050_44 , :Review298050_45 , :Review298050_46 , :Review298050_47 , :Review298050_48 , :Review298050_49 , :Review298050_50 , :Review298050_51 , :Review298050_52 , :Review298050_53 , :Review298050_54 , :Review298050_55 , :Review298050_56 , :Review298050_57 , :Review298050_58 , :Review298050_59 , :Review298050_60 .
+:Product301230 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor Neo QLED Smart SAMSUNG 55QN90B, Ultra HD 4K, HDR, 138cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.75 ;
+               :hasReview :Review301230_1 , :Review301230_2 , :Review301230_3 , :Review301230_4 .
+:Product306341 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart PHILIPS 43PUS8507, Ultra HD 4K, HDR10+, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review306341_1 , :Review306341_2 , :Review306341_3 , :Review306341_4 , :Review306341_5 , :Review306341_6 , :Review306341_7 .
+:Product313081 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SAMSUNG 65AU7092, Ultra HD 4K, HDR, 163cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.75 ;
+               :hasReview :Review313081_1 , :Review313081_2 , :Review313081_3 , :Review313081_4 , :Review313081_5 , :Review313081_6 , :Review313081_7 , :Review313081_8 , :Review313081_9 , :Review313081_10 , :Review313081_11 , :Review313081_12 , :Review313081_13 , :Review313081_14 , :Review313081_15 , :Review313081_16 .
+:Product303568 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor Lifestyle The Frame QLED Smart SAMSUNG 43LS03B, Ultra HD 4K, HDR, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review303568_1 .
+:Product303504 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor OLED Smart LG 48A23LA, Ultra HD 4K, HDR, 121cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.785714285714286 ;
+               :hasReview :Review303504_1 , :Review303504_2 , :Review303504_3 , :Review303504_4 , :Review303504_5 , :Review303504_6 , :Review303504_7 , :Review303504_8 , :Review303504_9 , :Review303504_10 , :Review303504_11 , :Review303504_12 , :Review303504_13 , :Review303504_14 .
+:Product304763 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart HISENSE 43A63H, Ultra HD 4K, HDR10+, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review304763_1 , :Review304763_2 , :Review304763_3 , :Review304763_4 , :Review304763_5 , :Review304763_6 , :Review304763_7 .
+:Product306498 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor OLED Smart LG 55C22LB, Ultra HD 4K, HDR, 139cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review306498_1 , :Review306498_2 , :Review306498_3 , :Review306498_4 , :Review306498_5 , :Review306498_6 , :Review306498_7 , :Review306498_8 , :Review306498_9 .
+:Product303512 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart LG 32LQ570B6LA, HD, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.911764705882353 ;
+               :hasReview :Review303512_1 , :Review303512_2 , :Review303512_3 , :Review303512_4 , :Review303512_5 , :Review303512_6 , :Review303512_7 , :Review303512_8 , :Review303512_9 , :Review303512_10 , :Review303512_11 , :Review303512_12 , :Review303512_13 , :Review303512_14 , :Review303512_15 , :Review303512_16 , :Review303512_17 , :Review303512_18 , :Review303512_19 , :Review303512_20 , :Review303512_21 , :Review303512_22 , :Review303512_23 , :Review303512_24 , :Review303512_25 , :Review303512_26 , :Review303512_27 , :Review303512_28 , :Review303512_29 , :Review303512_30 , :Review303512_31 , :Review303512_32 , :Review303512_33 , :Review303512_34 .
+:Product303574 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor QLED Smart SAMSUNG 65Q70B, Ultra HD 4K, HDR, 163cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.875 ;
+               :hasReview :Review303574_1 , :Review303574_2 , :Review303574_3 , :Review303574_4 , :Review303574_5 , :Review303574_6 , :Review303574_7 , :Review303574_8 .
+:Product309879 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart UltraHD Vortex V50V850S, 123cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.6 ;
+               :hasReview :Review309879_1 , :Review309879_2 , :Review309879_3 , :Review309879_4 , :Review309879_5 .
+:Product297875 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart HISENSE 43A6BG, Ultra HD 4K, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.75 ;
+               :hasReview :Review297875_1 , :Review297875_2 , :Review297875_3 , :Review297875_4 , :Review297875_5 , :Review297875_6 , :Review297875_7 , :Review297875_8 , :Review297875_9 , :Review297875_10 , :Review297875_11 , :Review297875_12 , :Review297875_13 , :Review297875_14 , :Review297875_15 , :Review297875_16 , :Review297875_18 , :Review297875_19 , :Review297875_20 , :Review297875_21 , :Review297875_22 , :Review297875_23 , :Review297875_24 , :Review297875_25 , :Review297875_26 , :Review297875_27 , :Review297875_28 .
+:Product309245 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor NanoCell Smart LG 43NANO763QA, Ultra HD 4K, HDR, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.764705882352941 ;
+               :hasReview :Review309245_1 , :Review309245_2 , :Review309245_3 , :Review309245_4 , :Review309245_5 , :Review309245_6 , :Review309245_7 , :Review309245_8 , :Review309245_9 , :Review309245_10 , :Review309245_11 , :Review309245_12 , :Review309245_13 , :Review309245_14 , :Review309245_15 , :Review309245_16 , :Review309245_17 .
+:Product303580 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor QLED Smart SAMSUNG 43Q67B, Ultra HD 4K, HDR, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.866666666666666 ;
+               :hasReview :Review303580_1 , :Review303580_2 , :Review303580_3 , :Review303580_4 , :Review303580_5 , :Review303580_6 , :Review303580_7 , :Review303580_8 , :Review303580_9 , :Review303580_10 , :Review303580_11 , :Review303580_12 , :Review303580_13 , :Review303580_14 , :Review303580_15 , :Review303580_16 , :Review303580_17 , :Review303580_18 , :Review303580_19 , :Review303580_20 , :Review303580_21 , :Review303580_22 , :Review303580_23 , :Review303580_24 , :Review303580_25 , :Review303580_26 , :Review303580_27 , :Review303580_28 , :Review303580_29 , :Review303580_30 .
+:Product254022 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED SCHNEIDER 32-SC410K, HD, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.60377358490566 ;
+               :hasReview :Review254022_1 , :Review254022_2 , :Review254022_3 , :Review254022_4 , :Review254022_5 , :Review254022_6 , :Review254022_7 , :Review254022_8 , :Review254022_9 , :Review254022_10 , :Review254022_11 , :Review254022_12 , :Review254022_13 , :Review254022_14 , :Review254022_15 , :Review254022_16 , :Review254022_17 , :Review254022_18 , :Review254022_19 , :Review254022_20 , :Review254022_21 , :Review254022_22 , :Review254022_23 , :Review254022_24 , :Review254022_25 , :Review254022_26 , :Review254022_27 , :Review254022_28 , :Review254022_29 , :Review254022_30 , :Review254022_31 , :Review254022_32 , :Review254022_33 , :Review254022_34 , :Review254022_35 , :Review254022_36 , :Review254022_37 , :Review254022_38 , :Review254022_39 , :Review254022_40 , :Review254022_41 , :Review254022_42 , :Review254022_43 , :Review254022_44 , :Review254022_45 , :Review254022_46 , :Review254022_47 , :Review254022_48 , :Review254022_49 , :Review254022_50 , :Review254022_51 , :Review254022_52 , :Review254022_53 .
+:Product311707 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart PHILIPS 43PUS7607, Ultra HD 4K, HDR10+, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.588235294117647 ;
+               :hasReview :Review311707_1 , :Review311707_2 , :Review311707_3 , :Review311707_4 , :Review311707_5 , :Review311707_6 , :Review311707_7 , :Review311707_8 , :Review311707_9 , :Review311707_10 , :Review311707_11 , :Review311707_12 , :Review311707_13 , :Review311707_14 , :Review311707_15 , :Review311707_16 , :Review311707_17 .
+:Product303503 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor OLED Smart LG 55A23LA, Ultra HD 4K, HDR, 139cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.916666666666667 ;
+               :hasReview :Review303503_1 , :Review303503_2 , :Review303503_3 , :Review303503_4 , :Review303503_5 , :Review303503_6 , :Review303503_7 , :Review303503_8 , :Review303503_9 , :Review303503_10 , :Review303503_11 , :Review303503_12 .
+:Product303500 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor OLED Smart LG 48C21LA, Ultra HD 4K, HDR, 121cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.125 ;
+               :hasReview :Review303500_1 , :Review303500_2 , :Review303500_4 , :Review303500_5 , :Review303500_6 , :Review303500_7 .
+:Product307715 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED PHILIPS 32PHS5507, HD, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review307715_1 , :Review307715_2 , :Review307715_3 , :Review307715_4 , :Review307715_5 , :Review307715_6 , :Review307715_7 , :Review307715_8 , :Review307715_9 , :Review307715_10 .
+:Product305025 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED SMART LG 55UQ75003LF, Ultra HD 4K, HDR, 139cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review305025_1 , :Review305025_2 , :Review305025_3 , :Review305025_4 , :Review305025_5 , :Review305025_6 .
+:Product313080 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SAMSUNG 55AU7092, Ultra HD 4K, HDR, 138cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review313080_1 , :Review313080_2 , :Review313080_3 , :Review313080_4 , :Review313080_5 , :Review313080_6 , :Review313080_7 , :Review313080_8 , :Review313080_9 , :Review313080_10 , :Review313080_11 .
+:Product326740 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED SCHNEIDER 32-SC490K, HD, 81cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review326740_1 , :Review326740_2 , :Review326740_3 .
+:Product243310 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart PHILIPS 32PHS6605/12, HD, HDR 10, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.715909090909091 ;
+               :hasReview :Review243310_1 , :Review243310_2 , :Review243310_3 , :Review243310_4 , :Review243310_5 , :Review243310_6 , :Review243310_7 , :Review243310_8 , :Review243310_9 , :Review243310_10 , :Review243310_11 , :Review243310_12 , :Review243310_13 , :Review243310_14 , :Review243310_15 , :Review243310_16 , :Review243310_17 , :Review243310_18 , :Review243310_19 , :Review243310_20 , :Review243310_21 , :Review243310_22 , :Review243310_23 , :Review243310_24 , :Review243310_25 , :Review243310_26 , :Review243310_27 , :Review243310_28 , :Review243310_29 , :Review243310_30 , :Review243310_31 , :Review243310_32 , :Review243310_34 , :Review243310_35 , :Review243310_36 , :Review243310_37 , :Review243310_38 , :Review243310_39 , :Review243310_40 , :Review243310_41 , :Review243310_42 , :Review243310_43 , :Review243310_44 , :Review243310_45 , :Review243310_46 , :Review243310_47 , :Review243310_48 , :Review243310_49 , :Review243310_50 , :Review243310_51 , :Review243310_52 , :Review243310_53 , :Review243310_54 , :Review243310_55 , :Review243310_56 , :Review243310_57 , :Review243310_58 , :Review243310_59 , :Review243310_60 , :Review243310_61 , :Review243310_62 , :Review243310_63 , :Review243310_64 , :Review243310_65 , :Review243310_66 , :Review243310_67 , :Review243310_68 , :Review243310_69 , :Review243310_70 , :Review243310_71 , :Review243310_72 , :Review243310_73 , :Review243310_74 , :Review243310_75 , :Review243310_76 , :Review243310_77 , :Review243310_78 , :Review243310_79 , :Review243310_80 , :Review243310_81 , :Review243310_82 , :Review243310_83 , :Review243310_84 , :Review243310_85 , :Review243310_86 , :Review243310_87 .
+:Product300356 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart VORTEX V32TD2072S, HD, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.636363636363637 ;
+               :hasReview :Review300356_1 , :Review300356_2 , :Review300356_3 , :Review300356_4 , :Review300356_5 , :Review300356_6 , :Review300356_7 , :Review300356_8 , :Review300356_9 , :Review300356_10 , :Review300356_11 , :Review300356_12 , :Review300356_13 , :Review300356_14 , :Review300356_15 , :Review300356_16 , :Review300356_17 , :Review300356_18 , :Review300356_19 , :Review300356_20 , :Review300356_21 , :Review300356_22 .
+:Product307757 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor QLED Smart HISENSE 50E7HQ, Ultra HD 4K, HDR10, 127cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.617647058823529 ;
+               :hasReview :Review307757_1 , :Review307757_2 , :Review307757_3 , :Review307757_4 , :Review307757_5 , :Review307757_6 , :Review307757_7 , :Review307757_8 , :Review307757_9 , :Review307757_10 , :Review307757_11 , :Review307757_12 , :Review307757_13 , :Review307757_14 , :Review307757_15 , :Review307757_16 , :Review307757_17 , :Review307757_18 , :Review307757_19 , :Review307757_20 , :Review307757_21 , :Review307757_22 , :Review307757_23 , :Review307757_24 , :Review307757_25 , :Review307757_26 , :Review307757_27 , :Review307757_28 , :Review307757_29 , :Review307757_30 , :Review307757_31 , :Review307757_32 , :Review307757_33 , :Review307757_34 .
+:Product309878 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart UltraHD Vortex V43V850S, 109cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review309878_1 , :Review309878_2 , :Review309878_3 , :Review309878_4 , :Review309878_5 , :Review309878_6 .
+:Product250357 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart PHILIPS 32PFS6805/12, Full HD, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.538461538461538 ;
+               :hasReview :Review250357_1 , :Review250357_2 , :Review250357_3 , :Review250357_4 , :Review250357_5 , :Review250357_6 , :Review250357_7 , :Review250357_8 , :Review250357_9 , :Review250357_10 , :Review250357_12 , :Review250357_13 , :Review250357_14 , :Review250357_15 , :Review250357_16 , :Review250357_17 , :Review250357_18 , :Review250357_19 , :Review250357_20 , :Review250357_21 , :Review250357_23 , :Review250357_24 , :Review250357_25 , :Review250357_26 .
+:Product307711 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart VORTEX V40R5162VS, FullHD, 101cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 0.0 ;
+               :hasReview :Review307711_1 , :Review307711_2 , :Review307711_3 , :Review307711_4 , :Review307711_5 , :Review307711_6 , :Review307711_7 , :Review307711_8 , :Review307711_9 , :Review307711_10 .
+:Product299377 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart LG 32LQ63006LA, Full HD, HDR, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review299377_1 , :Review299377_2 , :Review299377_3 , :Review299377_4 , :Review299377_5 , :Review299377_6 , :Review299377_7 , :Review299377_8 , :Review299377_9 , :Review299377_10 .
+:Product270375 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SAMSUNG 43AU7172, Ultra HD 4K, HDR, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.7592592592592595 ;
+               :hasReview :Review270375_1 , :Review270375_2 , :Review270375_3 , :Review270375_4 , :Review270375_5 , :Review270375_6 , :Review270375_7 , :Review270375_8 , :Review270375_9 , :Review270375_10 , :Review270375_11 , :Review270375_12 , :Review270375_13 , :Review270375_14 , :Review270375_15 , :Review270375_16 , :Review270375_17 , :Review270375_18 , :Review270375_19 , :Review270375_20 , :Review270375_21 , :Review270375_22 , :Review270375_23 , :Review270375_24 , :Review270375_25 , :Review270375_26 , :Review270375_27 , :Review270375_28 , :Review270375_29 , :Review270375_30 , :Review270375_31 , :Review270375_32 , :Review270375_33 , :Review270375_34 , :Review270375_35 , :Review270375_36 , :Review270375_37 , :Review270375_38 , :Review270375_39 , :Review270375_40 , :Review270375_41 , :Review270375_42 , :Review270375_43 , :Review270375_44 , :Review270375_45 , :Review270375_46 , :Review270375_47 , :Review270375_48 , :Review270375_49 , :Review270375_50 , :Review270375_51 , :Review270375_52 , :Review270375_53 , :Review270375_54 , :Review270375_55 , :Review270375_56 , :Review270375_57 , :Review270375_58 , :Review270375_59 , :Review270375_60 , :Review270375_61 , :Review270375_62 , :Review270375_63 , :Review270375_64 , :Review270375_65 , :Review270375_66 , :Review270375_67 , :Review270375_68 , :Review270375_69 , :Review270375_70 , :Review270375_71 , :Review270375_72 , :Review270375_73 , :Review270375_74 , :Review270375_75 , :Review270375_76 , :Review270375_77 , :Review270375_78 , :Review270375_79 , :Review270375_80 , :Review270375_81 , :Review270375_82 , :Review270375_83 , :Review270375_84 , :Review270375_85 , :Review270375_86 , :Review270375_87 , :Review270375_88 , :Review270375_89 , :Review270375_90 , :Review270375_91 , :Review270375_92 , :Review270375_93 , :Review270375_94 , :Review270375_95 , :Review270375_96 , :Review270375_97 , :Review270375_98 , :Review270375_99 , :Review270375_100 .
+:Product254023 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED SCHNEIDER 24-SC410K, HD, 60 cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.454545454545454 ;
+               :hasReview :Review254023_1 , :Review254023_2 , :Review254023_3 , :Review254023_4 , :Review254023_5 , :Review254023_6 , :Review254023_7 , :Review254023_8 , :Review254023_9 , :Review254023_10 , :Review254023_11 .
+:Product313078 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SAMSUNG 43AU7092, Ultra HD 4K, HDR, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.7631578947368425 ;
+               :hasReview :Review313078_1 , :Review313078_2 , :Review313078_3 , :Review313078_4 , :Review313078_5 , :Review313078_6 , :Review313078_7 , :Review313078_8 , :Review313078_9 , :Review313078_10 , :Review313078_11 , :Review313078_12 , :Review313078_13 , :Review313078_14 , :Review313078_15 , :Review313078_16 , :Review313078_17 , :Review313078_18 , :Review313078_19 , :Review313078_20 , :Review313078_21 , :Review313078_22 , :Review313078_23 , :Review313078_24 , :Review313078_25 , :Review313078_26 , :Review313078_27 , :Review313078_28 , :Review313078_29 , :Review313078_30 , :Review313078_31 , :Review313078_32 , :Review313078_33 , :Review313078_34 , :Review313078_35 , :Review313078_36 , :Review313078_37 , :Review313078_38 .
+:Product313079 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SAMSUNG 50AU7092, Ultra HD 4K, HDR, 125cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.444444444444445 ;
+               :hasReview :Review313079_1 , :Review313079_2 , :Review313079_3 , :Review313079_4 , :Review313079_5 , :Review313079_6 , :Review313079_7 , :Review313079_8 , :Review313079_9 .
+:Product309247 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED SMART LG 50UQ75003LF, Ultra HD 4K, HDR, 126cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.842105263157895 ;
+               :hasReview :Review309247_1 , :Review309247_2 , :Review309247_3 , :Review309247_4 , :Review309247_5 , :Review309247_6 , :Review309247_7 , :Review309247_8 , :Review309247_9 , :Review309247_10 , :Review309247_11 , :Review309247_12 , :Review309247_13 , :Review309247_14 , :Review309247_15 , :Review309247_16 , :Review309247_17 , :Review309247_18 , :Review309247_19 .
+:Product278821 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED VORTEX V32R0212, HD, 81cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review278821_1 , :Review278821_2 , :Review278821_3 , :Review278821_4 , :Review278821_5 , :Review278821_6 , :Review278821_7 , :Review278821_8 , :Review278821_9 , :Review278821_10 , :Review278821_11 , :Review278821_12 , :Review278821_13 , :Review278821_14 , :Review278821_15 , :Review278821_16 , :Review278821_17 , :Review278821_18 , :Review278821_19 , :Review278821_20 , :Review278821_21 .
+:Product301233 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart SAMSUNG 43BU8072, Ultra HD 4K, HDR, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.840579710144928 ;
+               :hasReview :Review301233_1 , :Review301233_2 , :Review301233_3 , :Review301233_4 , :Review301233_5 , :Review301233_6 , :Review301233_7 , :Review301233_8 , :Review301233_9 , :Review301233_10 , :Review301233_11 , :Review301233_12 , :Review301233_13 , :Review301233_14 , :Review301233_15 , :Review301233_16 , :Review301233_17 , :Review301233_18 , :Review301233_19 , :Review301233_20 , :Review301233_21 , :Review301233_22 , :Review301233_23 , :Review301233_24 , :Review301233_25 , :Review301233_26 , :Review301233_27 , :Review301233_28 , :Review301233_29 , :Review301233_30 , :Review301233_31 , :Review301233_32 , :Review301233_33 , :Review301233_34 , :Review301233_35 , :Review301233_36 , :Review301233_37 , :Review301233_38 , :Review301233_39 , :Review301233_40 , :Review301233_41 , :Review301233_42 , :Review301233_43 , :Review301233_44 , :Review301233_45 , :Review301233_46 , :Review301233_47 , :Review301233_48 , :Review301233_49 , :Review301233_50 , :Review301233_51 , :Review301233_52 , :Review301233_53 , :Review301233_54 , :Review301233_55 , :Review301233_57 , :Review301233_58 , :Review301233_59 , :Review301233_60 , :Review301233_61 , :Review301233_62 , :Review301233_63 , :Review301233_64 , :Review301233_65 , :Review301233_66 , :Review301233_67 , :Review301233_68 , :Review301233_69 .
+:Product305026 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED SMART LG 43UQ75003LF, Ultra HD 4K, HDR, 108cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.595744680851064 ;
+               :hasReview :Review305026_1 , :Review305026_2 , :Review305026_3 , :Review305026_4 , :Review305026_5 , :Review305026_6 , :Review305026_7 , :Review305026_8 , :Review305026_9 , :Review305026_10 , :Review305026_11 , :Review305026_12 , :Review305026_13 , :Review305026_14 , :Review305026_15 , :Review305026_16 , :Review305026_17 , :Review305026_18 , :Review305026_19 , :Review305026_20 , :Review305026_21 , :Review305026_22 , :Review305026_23 , :Review305026_24 , :Review305026_25 , :Review305026_26 , :Review305026_27 , :Review305026_28 , :Review305026_29 , :Review305026_30 , :Review305026_31 , :Review305026_32 , :Review305026_33 , :Review305026_34 , :Review305026_35 , :Review305026_36 , :Review305026_37 , :Review305026_38 , :Review305026_40 , :Review305026_41 , :Review305026_42 , :Review305026_43 , :Review305026_44 , :Review305026_45 , :Review305026_46 , :Review305026_47 .
+:Product298051 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Televizor LED Smart VORTEX V32R0212VS, HD, 80cm" ;
+                :belongsTo :TV ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.833333333333333 ;
+               :hasReview :Review298051_1 , :Review298051_2 , :Review298051_3 , :Review298051_4 , :Review298051_5 , :Review298051_6 , :Review298051_7 , :Review298051_8 , :Review298051_9 , :Review298051_10 , :Review298051_11 , :Review298051_12 , :Review298051_13 , :Review298051_14 , :Review298051_15 , :Review298051_16 , :Review298051_17 , :Review298051_18 , :Review298051_19 , :Review298051_20 , :Review298051_21 , :Review298051_22 , :Review298051_23 , :Review298051_24 , :Review298051_25 , :Review298051_26 , :Review298051_27 , :Review298051_28 , :Review298051_29 , :Review298051_30 .

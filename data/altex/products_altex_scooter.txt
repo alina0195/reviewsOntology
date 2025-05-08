@@ -1,0 +1,350 @@
+:Product127095 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica FREEWHEEL Rider T1, 8 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.6666666666666665 ;
+               :hasReview :Review127095_1 , :Review127095_2 , :Review127095_3 .
+:Product236174 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica pliabila MYRIA City Traveller PRO, 8 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.166666666666667 ;
+               :hasReview :Review236174_1 , :Review236174_2 , :Review236174_3 , :Review236174_4 , :Review236174_5 , :Review236174_6 .
+:Product214633 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica MYRIA MY7024BK Road Traveller Pro, 10 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.153846153846154 ;
+               :hasReview :Review214633_1 , :Review214633_2 , :Review214633_3 , :Review214633_4 , :Review214633_5 , :Review214633_6 , :Review214633_7 , :Review214633_8 , :Review214633_9 , :Review214633_11 , :Review214633_12 , :Review214633_13 .
+:Product305859 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica JEEP 2XE Adventurer, 10 inch, pliabila, verde" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review305859_1 .
+:Product300413 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta asistata electric FREEWHEEL Riders Kids SE, 5.3 inch, albastru deschis" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review300413_1 .
+:Product273685 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica Lenovo M2, 8.5 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review273685_1 , :Review273685_2 , :Review273685_4 , :Review273685_5 .
+:Product300099 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT eKickScooter ZING C20 Powered by Segway, 7 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review300099_1 , :Review300099_2 , :Review300099_3 .
+:Product202996 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica pliabila MYRIA Sky Rider, 8 inch, alb" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.857142857142857 ;
+               :hasReview :Review202996_1 , :Review202996_2 , :Review202996_3 , :Review202996_4 , :Review202996_5 , :Review202996_6 , :Review202996_7 .
+:Product236394 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica MYRIA City Traveller+, 8 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.875 ;
+               :hasReview :Review236394_1 , :Review236394_2 , :Review236394_3 , :Review236394_4 , :Review236394_5 , :Review236394_6 , :Review236394_7 , :Review236394_8 .
+:Product202993 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica pliabila MYRIA Sky Rider, 8 inch, rosu" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.142857142857143 ;
+               :hasReview :Review202993_1 , :Review202993_2 , :Review202993_3 , :Review202993_4 , :Review202993_5 , :Review202993_6 , :Review202993_7 .
+:Product240519 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica XIAOMI MI ESSENTIAL, 8.5 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.866666666666666 ;
+               :hasReview :Review240519_1 , :Review240519_2 , :Review240519_3 , :Review240519_4 , :Review240519_5 , :Review240519_6 , :Review240519_7 , :Review240519_8 , :Review240519_9 , :Review240519_10 , :Review240519_11 , :Review240519_12 , :Review240519_13 , :Review240519_15 , :Review240519_16 , :Review240519_17 , :Review240519_18 , :Review240519_19 , :Review240519_20 , :Review240519_21 , :Review240519_22 , :Review240519_23 , :Review240519_24 , :Review240519_25 , :Review240519_26 , :Review240519_27 , :Review240519_28 , :Review240519_29 , :Review240519_30 .
+:Product300411 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica FREEWHEEL Rider Pro GT, 10 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review300411_1 , :Review300411_2 , :Review300411_3 .
+:Product247105 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT by Segway KickScooter E25E, 9 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review247105_1 , :Review247105_2 , :Review247105_3 .
+:Product284692 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT KickScooter F25E, 10 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review284692_1 .
+:Product306407 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica XIAOMI Mi Electric Scooter 3 Lite, 8 inch, pliabila, Black" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review306407_1 .
+:Product284693 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT KickScooter F30E, 10 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review284693_1 .
+:Product284694 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT KickScooter F40E, 10 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.5 ;
+               :hasReview :Review284694_1 , :Review284694_2 , :Review284694_3 , :Review284694_4 .
+:Product300094 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT eKickScooter ZING C8 Powered by Segway, 6 inch, alb" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review300094_1 , :Review300094_2 , :Review300094_3 .
+:Product300097 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT eKickScooter ZING C10 Powered by Segway, 6 inch, alb" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review300097_1 , :Review300097_2 .
+:Product302633 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT KickScooter D18E Powered by Segway, 10 inch, negru-rosu" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.888888888888889 ;
+               :hasReview :Review302633_1 , :Review302633_2 , :Review302633_3 , :Review302633_4 , :Review302633_5 , :Review302633_6 , :Review302633_7 , :Review302633_8 , :Review302633_9 .
+:Product284302 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica XIAOMI Mi Electric Scooter 3, 8.5 inch, pliabila, Gray" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review284302_1 , :Review284302_2 , :Review284302_3 , :Review284302_4 , :Review284302_5 , :Review284302_6 , :Review284302_7 , :Review284302_8 , :Review284302_9 , :Review284302_10 , :Review284302_11 , :Review284302_12 .
+:Product299303 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica XIAOMI Mi Electric Scooter 3, 8.5 inch, pliabila, Black" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.3076923076923075 ;
+               :hasReview :Review299303_1 , :Review299303_2 , :Review299303_3 , :Review299303_4 , :Review299303_5 , :Review299303_6 , :Review299303_7 , :Review299303_8 , :Review299303_9 , :Review299303_10 , :Review299303_11 , :Review299303_12 , :Review299303_13 .
+:Product274100 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica MYRIA City Traveller Titan, 10 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.057142857142857 ;
+               :hasReview :Review274100_1 , :Review274100_2 , :Review274100_3 , :Review274100_4 , :Review274100_5 , :Review274100_6 , :Review274100_7 , :Review274100_8 , :Review274100_9 , :Review274100_10 , :Review274100_11 , :Review274100_12 , :Review274100_13 , :Review274100_14 , :Review274100_15 , :Review274100_16 , :Review274100_17 , :Review274100_18 , :Review274100_19 , :Review274100_20 , :Review274100_21 , :Review274100_22 , :Review274100_23 , :Review274100_24 , :Review274100_25 , :Review274100_26 , :Review274100_27 , :Review274100_28 , :Review274100_29 , :Review274100_30 , :Review274100_31 , :Review274100_32 , :Review274100_33 , :Review274100_34 .
+:Product309575 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica XIAOMI Electric Scooter 4 Pro, 10 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.857142857142857 ;
+               :hasReview :Review309575_1 , :Review309575_2 , :Review309575_3 , :Review309575_4 , :Review309575_5 , :Review309575_6 , :Review309575_7 .
+:Product278224 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT KickScooter MAX G30E II, 10 inch, pliabila, dark grey" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review278224_1 , :Review278224_2 , :Review278224_3 .
+:Product302634 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT KickScooter D28E Powered by Segway, 10 inch, negru-rosu" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review302634_1 , :Review302634_2 , :Review302634_3 , :Review302634_4 , :Review302634_5 , :Review302634_6 .
+:Product279293 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica E-TWOW Booster ES, 8 inch, pliabila, gri" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.333333333333333 ;
+               :hasReview :Review279293_1 , :Review279293_2 , :Review279293_3 .
+:Product240542 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica XIAOMI MI PRO 2, 8.5 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.66 ;
+               :hasReview :Review240542_1 , :Review240542_2 , :Review240542_3 , :Review240542_4 , :Review240542_5 , :Review240542_6 , :Review240542_7 , :Review240542_8 , :Review240542_9 , :Review240542_10 , :Review240542_11 , :Review240542_12 , :Review240542_13 , :Review240542_14 , :Review240542_15 , :Review240542_16 , :Review240542_17 , :Review240542_18 , :Review240542_19 , :Review240542_20 , :Review240542_21 , :Review240542_22 , :Review240542_23 , :Review240542_24 , :Review240542_25 , :Review240542_26 , :Review240542_27 , :Review240542_28 , :Review240542_29 , :Review240542_30 , :Review240542_31 , :Review240542_32 , :Review240542_33 , :Review240542_34 , :Review240542_35 , :Review240542_36 , :Review240542_37 , :Review240542_38 , :Review240542_39 , :Review240542_40 , :Review240542_41 , :Review240542_42 , :Review240542_43 , :Review240542_44 , :Review240542_45 , :Review240542_46 , :Review240542_47 , :Review240542_48 , :Review240542_49 , :Review240542_50 .
+:Product305796 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica VR46 Kiddy, 5.5 inch, albastru-galben" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.75 ;
+               :hasReview :Review305796_1 , :Review305796_2 , :Review305796_3 , :Review305796_4 .
+:Product202995 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica pliabila MYRIA Sky Rider, 8 inch, albastru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review202995_1 , :Review202995_3 .
+:Product309195 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica FREEWHEEL Rider T4 Light-Up, 8 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review309195_1 .
+:Product306406 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica XIAOMI Mi Electric Scooter 3 Lite, 8 inch, pliabila, White" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review306406_1 .
+:Product305865 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica APRILIA eSR2, 10 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review305865_1 , :Review305865_2 .
+:Product312324 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica JEEP 2XE Sentinel, 8.5 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review312324_1 .
+:Product305863 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica APRILIA eSR1, 10 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review305863_1 , :Review305863_2 .
+:Product312319 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica DUCATI Urban e-Mobility PRO-II PLUS, 10 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review312319_1 .
+:Product305864 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica APRILIA eSR2 EVO, 10 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review305864_1 , :Review305864_2 , :Review305864_3 , :Review305864_4 .
+:Product305862 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica DUCATI Urban e-Mobility PRO-III, 10 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review305862_1 .
+:Product312312 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT Segway KickScooter GT1E, 11 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review312312_1 .
+:Product300093 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT eKickScooter ZING A6 Powered by Segway, 5 inch, verde" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review300093_1 .
+:Product272218 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica FREEWHEEL Rider T3, 8 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review272218_1 , :Review272218_2 , :Review272218_3 .
+:Product272190 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica FREEWHEEL LexGo R6 Lite, 6.5 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review272190_1 .
+:Product305860 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica DUCATI Urban e-Mobility PRO-I EVO, 8.5 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.0 ;
+               :hasReview :Review305860_1 , :Review305860_2 .
+:Product312325 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica JEEP 2XE URBAN CAMOU, 10 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.6666666666666665 ;
+               :hasReview :Review312325_1 , :Review312325_2 , :Review312325_3 .
+:Product289649 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica VORTEX Urban Traveller Pro VO7001, 10 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review289649_1 .
+:Product279300 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica VORTEX VO7000 Urban Traveller, 8.5 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 1.0 ;
+               :hasReview :Review279300_1 , :Review279300_2 .
+:Product274873 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica XIAOMI Mi Pro 2 Mercedes AMG Petronas F1 Edition, 8.5 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review274873_1 .
+:Product202992 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica pliabila MYRIA Sky Rider, 8 inch, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.333333333333333 ;
+               :hasReview :Review202992_1 , :Review202992_2 , :Review202992_3 , :Review202992_4 , :Review202992_5 , :Review202992_6 , :Review202992_7 , :Review202992_8 , :Review202992_9 , :Review202992_10 , :Review202992_11 , :Review202992_12 , :Review202992_13 , :Review202992_14 , :Review202992_15 , :Review202992_16 , :Review202992_17 , :Review202992_18 , :Review202992_19 , :Review202992_21 .
+:Product302635 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica NINEBOT KickScooter D38E Powered by Segway, 10 inch, negru-rosu" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review302635_1 , :Review302635_2 , :Review302635_3 , :Review302635_4 , :Review302635_5 , :Review302635_6 .
+:Product279298 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trotineta electrica MYRIA City Traveller UEV (Urban Electric Vehicle), 8.5 inch, pliabila, negru" ;
+                :belongsTo :Scooter ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.333333333333333 ;
+               :hasReview :Review279298_1 , :Review279298_2 , :Review279298_3 , :Review279298_4 , :Review279298_5 , :Review279298_6 .

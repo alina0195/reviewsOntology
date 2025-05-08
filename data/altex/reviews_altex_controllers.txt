@@ -1,0 +1,352 @@
+:Review312747_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport preț excelent , recomand cu incredere" ; :hasAuthor "Noge Catalin" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review267885_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bun, se conecteaza usor, materiale de calitate" ; :hasAuthor "Bogdan Negru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review267885_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "un volan decent pentru pretul lui. nu dezamageste ! Nu il poti compara cu g29, dar si pretul e la  sfert fata de acesta. Cumparati-l cu incredere ! " ; :hasAuthor "Catalin Iancu" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review267885_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "L-am cumparat de nou stricat, cei de la magazinul de unde l-am cumparat nu au vrut sa imi dea retur pe loc si banii inapoi, nu-i corect" ; :hasAuthor "Alin Popescu" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review267885_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sincer am fost incantat de el primele 2 zile,dupa am observat ca are deadzone cand viram usor stanga,iar cand viram dreapta vira ok.Am trecut peste zicand ca am dat putin pe el,in 900 de grade nu se simtea asa rau,doar cand mergeai cu viteza si aveai nevoie de acuratete,ce m-a nemultumit a fost ca in 270 de grade a fost insuportabil deoarece aveam nevoie de unghiuri precise,volanul mergand sacadat(tin sa precizez ca nu este o miscare cursiva pe ecran,el se misca sacadat,in prezent i-am facut retur si mi-am luat un g29,diferenta fiind de la cer la pamant) In assetto corsa,pedalele mergeau ok,neavand o precizie extraordianara,iar volanul ok pentru categoria low end In F1 2018 in 270 de grade,volanul m-a nemultumit teribil avand viraje precise aveam nevoie ca volanul sa vireze cat trebuie,el ramanea blocat si tragea usor dreapta,fiind nevoit sa il tin usor inclinat pentru a merge drept" ; :hasAuthor "Manu Borangel" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review267885_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Are de-abia jumatate de an de cand il am si acceleratia nu mai merge,am curatat-o de praf,am facut toate chestiile si nu merge Dezamagitor!" ; :hasAuthor "Iustin Nistor" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review267885_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Daca va ganditi sa cumparati acest volan doar ca are 900 de grade rotatie si vreti sa l luati sa va jucati jocuri cu drifturi mai ganditiva o data pentru ca nu are force feedback cea ce este esential pentru drift pretul este mic pentru 900 de grade dar mai bine puneti inca 300-400 de lei si va luati unul mai ca lumea si cu force feedback." ; :hasAuthor "Vlad Gabi" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review267885_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "acest volan nu este ca logitech, dar sa tinem cont ca am dat 490 lei, nu 1200(fara schimbator). la banii astia este vis tinand cont ca este cam singurul volan sub 800 lei ca sa nu zic 1000, cu rotatie de 900 de grade. Atentie pentru ca eu am avut dubii si cand pana sa-l scot din cutie: scrie 270/900 deparece are buton de reglare pe 900 sau 270 grade. Eu il folosesc in euro truck sin 2, am facut cam 10.000 km in joc si e cu totul alta senzatie cu acest volan fata de unul de 270 grade sau tastatura. Nici usor dar nici greu de configurat, doar trebuie dezactivat force feedback-ul pentru ca nu are motoare ca cel de la logitech, daca nu dezactivati acea comanda, nu o sa mearga. e recunoscut de windows ca, controler de xbox. pro:  -rotatie 900 grade -calitate tactila si dimensiuni -sistem simplu de prindere(sfat, scoateti ventuzele daca folositi sistemul menghina) -pedale metalice mai mari decat par (am 44 la picior si ma simt perfect cu ele)  contra: -foarte voluminos, daca aveti birou cu polita de tastatura, n o sa aveti acces la ea -frana putea sa fie ceva mai grea si sa aiba o cursa cu o patrime mai mica decat acceleratia, dar asa sunt acelasi lucru.Nu e neaparat un minus, dar pe pretentiosi s-ar putea sa-i deranjeze  -descrierea mentioneaza un numar mare de butoane dar l3/11/sl si r3.12/sr au functiile pedalelor si l1/5/lb si r1/6/rb au functiile padelelor. Daca stie cineva cum le pot schimba functiile, asi fi foarte incantat. concluzie, merita din plin!!!!!" ; :hasAuthor "Dragos Morariu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review267885_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Eu sunt mulțumit de el. L-am incercat in FS19  ETS2. merge ok . Ce nu îmi prea place este că la mișcarea volanului st dr pe PC și roteste cu puțin lag. In rest este ok." ; :hasAuthor "Gubau Radu" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review267885_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am si eu o intrebare, eu as vrea sa ma joc Euro Truck Simulator 2 cu el, mege sa schimbi vitezele din padele sau sunt la fel cu aceleratia si frana? Multumesc!" ; :hasAuthor "Alexandru Dianu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review267885_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pro: arata bine, se simte bine, cu mici reglaje e totul ok (testat in ets2 si dirt 3) Contra: Trage foarte, foarte putin in partea dreapta uneori la revenirea volanului in centrarea lui normala, insa nu mereu (in ets2) insa din setari poti ajusta sa nu se mai intample asta incat sa afecteze 'condusul' (am rezolvat personal chestia asta, deci e ok) Si mai e un minus, pt ca nu are driver acest model nou de la genesis, probabil ca merge un driver mai vechi, n-am incercat inca... dar e ok pt ca l-a recunoscut imediat windows-ul (10)  Deci, la banii astia, raport pret / calitate, eu zic ca e ok... nu gasesti alt model de volan cu 900 grade rotatie (cel putin nu in Romania) la sub 1000 de lei... poate la vreo 800-900 dar second hand :) deci aceste mici 'chichite' ca foarte putin uneori nu revine in totalitate (dar se poate rezolva din setarile jocului, spre ex ets2 ca asta e mai sensibil, in dirt 3 n-am simtit, fiind un joc mai sportiv si off road) daca aveti intrebari lasati pe instagram: helsinng" ; :hasAuthor "George Cosmin Tataru" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review267885_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Functioneaza exact cum ma asteptam. L-am folosit pe Windows 10, si l-a recunoscut automat ca  Wheel Device . Are un buton de trecere de la 270 de grade la 900 de grade, pentru a controla cat de brusc vireaza. Padelele si butoanele pot fi programate din setarile jocurilor. L-am incercat in jocul The Crew si merge bine. E compatibil si cu Android TV." ; :hasAuthor "Adrian Rusu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review267885_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu se gaseste driver nicaieri, nici pe site la Genesis. Voi fi nevoit sa dau retur daca tot nu gasesc driver. Se gaseste pe site doar pentru Seaborg 300. Volanul sta usor virat intr-o parte." ; :hasAuthor "Denis Cernica" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review47208_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Alaturi de volanul Logitech g29 este tot ce ai nevoie " ; :hasAuthor "Florin Zbiera" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47208_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "foarte bun schimbătorul cat si volanul,isi merita banii.Totusi este logitech" ; :hasAuthor "Lucian Jude" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47208_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text " Produsul ca preț-calitate este unul foarte bun..." ; :hasAuthor "Diana Tacu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47208_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "E OK, pare să răspundă comenzilor - luat împreună cu un G29. " ; :hasAuthor "Martin Bernard" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review47208_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cadoul perfect pentru copii si sot!" ; :hasAuthor "catalin ciornei" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review47208_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Schimbatorul se potriveste  impreuna cu un volanul G29, sunt compatibile 100%. Cursa lui este destul de scurta si necesita blandete. Se monteaza foarte usor si nu aluneca deloc. Se comporta excelent in jocurile cu masini, dar il folosesc cu precadere in Euro Truck Simulator." ; :hasAuthor "Cristian Josan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47208_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs bun , merita achizitionat !" ; :hasAuthor "Petrachi Ionut" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review47208_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Arata si se simte ca o jucarie. Spre deosebire de volan. Dar, la G29 nu avem alta varianta. Plus, nu stiu daca schimbatorul este de vina dar de cand l-am luat si montat (ulterior volanului), trebuie sa recalibrez volanul de fiecare data cand pornesc calculatorul. " ; :hasAuthor "Alexandru Stan" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review47208_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este OK, l-am cumpărat pentru băiat și este mulțumit de el,împreună cu volanul cumpărat. " ; :hasAuthor "Alin Daniel Farcas" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47208_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este combinatia perfecta cu volanul G920" ; :hasAuthor "Andrei Popa" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47208_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "în combinație cu volanul cumpărat, e super tare, schimba precum un schimbător real, nu e asa rezistent ca unul de pe mașina dar simulează mult." ; :hasAuthor "Adelin Tipus" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47208_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Felicitari, Altex, nu doar pentru ca aduceti pe stoc acest schimbator de viteze, dar si pentru pretul excelent. Este un schimbator de buna calitate, durabil - unii pasionati folosesc modelele de pe volanele G25 pina in zilele noastre, fara probleme. Il recomand si va spun ca l-am preferat unui schimbator de la Thrustmaster, pentru ca se simte mai natural, mai firesc.  Daca vreti sa folositi acest schimbator direct conectat la PC prin USB, folositi un mod creat de mine, care aduce si functii importante in plus acestui schimbator:  https://hackaday.io/project/12252-mgine-mod-for-logitech-dfs  in limba romana:  https://forum.nivelul2.ro/viewtopic.php?f=11&amp;t=1281" ; :hasAuthor "Marius Ghinea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47208_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "De cand asteptam sa cumpar produsul acesta, nu-l mai gaseam pe stoc nicaieri, multumesc Echipei Altex. Functioneaza super, doar ca trebuie sa-mi imbunatatesc &quot;skilurile&quot; in pCars acuma, cu schimbator este mai greu fata de cutia automata in joc, dar na acuma ma pot bucura la maxim de jocuri si de volan in sine. :) ;)" ; :hasAuthor "George-CHD" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "foarte bun,comanda a ajuns de stul de repede,recomand " ; :hasAuthor "Ptrica David" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Force feedback foarte bun . Materiale de calitate Recomand pentru pasionații de driving " ; :hasAuthor "FLORIAN ENE" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs bun ,volanul este solid si plăcut la atingere, suportul de prindere se fixează bine preferabil pe suprafete nelucioase. Schimbătorul trebuie achizitionat separat." ; :hasAuthor "Florin Zbiera" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Se misca extraordinar si este foarte precis." ; :hasAuthor "GABRIEL DINU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cadoul perfect!!! De departe cel mai bun volan de pe piata.Pretul e putin piperat dar merita!!!" ; :hasAuthor "alex bogdan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un volan foarte bun si de calitate" ; :hasAuthor "Iulian Tudosa" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "In afara de pedala de frana care este cam rau facuta in rest ii perfect. Livrarea a fost rapida si in conditii perfecte" ; :hasAuthor "Alexandra Poliec" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Calitativ arata bine, are suficiente butoane, pedalele se simt OK, metal, etc. Sigur, este un volan medium-entry level, de aici incep lucrurile mai serioase. Dar daca nu joci zilnic ca disperatu, este mai mult decat suficient. Ca si nemultumire, dupa vreo 2 saptamani de utilizare, trebuie sa-l recalibrez de fiecare daca cand pornesc calculatorul. Este destul de enervant. Solutiile de pe net nu au functionat. Sper sa-i dau de cap eventual." ; :hasAuthor "Alexandru Stan" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review47207_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "ideal pentru PC si Playstation" ; :hasAuthor "adrian pas" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun! " ; :hasAuthor "Delia Poparad" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Mare de tot " ; :hasAuthor "radu furdui" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "cadoul perfect pentru pasionatii de gaming . raport pret calitate foarte bun  " ; :hasAuthor "FELICIA GROZA" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun. Funtioneaza fara probleme si ofera un sentiment placut datorita materialelor de inalta calitate din care este confectionat. Livrare in conditii foarte bune" ; :hasAuthor "Cristian-Catalin Dobrin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Probabil cel mai bun volan de gaming de pe piata, merita toti banii!" ; :hasAuthor "Cristian Josan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun. Realistic." ; :hasAuthor "Gergely Szilard" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "L-am luat pentru copii, sunt foarte incantati, merge bine atat pe laptop (Forza Horizon 5) cat si pe PS 4 (The Crew 2, Need for Speed Heat). Le place foarte mult partea de vibratii in volan care face jocul mult mai realist (desi am o ezitare in uzarea motoraselor, insa am luat o garantie extinsa de inca 2 ani - volanul era la reducere si cu garantie cu tot am iesit sub pretul actual). Cred ca este o solutie foarte buna pentru orice joc de condus." ; :hasAuthor "Sorin Boeru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Părerea mea cel mai bun la bani ăștia. " ; :hasAuthor "Cristi Purici" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparat acest volan am o luna iar acum 2-3 zile a inceput sa nu isi mai faca treaba bine cand treceam masina de pe liber pe 1-2-3-4-5 accelera singur fara nici-un motiv (masina nu era in panta). Cand l-am dus prima data in service a fost trimis inapoi cu mesajul ca n are nimic a doua oara au spus ca asa fac volanele astea pe manuala doar ca sunt primul care a patit asta. In concluzie sper sa aveti voi noroc si sa nu prindeti un volan ca al meu." ; :hasAuthor "ioana rusu" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review47207_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Volanul este bun,  nu are nici o problemă,  eu l-am luat din magazin unpic mai ieftin cu 400 lei şi consider ca îşi merită banii! " ; :hasAuthor "Mihai Adrian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "foarte incantat de el, piese metalice, robust, feedback realist. Desi incretita putin pielea de pe volan, este calitativa" ; :hasAuthor "Constantin Andrei Musat" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_21 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte foarte bun, isi merita banii, RECOMAND ! Pentru jocurile cu masini din ziua de astazi, acest volan intoarce tot jocul la 180 grade, schimba totul ce inseamna condus, mai ales in cel de curse. MERITA 5 stele !" ; :hasAuthor "Denis Csiki" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_22 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumpărat volanul printr-o rezervare din magazin pentru că m-am săturat să aștept să meargă emularea pentru volanul mai vechi pe care-l am (Driving Force GT).  Comparativ cu vechiul volan, baza cu volanul este mai mică, conectarea se face sub volan pentru pedale, schimbător sau pentru alimentare (există 4 canale frumos realizate pentru a trece pe acolo cablurile. Are un buton care comută între PS3 și PS4 (PS5). Nu înțelegeam de ce nu este recunoscut (de-abia după ce l-am trecut în mod PS4 a fost recunoscut de PS5). Față de vechiul volan pedalele par mai robuste și există pedală pentru ambreiaj (vechiul volan nu o avea). Per total volanul se simte bine în mâini. Și vechiul volan a funcționat foarte bine cu PC-ul, mă aștept ca și noul volan să se înțeleagă la fel de bine cu PC-ul.  Singurul mare minus este că prețul este puțin cam mare și că schimbătorul este de calitate foarte slabă comparativ cu volanul (nici măcar SH nu voi cumpăra schimbătorul). Merită cumpărat cu siguranță față de celelalte volane de gaming care au prețuri de 2000 de lei sau mai mari (eventual în rate așa cum am făcut și eu)." ; :hasAuthor "Mihail Trica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text "iti da senzatia ca conduci in realitate.Foarte  misto!Se conecteaza rapid cu PC-ul.N-am avut nivio problema cu el timp mde 1 an d ecand l-am achizitionat.Daca sunteti pasionat de jocuir cu masini si masini in general nu are cum sa nu va placa!" ; :hasAuthor "Alexandru Boaca" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "  În primul rând, eu l-am luat cu 1100 si asta e un pret acceptabil pentru el, nu o mana întinsă de la comercianții altruiști, cum s-ar vrea sa credeți. Ce probleme am întâmpinat la el : frâna scârțâie când ajungi la cauciuc și mai și croncăne plasticul (nu mi-e clar dacă e defect sau sunt toate așa, merge ok oricum), pielea de pe volan e un pic cam încrețită dar pare rezistentă, butonul rotativ portocaliu are o problemă în cam toate jocurile și anume că dacă îl muți o poziție îți bagă 2 inputuri, deci faci de 2 ori ce ai pe comanda aia și n-am găsit o soluție permanentă, de asemenea toate au problema asta la acel buton, toate g29-urile adică, nu stiu dacă și g923.    În al doilea rând, deși ce am primit părea sigilat de la producător și aproape sigur nu a fost folosit pentru că n-am găsit nicio urmă de utilizare pe volan/pedale, seria de pe volan nu corespunde cu cea de pe cutie, deci probabil că a umblat cineva în cutie, poate cineva de la Altex? Am ținut să menționez asta pentru că nu mi se pare ok să am într-o cutie alt produs decât cel pus de producător, fie el și nefolosit." ; :hasAuthor "Cristian Falon" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review47207_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Din pacate nu pot modifica comentariul precedent in care va rugam sa aduceti pe stoc.  Multumeeesc ca l-ati adus!!!!!!!" ; :hasAuthor "Rosca George" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_26 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Detin volanul de o saptamana si pot spune ca este peste asteptarile mele. Calitatea materialelor este foarte buna si isi merita banii! Folosesc volanul in Assetto Corsa, Euro Truck Simulator 2 si alte jocuri. Recomand cu incredere!" ; :hasAuthor "Cristian Chivulescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_27 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Volanul este detinut de cateva luni dar se misca ca nou este intradevar un fell foare frumos stiind ca cele 900 de grade chiar merg si le poti reduce orcand si putem oriccand sa intarim sau sa slabim volanul recomand" ; :hasAuthor "Vlad Manea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_28 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Deocamdata este primul volan achizitionat, dupa mai multe documentari parea ca  G29 este un volan bun raport calitate pret. Si dupa parerea mea asa este, in jocurile precum GtSport sau Project Cars 2,adica SIM RACING isi face foarte bine treaba, simti drumul si masina cum ar trebui si reusesti sa controlezi masina mult mai bine. Pedalele sunt de asemenea foarte bune. Daca folosesti si VR, este spectacol! " ; :hasAuthor "Nicolaevici Deian Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_29 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun olosesc volanul in Assetto Corsa, F1 2019, Project cars 2, Gram Turismo Sport si merge absolut perfect. " ; :hasAuthor "Mario Iosif" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_30 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cu drag recomand aceste volan, este absolut minunat din toate punctele de vedere. Folosesc volanul in Assetto Corsa, F1 2019, Project cars 2, Gram Turismo Sport si merge absolut perfect. " ; :hasAuthor "Rares Rus" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_38 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Merge foarte bine volanul, am cumparat 2, ambele scartaiau groaznic la virare stanga-dreapta, le-am facut retur, dar ca si comenzi, raspunde perfect, la fel si pedalele." ; :hasAuthor "George Petras" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review47207_39 rdf:type owl:NamedIndividual , rev:Review ; rev:text "E foarte bun. " ; :hasAuthor "Stefan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_40 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun! Recomand pentru Euro Truck Simulator 2, binenteles alaturi de schimgatorul de viteze de la loghitech.Eu le-am achizitionat pe amandoua odata la promotie! Observatie pt. ETS2 daca vreti sa va mearga bine in joc scoateti cablu si bagatil iar in timpul jocului!Se auto activeaza. " ; :hasAuthor "Radu Cristian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_41 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este excelent,daca nu ai G27 sau pentru ps4" ; :hasAuthor "Gogu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_42 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Chiar trebuie sa tragi de el =)) Se merita banii :)" ; :hasAuthor "Mitru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_43 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sigur ma supar daca nu merge pw laptop !!!" ; :hasAuthor "Daca nu merge pe laptop ma supar " ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review47207_45 rdf:type owl:NamedIndividual , rev:Review ; rev:text "E grozav detin unu si am si un playsit e realist trebuie sa tragi de el ........ sala de forta la tine in camera =))))" ; :hasAuthor "Luca Adrian " ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_47 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Merge și pe xbox360?" ; :hasAuthor "Full" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_48 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O bijuterie alaturi de schimbator si de jocul Project Cars" ; :hasAuthor "Chips" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_49 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Il recomand cu cea mai mare incredere.Volanul se simte super bine cu doar 2 motoare ,rotatia de 900 de grade este senzationala si este foarte buna deoarece daca l-am intors o data atata se intoarce si in joc.Eu l-am folosit la EURO TRUCK SIMULATOR 2,AMERICAN TRUCK SIMULATOR,THE CREW,PROJECT CARS,  oricum il recomand.Felicitari daca il achizitionati!!!!!!!!!" ; :hasAuthor "anume" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_50 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Eu,am si G27,dar nu merge cu PS4 ,asa ca am achizitionat recent LOGITECH Driving Force G29 si pot spune ca merita toti banii,o bijuterie!" ; :hasAuthor "Valentin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47207_51 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Acest volan împreună cu schimbătorul sunt un pachet excelent pentru un deținător de PS4, care primește și jocul Project Cars. Păcat că nu ați făcut promoție și pentru jocul pe PC. Cu siguranță merita cumpărat!" ; :hasAuthor "Bogdan L" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review246955_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Volanul este senzațional! Pentru cei pasionați care au dubii în privința cumpărării acestui volan atașez un link pentru a vedea mai multe detalii: https://youtu.be/KtbUdRzkjDE" ; :hasAuthor "Veronica Elisei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review246956_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Probabil cel mai bun volan de gaming de pe piata. Se simte foarte bine, raspunde bine la comenzi, iar in combinatie cu shifter- ul,experienta este cat se poate de realista. Recomand!" ; :hasAuthor "Cristian Josan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review246956_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Force feedback-ul este minunat, îți dă o experiență de gaming completa." ; :hasAuthor "Matei-Gabriel Auroaica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review246956_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Diferenta spre deosebire de modelele anterioare ar fi ca raspunde mai repede comenzilor fapt care ajuta mult. Arata foarte bine iar force feedback-ul este super. Nu am avut deloc probleme cu el pana acum." ; :hasAuthor "Alexandru Visan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review246956_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achiziționat acest volan din Altex și l-am folosit timp de 10 zile in jocuri precum Euro Truck Simulator 2 și Assetto Corsa Competitione undeva cam la 4 ore pe zi.  Ok, totul normal pana acum pana când după 10 zile volanul s-a decis sa facă niște zgomote când in roteam. Prima data am crezut ca este force feedbackul de la drum, dând intr-o groapa sau ceva dar nu. L-am deconectat și am văzut ca făcea la fel.  In 10 zile de utilizare ferma a volanului și vreau sa repet ferma deoarece nu a fost bruscat sau ceva, volanul a decis ca este timpul sa se defecteze. O sa îl returnez și o sa ma gândesc de 2 ori când o sa mai achiziționez un volan de la logitech deșii poate am prins eu un produs defect. In rest, volanul s-a simțit super bine, force feedbackul și true force-ul foarte bine implementat , iar pedalele sunt de buna calitate, frâna fiind apropriata de viața reala din cauza apăsării mai grele. Înainte de acest volan am avut un Thrustmaster TMX ce m-a ținut 5 ani de zile, iar pana in ziua de azi încă este funcțional fără nici un fel de problema." ; :hasAuthor "Holunga Aurel Doru" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review125432_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "si scump si dificil de manevrat. mai bine alta firma " ; :hasAuthor "marius cretu" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review125432_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparat acest produs pentru PS 4. Este usor de folosit. Este bun pentru copii." ; :hasAuthor "Mihaela Maria" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "un produs acceptabil tinand cont de pret. pedalele lasa putin de dorit dar per total merita!" ; :hasAuthor "ionut stan" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Arata bine, nu are delay, util pentru pretul dat. " ; :hasAuthor "Ionel Mihai" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "calitate pret acceptabil,pentru cat am platit" ; :hasAuthor "adrian veriga" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Volanul este bun după ce a fost testat pe multiple platforme. Suportul totuși lasă puțin de dorit." ; :hasAuthor "Catalina Voicu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produsul funcţionează conform asteptărilor.  Contra: Calitatea slabă a construcţiei." ; :hasAuthor "Bogdan Simo" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "un volan bun, copil fericit si bucuros" ; :hasAuthor "antonela somesan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Super are tot ce trebuie si un pret destul de ok!!!!" ; :hasAuthor "Claudiu Alexie" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte mulțumit însoară de un singur lucru are un pic de joc volanul da în rest nu am ce comenta " ; :hasAuthor "Armin Turcu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un volan foarte bun pentru pretul sau. " ; :hasAuthor "Doru Hanganu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pedalele de acceleratie si frana s-au blocat si nu mai raspund la comenzi dupa numai o zi de utilizare pe un PS4, cu controlere originale! L-am dat la retur fara nici un regret!" ; :hasAuthor "Cristian Svartz" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review125432_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Functioneaza bine pe pc, la xbox are ceva lag" ; :hasAuthor "Adrian Mircea Bradu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Iși merită banii, super tare  !!! " ; :hasAuthor "Sica Timis" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Usor de instalat, foarte detaliat in manual" ; :hasAuthor "Alexandru Preda" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un volan decent. Am deja unul de vreo 2 ani si a rezistat cu brio pana acum. Acesta l-am luat pentru al oferi cadou unui nepot. Se instaleaza usor si are o multime de butoane programabile. Se comporta excelent pe EuroTrack Simulator. Raspunde decent la comenzi, dar nu e pentru pretentiosi. Pentru incepatori este mai mult decat ok." ; :hasAuthor "Cristian Josan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Copilul în foloseste de cateva zile pe ps4, cel puțin pentru moment pedalele nu scârțăie în schimb am observat uneori că se blochează în joc și atunci trebuie deconectat și apoi intrat din nou în joc.  Un plus faptul că se conectează ușor pe ps. Per total un produs ok. " ; :hasAuthor "Lucia Stefan" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport calitate - preț foarte bun! Raspunde foarte bine comenzilor. Copilul este foarte încântat de produs." ; :hasAuthor "STEFAN DUMITRACHE" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La bani ăștia îl recomand este ok …. Un logitech este 1500 " ; :hasAuthor "marian ghinea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Are deja un an de joc intens pe PC - nu am observat uzura la componente - la pretul lui ofera senzatia de sofat ok " ; :hasAuthor "Ciprian Lucaciu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_21 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs ok, dar nu se compara cu logitech " ; :hasAuthor "Relu Florin Serdaru" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_22 rdf:type owl:NamedIndividual , rev:Review ; rev:text "un volan foarte bun" ; :hasAuthor "Mihai Dina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text " Iși merită banii, super tare  !!!" ; :hasAuthor "Adriana Badescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "raport calitate pret ok" ; :hasAuthor "Marian Stoica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "merita. copiul se bucura in fiecare si de el " ; :hasAuthor "gabriel catalin nedelcu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_26 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este foarte bun dar ventuzele nu se fixează pe suprafețe aspre." ; :hasAuthor "Sergiu Serban" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_27 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Mai bun acest volan decat cel de la Marvo care am avut doua si s-au stricat amandoua in mai putin de 3 luni" ; :hasAuthor "Alin Popescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_28 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O bucurie pentru orice copil " ; :hasAuthor "Relu Florin Serdaru" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_29 rdf:type owl:NamedIndividual , rev:Review ; rev:text "L-am achizitionat ieri, copilul este foarte incantat! Un volan foarte bun pentru începători! Recomand!" ; :hasAuthor "Andreea Tanasuca" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_30 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Acest volan își merită banii !" ; :hasAuthor "Alexandru-Gabriel Virlan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_31 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Copilul este foarte încântat de volan. A fost conectat la un PS4 si se joaca pe GTA . După ce i-am făcut setările, funcționează nemaipomenit. Ce ne deranjează este pedala de accelerație care a început sa scârțâie, in rest e totul ok. Livrarea foarte rapida ca de obicei. A doua zi a și ajuns. Mulțumim frumos Altex pt promptitudine!!! Suntem clienți fideli de multi ani și aveți cele mai bune preturi ." ; :hasAuthor "Loredana Gaman" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_32 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Eu l-am cumparat ieri din magazin și am cumparat și euro truck 2 platinum pack și a mers foarte bine dar trebuie sa faci sensivitatea de la setari.Recomand!" ; :hasAuthor "THEODOR FLEANCU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_33 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Lam luat azi misa părut ieftin de proastă calitate când lam băgat în leptop nu îmi vine să cred 188.94 lei merită frate adică merge ca unu normal dar ce mă enervează că DRIVERS CD nu am la leptop deci nu pot juca pe LD Player sau Blue stacks dar în rest pe my sammer car și euro trak simulator 2 sunt bombă zici că e volan de 2000 de milioane deci nu mai sta ia-l nu te uita la dizain alea mai frumoase ști cum se zice ceva frumos de calitate proastă deci ia-l baaaaa sau ca la proteve Ursu baaaaa :) deci altex mulțumesc dar dacă aveați volanul ferari pe negru făceam garanție pe 7 ani să vă bag acolo 50 lei în buzunar 😉 deci ia-l nu fi prost" ; :hasAuthor "Andrei Mic" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_34 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pentru doar 188.94 lei merita din plan. Joc ETS2 si se comporta foarte bine,trebuie facute setarile bine inainte sa te joci,toate le gasiti in joc.Nu are lag daca il setati cum trebuie. Nu e logitech dar nici nu costa cat unul de top. E drept butoanele se repeta cum au zis si altii dar cum am zis mai sus la banii astia ce vrei mai mult." ; :hasAuthor "Dragos Mihai" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_35 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un volan foarte bun pentru incepatori. Unele butoane au aceleasi functii dar pentru mine este ok. Testat in Forza Horizon 4." ; :hasAuthor "Alex Gheorghe" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_36 rdf:type owl:NamedIndividual , rev:Review ; rev:text " pro: - e comod          - are schimbator          - pedalele au chestia aia daca apesi incet nu e doar w si atat e intr-un fel ca in viata reala contra:- Pedalele scartaie foarte tare nu stiu ce as putea sa fac             - chestiile din spatele folanului sunt ca pedalale cea dreapta de acceleratie cea stanga frana                raport calitate pret e super l-am luat de la un prieten si merge super bine " ; :hasAuthor "Adi Serseniuc" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review125432_37 rdf:type owl:NamedIndividual , rev:Review ; rev:text "am o singura problema cu volanul acesta. Pedalele nu sunt progresive si ma enerveaza rau. Daca ar merge as da 6 stele, sper ca cineva sa ma ajute!" ; :hasAuthor "Robert Goilav" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_38 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte slab, arata bine, schimbatorul e ok, la fel si pedalele, dar volanul din punctul meu de vedere e slab. Testat in Euro Truck simulator 2, a fost groaznic, i am dat retur a 2 a zi, nu recomand pentru acest joc, l am testat doar in acest joc, are un lag foarte enervant, la windows 10 a fost doar plug and play, nu a trebuit sa il instalez sau ceva de genul. " ; :hasAuthor "Darius Sitaru" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review125432_39 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este un volan decent, își face treaba. Eu joc ETS 2 și sunt mulțumit de el. Recomand, mai ales că acum e la reducere." ; :hasAuthor "Andrei Cretu" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_40 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pro:       -Volan mare, confortabil      -Grip de cauciuc sau ceva in genu      -Schimbator cu 3 poziti  Contra:       -Prea multe butoane pentru o singura functie(config standard)              -Pedala Acceleratie,Clapeta dreapta si R2/8/RT              -Pedala Frana, Clapeta Stanga si L2/7/LT               -Maneta cu pozitia in fata(Minus),L1/5/LB              -Maneta cu pozitia spate(Plus),R1/6/RB              -Maneta cu pozitia spate-dreapta(R),Y/4/Triunghi       -Complicat de programat               Testat in:            -Euro Truck Simulator 2            -American Truck Simulator            -Dirt Rally            -Dirt 3            -Farming Simulator 19  Ii ok pentru jocuri in care nu iti trebuie multe comenzi pe volan(gen un reset car sau un change camera) dar pentru simulatoare gen Euro Truck si American Truck unde mai dai o semnalizare un flash, un claxon la fel si in Farming Simulator un de cuplezi/decuplezi,actionezi ceva de la utilaj nu-i de fel ok volanul. " ; :hasAuthor "David Samuel" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review125432_41 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Volanul este bun, mi-a venit chiar astazi, dar padelele din spatele volanului sunt aceasi chestie cu pedalele de aceleratie si de frana... In rest nmc" ; :hasAuthor "Eduard Baltaret" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_42 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Stie cineva cum fac sa nu mai fie acceleratia progresiva la buton? Vreau sa accelereze la maxim indiferent de putetea / intensitatea apasarii. Multumesc" ; :hasAuthor "Iuliu sebastian Ionita" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_43 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un volan foarte bun pentru începători dar Ventuzele nu se fixează pe suprafețe aspre                   . " ; :hasAuthor "Vlad Florin Toma" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_44 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu imi place pentru ca pedala de acceleratie e aceasi cu butonul de la tastatura.... adica nu poti merge cu o viteza constanta sau cu o viteza mai mica... e ca si cum accelerezi la maxim chiar daca doar apesi putin... la voi cum e ??? Poate la mine a venit cu o defectiune !! Pana aflu rezultatul dau doar o stea si nu recomand deloc!!!" ; :hasAuthor "Daniel Cretu" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review125432_45 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cel mai bun site de cumpărături online 👍" ; :hasAuthor "Badulescu Petre Marian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_46 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este un volan foarte bun pentru începători. Îl recomand!" ; :hasAuthor "Andrei Stoica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_47 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cel mai bun volan de gaming de la Myria pentru buget!" ; :hasAuthor "Andrei Stoica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_48 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport calitate-pret excelent (preț: 200 RON)." ; :hasAuthor "Florin Gheorghe" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_49 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un volan excelent.La acest pret calitativ,volanul vine cu pedale si totodata o calitate foarte buna.Eu l-am testat in GTA V si este exemplar.Pedalele se pot deteriora doar in cazul apasarii tare si brusc,insa nu foarte repede.Pentru mine este tot ce ti-ai dori de la un volan la acest pret." ; :hasAuthor "Carlos Posedaru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_50 rdf:type owl:NamedIndividual , rev:Review ; rev:text "     Este foarte bun si am o singura nemultumire: Padelele din spatele volanului sunt aceleasi cu pedalele.       La mine, peste cateva ore de utilizare, pedalele au inceput sa scartaie dar s-a rezolvat  fara sa fac nimic, asa ca daca se intampla asta si la voi, stati linistiti, nu trebuie sa faceti nimic.      De asemenea, daca nu aveti grija cum il desprindeti de pe birou sau masa, ventuzele s-ar putea sa nu mai tina volanul la fel de bine lipit. Daca aveti grija, o sa stea lipit foarte bine, eu chiar ma chinui sa il deslipesc. " ; :hasAuthor "Alex Botoman" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_51 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un volan foarte bun și la un preț bun, recomand. " ; :hasAuthor "Mario Stanciu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_52 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ii foarte bun .Un singur lucru nu mi-a plăcut ventuzele stau prinse doar pe ceva foarte fin." ; :hasAuthor "Gabriel Span" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_53 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Problema volanului e ca nu gasesti driverul online" ; :hasAuthor "Cosmin Sofron" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review125432_55 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Se conecteaza la ps 4 cu cablul usb, iar la controllerul ps4 cu un alt cablu (nu este inclus) capatul usb in portul de ghidare al volanului si capatul microusb in portul de incarcare a controllerului. Apoi se programeaza conf specificatiilor din manual." ; :hasAuthor "teodor peltea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_56 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pro: -Schimbatorul de viteze este foarte bun  Contra: -Butoanele de pe volan (cele de sus) nu sunt configurabile, sunt aceleasi cu schimbatorul;;             -Configurarea volanului este foarte complicata;             -Are doar 3 trepte de ajustare a sensibilitati;             -Unele butoane nu pot fi setate ( nu ma refer la cele de programare a volanului)                   *Testat in Euro Truck Simulator 2 si Need For Speed Payback*                 " ; :hasAuthor "Mihnea Stoica" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review125432_58 rdf:type owl:NamedIndividual , rev:Review ; rev:text "il recomand incepatorilor.  nemultumiri; a) am folosit pentru prima data padelele si padeaua din partea stanga s-a rupt dupa ce am folosit-o(nu am bruscat de loc) b) acest volan are ca stabilitate niste ventuze si daca vrei sa te joci jocuri cu curse cu el aluneca foarte tare  eu ii acord 2 stele" ; :hasAuthor "ungureanu alexandru" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review125432_59 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un volan foarte bun" ; :hasAuthor "Mark Trofin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review125432_60 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Va recomand acest volan, merge super bine, va multumesc pentru volan! ESTE EXCEPTIONAL! RECOMAND!" ; :hasAuthor "Lenuta Spatariu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312746_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun volanul merge perfect în eurotruck, forza 5, materiale de calitate preț bun." ; :hasAuthor "pacuraru ioan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312746_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achizitionat acest volan, sperand ca merge, dupa ce l am calibrat si setat cum zice in manualul de instructiuni, nu a mers deloc. Jocurile testate au fost: Euro Truck simulator 2, Forza horizon 4 si 5, asseto corsa, si need for speed most wanted. Jocurile nu au dat niciun semnal ca volanul merge, chiar daca l am calibrat cum ziceau in manual." ; :hasAuthor "Dragos Agapie" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review312746_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bucurie mare a fost pe copil! Cel mai fericit! " ; :hasAuthor "Simion Claudia" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312746_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "l-am facut retur in aceeasi zi, avea o problema la padele din fabricatie, pacat ca arata bine si cu schimbator separat" ; :hasAuthor "ionut stoica" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review312746_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "scaneaza cod QR din manual si descarca jos programul ce gasesti acolo.Dupa instalarea driverului functioneaza perfect volanul." ; :hasAuthor "Istvan Kind" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review312746_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un volan ok, materiale de calitate. Doar ca la achizitie sa verificati daca jocul ce doriti sa-l jucati cu volan acepta acest volan. Este un joc ce nu-l accepta si la verificare erau date anumite modele." ; :hasAuthor "Gheorghe Savatin" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review312746_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "In legătură cu ce a scris baiatul de mai sus .. linkul acela duce catre un driver , si functioneaza perfect pe PS4 , PC si Xbox ... nu am ce spune de rau , e foarte ok ca si constructie,  materialele sunt de calitate sistemul de vibratii functioneaza foarte bine ... pe langa un Logitech care este foarte scump nu merită ... " ; :hasAuthor "Jan-Ionel Joarza" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312746_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun pentru jocurile cu tiruri și mașini " ; :hasAuthor "Cristian Batog" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312746_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Linkul din cartea cu instructiuni are un fisier dar fisierul este gol... De aceea cilentii il aduc inapoi." ; :hasAuthor "Kulacki Ljubomir-Kristijan" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review312746_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Copii sunt mulțumiți și super încântați" ; :hasAuthor "Violeta Murgu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300188_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Acest volan i l-am facut cadou copilului meu si a fost foarte incantat. Avem un adevarat sofer la 11 ani, il controleaza chiar bine.  Raportul calitate-pret cred ca a fost ok." ; :hasAuthor "Chirilov Catalina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300188_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs bun, conform asteptarilor. Baietelul meu este incantat de volan si de faptul ca l-a primit de ziua lui.  Numai ca initial mi s-a trimis un volan pentru Play Station in loc de Xbox. Call center-ul Altex mi-a recomandat ca cel mai rapid mod de a rezolva este sa merg direct in magazin- cu confirmarea ca nu va fi nicio problema.  Dar, surpriza - la magazinul din Bucuresti din str. Sebastian mi-au spus ca nu se poate!!! Pentru ca a fost comandat online. Dupa insistente si explicatii ca greseala a fost facuta de Altex (indiferent ca se numesc departament online sau magazin fizic), plus o lunga asteptare in magazin ca ‘bonus’, am reusit sa rezolv inlocuirea produsului.  Ma voi gandi de doua ori inainte de a mai face urmtaoarea comanda la Altex! " ; :hasAuthor "Razvan Toma" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review300188_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Super ,merita ,ofera placerea gamingului!" ; :hasAuthor "George Laurentiu Anghel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300188_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "l.am luat pentru copil, la prima impresie isi face treaba si pare de calitate destul de buna. Nu are vibratii, dar la pretul asta e ok." ; :hasAuthor "sava florentin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300188_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "E un volan bun pentru bani.Dar nu are force feedback si nu stiu cun sa imi instalez aplicatia pentru volan" ; :hasAuthor "stamp dragos" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review47632_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand pentru fortza Horizon și ets  " ; :hasAuthor "FLORIAN ENE" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este un volan foarte bun pentru inceput. De preferabil sa fie alaturat si de schimbator pentru a avea o experienta mai buna. Pentru unii poate fi un dezavantaj cele 4 cabluri (daca este prezent si schimbatorul) sau nevoie de a il conecta la priza." ; :hasAuthor "Gabriela Vobl" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "un volan foarte bun, forcefeedback puternic, excelent pe asseto corsa si f1 2022" ; :hasAuthor "Daniel-Ciprian Ojog" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Probabil cel mai bun volan de gaming de pe piata. " ; :hasAuthor "Andrei Moldoveanu" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review47632_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "E super pentru mine e ok , foarte bun" ; :hasAuthor "Ioan Patric Crisan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un cadou deosebit pentru orice impatimit de jocuri!" ; :hasAuthor "catalin ciornei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Printre cele mai bune, daca nu chiar cel mai bun volan de gaming disponibil la noi" ; :hasAuthor "Cristian V-" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun! Acest volan este foarte bun pentru Forza, NFS si mai multe jocuri! Recomand!" ; :hasAuthor "Andrei Mustea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Probabil cel mai bun volan de gaming de pe piata. Gasiti pe youtube tutoriale pentru a face anumite setari pentru anumite jocuri, Pe Forza Horizon 5 se misca impecabil. Recomand cu incredere." ; :hasAuthor "Cristian Josan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este cat se poate de aproape de o experienta din realitate. Se misca realistic. Conectarea foarte usoara (il folosesc cu un xbox), stabil. Materiale par de calitate, senzatia este foarte buna. Nota 10 si pentru Altex care a livrat foarte repede si chiar si cu redirectionare la alta adresa, pe cand alte magazine online, dupa o saptamana de la Black Friday nici  macar nu au predat marfa curierului. Recomand atat produsul cat si vanzatorul." ; :hasAuthor "Florin Barascu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Imita foarte bine unul real, isi merita banii" ; :hasAuthor "Andrei Popa" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "imi place mult volanul deoarece cu un simulator, se comporta exact ca o mașină normală, cu toate forțele si rezistențele la viteza, iti îngreunează manevrabilitatea, recomand, il folosesc pe pc." ; :hasAuthor "Adelin Tipus" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "se misca foarte bine, si se simte bine" ; :hasAuthor "EMIL MOLDOVAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Fac cel putin 5 Ace-uri cu el pe cs:go cand joc cu negev-ul! RECOMAND !!! Sau pe Rocket league volanul raspunde foarte bine la miscari de 360 grade intr o mili secunda" ; :hasAuthor "Mario Stanciulescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "foarte  bun recomand" ; :hasAuthor "Andrey Davidescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Încă nu l-am cumpărat dar totuși am auzit numai lucruri bune despre el" ; :hasAuthor "Udu Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un super volan" ; :hasAuthor "Cioran Mihai" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este compatibil cu Windows 10 " ; :hasAuthor "Marcel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_22 rdf:type owl:NamedIndividual , rev:Review ; rev:text "G920 este un volan excelent in raport calitate - pret. Am avut un G27 pe care l-am folosit aprox 2 ani, timp in care nu a avut absolut nici o problema.  PRO (fata de G27): Senzorii sunt hall-effect acum. Pedala de frana vine cu un mod Nixim care permite o progresie mult mai realista in franare. Mai silentios  CONTRA Lipseste indicatorul led RPM (care era forte bun pentru ca il vedeai fara sa te focusezi pe indicatorul onscreen) Schimbatorul nu face parte din pachet si se achizitioneaza separat. Schimbatorul inca se simte toy like desi este short shift si nu creeaza probleme.  In rest totul este identic cu G27 ....Force feedback-ul este genererat prin 2 motorase ...este genul de FFB pe care ori il adori ori il urasti.  Ii dau 4 stele pentru ca desi mi se pare cel mai bun set pentru bugetului romanului de rand, ar fi trebuit sa includa si indicatorul RPM (care exista pe G29 dar nu si aici)." ; :hasAuthor "Catalin Dinu" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review47632_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Alexandru, explica te rog de ce e problematic sa intelegem ceva! Eu chiar caut sa imi iau un g27, g29 sau g920 nou zilele astea" ; :hasAuthor "Casian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review47632_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Volanul arata foarte frumos din punct de vedere al designului dar spre deosebire de modelele anterioare este foarte problematic ! Nu recomand ! " ; :hasAuthor "Alexandru" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review300189_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un volan interactiv , nu se blochează. " ; :hasAuthor "Alexa Damian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300189_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Copii sunt mulțumiți iar produsul este conform așteptărilor!" ; :hasAuthor "irina costeanu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300189_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand. Testat cu PS4 si PC." ; :hasAuthor "Cristian Sandor" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300189_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "recomand acest produs. este foarte bun" ; :hasAuthor "Popovici Mircea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300189_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Materialele sunt ok, se poate configura sensibilitatea in functie de jocuri . Il folosesc in GT7, F1 2021, Dirt 2 si Assetto Corsa, se descurca bine. Este conectat la PS5." ; :hasAuthor "CRISTIAN CHITU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300189_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun volanul , un material calitativ la un pret foarte ok! recomand" ; :hasAuthor "bogdan ionesi" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300189_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Volanul este unul foarte bun este usor de pus si pentru pretul lui isi face treaba mai mult ca perfect.Deci in concluzie daca vrei un volan acesta este perfect." ; :hasAuthor "Gabriel Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300189_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Realizat din materiale de calitate, robust, iar din pdv functional este o alternativa OK la volanele scumpe. oricum in aceasta clasa de pret nu gasesti ceva mai bun. Livrat de Altex a doua zi prin cargus - impecabil" ; :hasAuthor "Tanase Horia" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300189_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Volan cu precizie mare la pret foarte bun. Calitate buna, suficient de rigid, se comporta impecabil in GT7, F1 2022, Forza Horizon 7. Recomand!  Ii lipseste force feeeback, dar la banii astia nu le poti avea pe toate." ; :hasAuthor "Bayan Ahmad" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+

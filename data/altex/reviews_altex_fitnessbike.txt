@@ -1,0 +1,72 @@
+:Review291676_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pe lângă faptul că a fost livrată o altă culoare decât cea comandată, iar ambalajul și cartea cu instrucțiuni, ambele deteriorate, bicicleta este extrem de incomodă." ; :hasAuthor "Corina Raceanu" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review313459_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este ce cautam de mult,un produs usor de folosit,usor de transportat si care arata foarte bine.Am mers in magazi ,angajatii mi-au facut comanda si am putut  achitat cu cardul de cumparaturi in rate." ; :hasAuthor "IONUT SPRINCEANA" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review291210_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "In prima zi s-a defectat si am făcut retur, nu am reușit sa o folosesc. " ; :hasAuthor "bogdan pasc" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review291210_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs de calitate. Materiale foarte bune folosite in construcția bicicletei. Foarte silențioasă.  Nu scârțâie și bate, vine aproape asamblată.  Dispozitivul de măsurare calorii, viteză, etc e o glumă, (foarte imprecis).  Dar nu e un impediment în a face mișcare. " ; :hasAuthor "Marius Todea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review319003_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este o bicicleta solida, avand greutatea de 35 kg. Poate fi utilizata si de persoane peste 1,80 metri." ; :hasAuthor "Tiberiu Vircan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review296211_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bicicleta este solidă și foarte silențioasă, calitatea materialelor este top părerea mea ! Recomand !" ; :hasAuthor "Andreeas Maghiar" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review296211_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pachetul a venit bine ambalat! Produsul nu are zgârieturi sau alte probleme, funcționează ok!" ; :hasAuthor "Aurelian Tudor" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review296211_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bicicleta este solida ,dar foarte prost vopsita am luat culoarea alb si butucul volantei are puncte de rugina,senzorul rezistentei foarte imprecis." ; :hasAuthor "marian neamtu" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review287161_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "L-am comandat l-am platit inca nu am primit telefon sa-l ridic din magazin. Deci, ce pot sa spun?!" ; :hasAuthor "DANA BUICA" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review287161_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ușor de montat, își face treaba!" ; :hasAuthor "Alina Ivan" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review237865_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bicicleta functioneaza conform specificatiilor dar mecanismul mecanic vine cu niste neajunsuri: franarea nu e constanta, se incalzeste si miroase a plastic incins, e instabila, nu exista trepte de intensitate. In cele din urma am comandat alta cu mecanism magnetic." ; :hasAuthor "Liviu Rezmerita" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review250502_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ghidonul se mișcă oricât de tare l-ai strânge " ; :hasAuthor "Laurentiu Gabriel Pisa" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review250502_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs de ce-a mai proastă calitate.Nu recomand ." ; :hasAuthor "Daniela Gieb" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review265496_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am primit-o azi, de la Altex Chiajna, resigilata la 662lei. În anunț scria ca doar ambalajul este deteriorat. Când am desfacut-o, surpriza: lipsea surubul care prinde șaua și firul de la calculator era deteriorat. Maine ii fac retur. Mai mult decât dezamăgitor.  " ; :hasAuthor "Elena Topoloiu" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review265496_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "recomand produsul ! livrare ok" ; :hasAuthor "Ivan Adrian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review265496_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Are aproape 2 ani , functioneaza foarte bine, recomand !!" ; :hasAuthor "Roxana Elena Hoffbauer" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review291913_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "ideala pentru acasa ocupa spatiu putin " ; :hasAuthor "marius bobe" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review265494_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Lipsesc 2 șuruburi, în rest e ok, recomand." ; :hasAuthor "Cristina Simion" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review296208_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am prins 20% reducere inainte de anul nou, foarte multumit de bicicleta. O folosim toti membrii familiei, am luat-o la recomandarea unor prieteni si o recomand si eu." ; :hasAuthor "Florin Varga" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review296208_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparat la recomandarea unui prieten din UK, calitatea este foarte buna, aplicatia este ok, recomand." ; :hasAuthor "Cristian Ene" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review296209_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bicicleta e ca in prezentare , am montat-o in 20 minute , foarte incantat , aplicatia pe telefon ofera informatii utile , in a patra zi am parcurs aproape 12 km , in 30 minute ( nu e rau pt un incapator ... ) Foarte stabila , are cam 30 kg , dar poate fi mutata destul de facil . Sa nu uit de baietii de la Altex care au adus coletul pana la etajul 3 ! Multumiri !!!" ; :hasAuthor "CONSTANTIN GORONEANU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review296206_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "livrare rapida.  produs ok. materiale de calitate. usor de montat. " ; :hasAuthor "Csilla Nagy" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review312533_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Se vede ca are materiale de calitate: super silentioasa si super stabila. Este 100% de top! Merita toti banii!" ; :hasAuthor "Alina Florea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312533_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O bicicleta foarte buna, astabila, silentioasa si solida. Se potriveste atat pentru barbati cat si pentru femei. " ; :hasAuthor "Silviu Panait" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review296210_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bluetoothul nu a functionat. tableta e din deceniul trecut. pur si simplu nu merita banii." ; :hasAuthor "Dragos Arcip" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review296210_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bicicleta este una frumoasa, silentioasa si stabila. Problema a fost display-ul care a incetat sa functioneze optim dupa a doua utilizare. La cea mai mica trepidatie sau miscare de pozitie se intrerupe alimentarea si se reseteaza tableta, asadar a devenit inutilizabila. Biblicleta a fost trimisa in service dupa doar cateva utilizari." ; :hasAuthor "Roxana Radulescu " ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review296210_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am desfacut produsul in magazin si era un dezastru in cutie" ; :hasAuthor "Alex Papa" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review250503_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun. Sunt foarte multumita de acest produs." ; :hasAuthor "Florenta Bunea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review250503_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Usor de asamblat (chiar si pentru persoanele mai putin tehnice), a rezistat cu brio in utilizare pentru mai bine de jumatate de an." ; :hasAuthor "Razvan Badila" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review250503_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am dat banii pe aceasta bicicleta si am folosit-o doar pt proba.. nu e buna de nimic. pedalezi greu, nu are stabilitate, deci nu recomand.. " ; :hasAuthor "Mitrov Madalina" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review250503_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Detin bicicleta de aproximativ 1 an, este micuta , usor de depozitat. Nu am avut nici o problema pana acum , sunt multumit de achizitie , pretul acceptabil !" ; :hasAuthor "Mihai Ardeleanu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review291912_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ușor de asamblat si silențioasă la funcționare." ; :hasAuthor "Bogdan Gheorghe" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review291912_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand, foarte folositoare pentru recuperare" ; :hasAuthor "Artemon Taraboanta" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review265495_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bun aparat de sport de slabit" ; :hasAuthor "gheorghe robu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312534_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Constructie solida, super silentioasa si ergonomica. Livrare impecabila Altex!" ; :hasAuthor "Stanciu Razvan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312534_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bicicleta este bine facuta, stabila, silentioasa, se poate conecta la o multime de aplicatii pe telefon care suporta bluetooth unde poti vedea viteza, puterea, numarul de calorii. (ex: Track my indoor workout). Este vanduta si in alte parti sub brandul Xiaomi. " ; :hasAuthor "Paul Cusmin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+

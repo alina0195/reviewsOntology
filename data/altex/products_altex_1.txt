@@ -1,0 +1,1141 @@
+:Product114836 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied foto PROMATE Precise 170, 170 cm, negru" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review114836_1 , :Review114836_2 , :Review114836_3 , :Review114836_4 , :Review114836_5 , :Review114836_6 , :Review114836_7 .
+:Product311241 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac ROWENTA Power XL RO3126EA, 4.5l, 450W, 79dB, albastru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review311241_1 .
+:Product219173 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac BOSCH BGS05X240, 1.5l, 700W, 78dB, albastru-turcoaz" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.642857142857143 ;
+               :hasReview :Review219173_1 , :Review219173_2 , :Review219173_3 , :Review219173_4 , :Review219173_5 , :Review219173_6 , :Review219173_7 , :Review219173_8 , :Review219173_9 , :Review219173_10 , :Review219173_11 , :Review219173_12 , :Review219173_13 , :Review219173_14 , :Review219173_15 , :Review219173_16 , :Review219173_17 , :Review219173_18 , :Review219173_19 , :Review219173_20 , :Review219173_21 , :Review219173_22 , :Review219173_23 , :Review219173_24 , :Review219173_25 , :Review219173_26 , :Review219173_27 , :Review219173_28 .
+:Product216652 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Mop cu aburi KARCHER SC 3 Upright Easyfix, 0.5l, 1600W, galben-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.2 ;
+               :hasReview :Review216652_1 , :Review216652_2 , :Review216652_3 , :Review216652_4 , :Review216652_5 , :Review216652_6 , :Review216652_7 , :Review216652_8 , :Review216652_9 , :Review216652_10 , :Review216652_11 , :Review216652_12 , :Review216652_13 , :Review216652_14 , :Review216652_15 .
+:Product250151 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac PHILIPS Series 3000 XD3110/09, 3l, 650W, 79 dB, albastru-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.8 ;
+               :hasReview :Review250151_1 , :Review250151_2 , :Review250151_3 , :Review250151_4 , :Review250151_5 , :Review250151_6 , :Review250151_7 , :Review250151_8 , :Review250151_9 , :Review250151_10 , :Review250151_11 , :Review250151_12 , :Review250151_13 , :Review250151_14 , :Review250151_15 .
+:Product271841 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical cu abur ROWENTA Clean&Steam Revolution RY7777WH, 0.47l, 1500W, alb-albastru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.666666666666667 ;
+               :hasReview :Review271841_1 , :Review271841_2 , :Review271841_3 , :Review271841_4 , :Review271841_5 , :Review271841_6 , :Review271841_7 , :Review271841_8 , :Review271841_9 , :Review271841_10 , :Review271841_11 , :Review271841_12 , :Review271841_13 , :Review271841_14 , :Review271841_15 , :Review271841_16 , :Review271841_17 , :Review271841_18 , :Review271841_19 , :Review271841_20 , :Review271841_21 , :Review271841_22 , :Review271841_23 , :Review271841_24 , :Review271841_25 , :Review271841_26 , :Review271841_27 .
+:Product201942 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac PHILIPS PowerPro Active FC9556/09, 1.5l, 650W, 71dB, albastru-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.92 ;
+               :hasReview :Review201942_1 , :Review201942_2 , :Review201942_3 , :Review201942_4 , :Review201942_5 , :Review201942_6 , :Review201942_7 , :Review201942_8 , :Review201942_9 , :Review201942_10 , :Review201942_11 , :Review201942_12 , :Review201942_13 , :Review201942_14 , :Review201942_15 , :Review201942_16 , :Review201942_17 , :Review201942_18 , :Review201942_19 , :Review201942_20 , :Review201942_21 , :Review201942_22 , :Review201942_23 , :Review201942_24 , :Review201942_25 , :Review201942_26 , :Review201942_27 , :Review201942_28 , :Review201942_29 , :Review201942_30 , :Review201942_31 , :Review201942_32 , :Review201942_33 , :Review201942_34 , :Review201942_35 , :Review201942_36 , :Review201942_37 , :Review201942_38 , :Review201942_39 , :Review201942_40 , :Review201942_41 , :Review201942_42 , :Review201942_43 , :Review201942_44 , :Review201942_45 , :Review201942_46 , :Review201942_47 , :Review201942_48 , :Review201942_49 , :Review201942_50 .
+:Product149786 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac BOSCH BGC05AAA2, 1.5l, 700W, 78dB, rosu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.810344827586207 ;
+               :hasReview :Review149786_1 , :Review149786_2 , :Review149786_3 , :Review149786_4 , :Review149786_5 , :Review149786_6 , :Review149786_7 , :Review149786_8 , :Review149786_9 , :Review149786_10 , :Review149786_11 , :Review149786_12 , :Review149786_13 , :Review149786_14 , :Review149786_15 , :Review149786_16 , :Review149786_17 , :Review149786_18 , :Review149786_19 , :Review149786_20 , :Review149786_21 , :Review149786_22 , :Review149786_23 , :Review149786_24 , :Review149786_25 , :Review149786_26 , :Review149786_27 , :Review149786_28 , :Review149786_29 , :Review149786_30 , :Review149786_31 , :Review149786_32 , :Review149786_33 , :Review149786_34 , :Review149786_35 , :Review149786_36 , :Review149786_37 , :Review149786_38 , :Review149786_39 , :Review149786_40 , :Review149786_41 , :Review149786_42 , :Review149786_43 , :Review149786_44 , :Review149786_45 , :Review149786_46 , :Review149786_47 , :Review149786_48 , :Review149786_49 , :Review149786_50 , :Review149786_51 , :Review149786_52 , :Review149786_53 , :Review149786_54 , :Review149786_55 , :Review149786_56 , :Review149786_57 , :Review149786_58 .
+:Product105931 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac PHILIPS PowerPro Compact FC9334/09, 1.5l, 900W, 76dB, verde-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.828828828828829 ;
+               :hasReview :Review105931_1 , :Review105931_2 , :Review105931_3 , :Review105931_4 , :Review105931_5 , :Review105931_6 , :Review105931_7 , :Review105931_8 , :Review105931_9 , :Review105931_10 , :Review105931_11 , :Review105931_12 , :Review105931_13 , :Review105931_14 , :Review105931_15 , :Review105931_16 , :Review105931_17 , :Review105931_18 , :Review105931_19 , :Review105931_20 , :Review105931_21 , :Review105931_22 , :Review105931_23 , :Review105931_24 , :Review105931_25 , :Review105931_26 , :Review105931_27 , :Review105931_28 , :Review105931_29 , :Review105931_30 , :Review105931_31 , :Review105931_32 , :Review105931_33 , :Review105931_34 , :Review105931_35 , :Review105931_36 , :Review105931_37 , :Review105931_38 , :Review105931_39 , :Review105931_40 , :Review105931_41 , :Review105931_42 , :Review105931_43 , :Review105931_44 , :Review105931_45 , :Review105931_46 , :Review105931_47 , :Review105931_48 , :Review105931_49 , :Review105931_50 , :Review105931_51 , :Review105931_52 , :Review105931_53 , :Review105931_54 , :Review105931_55 , :Review105931_56 , :Review105931_57 , :Review105931_58 , :Review105931_60 , :Review105931_61 , :Review105931_62 , :Review105931_63 , :Review105931_64 , :Review105931_65 , :Review105931_66 , :Review105931_67 , :Review105931_68 , :Review105931_69 , :Review105931_70 , :Review105931_71 , :Review105931_72 , :Review105931_73 , :Review105931_74 , :Review105931_75 , :Review105931_76 , :Review105931_77 , :Review105931_78 , :Review105931_79 , :Review105931_80 , :Review105931_81 , :Review105931_82 , :Review105931_83 , :Review105931_84 , :Review105931_85 , :Review105931_86 , :Review105931_87 , :Review105931_88 , :Review105931_89 , :Review105931_90 , :Review105931_91 , :Review105931_92 , :Review105931_93 , :Review105931_94 , :Review105931_95 , :Review105931_96 , :Review105931_97 , :Review105931_98 , :Review105931_99 , :Review105931_100 .
+:Product298723 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical ELECTROLUX Ergorapido EERC75DB, 0.5l, 18V, autonomie max 35 min, albastru inchis" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.5 ;
+               :hasReview :Review298723_1 , :Review298723_2 , :Review298723_3 , :Review298723_4 , :Review298723_5 , :Review298723_6 .
+:Product298327 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical BEKO ErgoClean VRT51225VB, 0.55l, 25.2V, autonomie max 45 min, PerformCyclone, negru-argintiu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.475409836065574 ;
+               :hasReview :Review298327_1 , :Review298327_2 , :Review298327_3 , :Review298327_4 , :Review298327_5 , :Review298327_6 , :Review298327_7 , :Review298327_8 , :Review298327_9 , :Review298327_10 , :Review298327_11 , :Review298327_12 , :Review298327_13 , :Review298327_14 , :Review298327_15 , :Review298327_16 , :Review298327_17 , :Review298327_18 , :Review298327_19 , :Review298327_20 , :Review298327_21 , :Review298327_22 , :Review298327_23 , :Review298327_24 , :Review298327_25 , :Review298327_26 , :Review298327_27 , :Review298327_28 , :Review298327_29 , :Review298327_30 , :Review298327_31 , :Review298327_32 , :Review298327_33 , :Review298327_34 , :Review298327_35 , :Review298327_36 , :Review298327_37 , :Review298327_38 , :Review298327_39 , :Review298327_40 , :Review298327_41 , :Review298327_42 , :Review298327_43 , :Review298327_44 , :Review298327_45 , :Review298327_46 , :Review298327_47 , :Review298327_48 , :Review298327_49 , :Review298327_50 , :Review298327_51 , :Review298327_52 , :Review298327_53 , :Review298327_54 , :Review298327_55 , :Review298327_56 , :Review298327_57 , :Review298327_58 , :Review298327_59 , :Review298327_60 , :Review298327_61 .
+:Product181467 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac PHILIPS Performer Silent FC8784/09, 4l, 650W, 66dB, rosu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.840909090909091 ;
+               :hasReview :Review181467_1 , :Review181467_2 , :Review181467_3 , :Review181467_4 , :Review181467_5 , :Review181467_6 , :Review181467_7 , :Review181467_8 , :Review181467_9 , :Review181467_10 , :Review181467_11 , :Review181467_12 , :Review181467_13 , :Review181467_14 , :Review181467_15 , :Review181467_16 , :Review181467_17 , :Review181467_18 , :Review181467_19 , :Review181467_20 , :Review181467_21 , :Review181467_22 , :Review181467_23 , :Review181467_24 , :Review181467_25 , :Review181467_26 , :Review181467_27 , :Review181467_28 , :Review181467_29 , :Review181467_30 , :Review181467_31 , :Review181467_32 , :Review181467_33 , :Review181467_34 , :Review181467_35 , :Review181467_36 , :Review181467_37 , :Review181467_38 , :Review181467_39 , :Review181467_40 , :Review181467_41 , :Review181467_42 , :Review181467_43 , :Review181467_44 .
+:Product306390 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical 2in1 BOSCH Unlimited 7 BCS712XXL, 0.3l, 18V, autonomie max 40 min, Quick Stan, negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.8 ;
+               :hasReview :Review306390_1 , :Review306390_2 , :Review306390_3 , :Review306390_4 .
+:Product310937 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator robot ROWENTA X-plorer 75 S  RR8577WH, 0.5l, 21.6V, autonomie max 120 min, alb" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.8 ;
+               :hasReview :Review310937_1 , :Review310937_2 , :Review310937_3 , :Review310937_4 , :Review310937_5 .
+:Product202100 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac GORENJE G Force Air Pro VCEA03GAPRACY, 3.3l, 700W, 67dB, maro-rosu " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.725 ;
+               :hasReview :Review202100_1 , :Review202100_2 , :Review202100_3 , :Review202100_4 , :Review202100_5 , :Review202100_6 , :Review202100_7 , :Review202100_9 , :Review202100_10 , :Review202100_11 , :Review202100_12 , :Review202100_13 , :Review202100_14 , :Review202100_15 , :Review202100_16 , :Review202100_17 , :Review202100_18 , :Review202100_19 , :Review202100_20 , :Review202100_21 , :Review202100_22 , :Review202100_23 , :Review202100_24 , :Review202100_25 , :Review202100_26 , :Review202100_27 , :Review202100_28 , :Review202100_29 , :Review202100_30 , :Review202100_31 , :Review202100_32 , :Review202100_33 , :Review202100_34 , :Review202100_35 , :Review202100_36 , :Review202100_37 , :Review202100_38 , :Review202100_39 , :Review202100_40 .
+:Product136017 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac KARCHER VC 3 1198125, 0.9l, 700W, 76dB, galben-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.7894736842105265 ;
+               :hasReview :Review136017_1 , :Review136017_2 , :Review136017_3 , :Review136017_4 , :Review136017_5 , :Review136017_6 , :Review136017_7 , :Review136017_8 , :Review136017_9 , :Review136017_10 , :Review136017_11 , :Review136017_12 , :Review136017_13 , :Review136017_14 , :Review136017_15 , :Review136017_16 , :Review136017_17 , :Review136017_18 , :Review136017_19 .
+:Product287307 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator robot MYRIA MY4540, 0.6l, 14.8V, autonomie max 120 min, 6 moduri de curatare, alb-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.586956521739131 ;
+               :hasReview :Review287307_1 , :Review287307_2 , :Review287307_3 , :Review287307_4 , :Review287307_5 , :Review287307_6 , :Review287307_7 , :Review287307_8 , :Review287307_9 , :Review287307_10 , :Review287307_11 , :Review287307_12 , :Review287307_13 , :Review287307_14 , :Review287307_15 , :Review287307_16 , :Review287307_17 , :Review287307_18 , :Review287307_19 , :Review287307_20 , :Review287307_21 , :Review287307_22 , :Review287307_23 , :Review287307_24 , :Review287307_25 , :Review287307_26 , :Review287307_27 , :Review287307_28 , :Review287307_29 , :Review287307_30 , :Review287307_31 , :Review287307_32 , :Review287307_33 , :Review287307_34 , :Review287307_35 , :Review287307_36 , :Review287307_37 , :Review287307_38 , :Review287307_39 , :Review287307_40 , :Review287307_41 , :Review287307_42 , :Review287307_43 , :Review287307_44 , :Review287307_45 , :Review287307_46 .
+:Product310924 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical ROWENTA X-Force Flex 9.60 RH2079WO, 0.4l, 18V, autonomie max 45 min, rosu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review310924_1 .
+:Product337757 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator auto VORTEX VO2111, 80W, 0.2l" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review337757_1 .
+:Product135341 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Mop cu aburi ROWENTA Steam Power RY6537WI, 0.6l, 1200W, alb-albastru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.8354430379746836 ;
+               :hasReview :Review135341_1 , :Review135341_2 , :Review135341_3 , :Review135341_4 , :Review135341_5 , :Review135341_6 , :Review135341_7 , :Review135341_8 , :Review135341_9 , :Review135341_10 , :Review135341_11 , :Review135341_12 , :Review135341_13 , :Review135341_14 , :Review135341_15 , :Review135341_16 , :Review135341_17 , :Review135341_18 , :Review135341_19 , :Review135341_20 , :Review135341_21 , :Review135341_22 , :Review135341_23 , :Review135341_24 , :Review135341_25 , :Review135341_26 , :Review135341_27 , :Review135341_29 , :Review135341_30 , :Review135341_31 , :Review135341_32 , :Review135341_33 , :Review135341_34 , :Review135341_35 , :Review135341_36 , :Review135341_37 , :Review135341_38 , :Review135341_39 , :Review135341_40 , :Review135341_41 , :Review135341_42 , :Review135341_43 , :Review135341_44 , :Review135341_45 , :Review135341_46 , :Review135341_47 , :Review135341_48 , :Review135341_49 , :Review135341_50 , :Review135341_51 , :Review135341_52 , :Review135341_53 , :Review135341_54 , :Review135341_55 , :Review135341_56 , :Review135341_57 , :Review135341_58 , :Review135341_59 , :Review135341_60 , :Review135341_61 , :Review135341_62 , :Review135341_63 , :Review135341_64 , :Review135341_65 , :Review135341_66 , :Review135341_67 , :Review135341_68 , :Review135341_69 , :Review135341_70 , :Review135341_71 , :Review135341_72 , :Review135341_73 , :Review135341_74 , :Review135341_75 , :Review135341_76 , :Review135341_77 , :Review135341_78 .
+:Product191560 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical BEKO VRT61814VR, 0.5l, 14.4V, autonomie max 45 min, PerformCyclone, rosu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.190476190476191 ;
+               :hasReview :Review191560_1 , :Review191560_2 , :Review191560_3 , :Review191560_4 , :Review191560_5 , :Review191560_6 , :Review191560_7 , :Review191560_8 , :Review191560_9 , :Review191560_10 , :Review191560_11 , :Review191560_12 , :Review191560_13 , :Review191560_14 , :Review191560_15 , :Review191560_16 , :Review191560_17 , :Review191560_18 , :Review191560_19 , :Review191560_20 , :Review191560_21 , :Review191560_22 , :Review191560_23 , :Review191560_24 , :Review191560_25 , :Review191560_26 , :Review191560_27 , :Review191560_28 , :Review191560_29 , :Review191560_30 , :Review191560_31 , :Review191560_32 , :Review191560_33 , :Review191560_34 , :Review191560_35 , :Review191560_36 , :Review191560_37 , :Review191560_38 , :Review191560_39 , :Review191560_40 , :Review191560_41 , :Review191560_42 , :Review191560_43 , :Review191560_44 , :Review191560_45 , :Review191560_46 , :Review191560_47 , :Review191560_48 , :Review191560_49 , :Review191560_50 , :Review191560_51 , :Review191560_52 , :Review191560_53 , :Review191560_54 , :Review191560_55 , :Review191560_56 , :Review191560_57 , :Review191560_58 , :Review191560_59 , :Review191560_60 , :Review191560_61 , :Review191560_62 , :Review191560_63 , :Review191560_64 , :Review191560_65 , :Review191560_66 , :Review191560_67 , :Review191560_68 , :Review191560_69 , :Review191560_70 , :Review191560_71 , :Review191560_72 , :Review191560_73 , :Review191560_74 , :Review191560_75 , :Review191560_76 , :Review191560_77 , :Review191560_78 , :Review191560_79 , :Review191560_80 , :Review191560_81 , :Review191560_82 , :Review191560_83 , :Review191560_84 .
+:Product105926 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac PHILIPS PowerPro Compact FC9330/09, 1.5l, 900W, 76dB, rosu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.848484848484849 ;
+               :hasReview :Review105926_1 , :Review105926_2 , :Review105926_3 , :Review105926_4 , :Review105926_5 , :Review105926_6 , :Review105926_7 , :Review105926_8 , :Review105926_9 , :Review105926_10 , :Review105926_11 , :Review105926_12 , :Review105926_13 , :Review105926_14 , :Review105926_15 , :Review105926_16 , :Review105926_17 , :Review105926_18 , :Review105926_19 , :Review105926_20 , :Review105926_21 , :Review105926_22 , :Review105926_23 , :Review105926_24 , :Review105926_25 , :Review105926_26 , :Review105926_27 , :Review105926_28 , :Review105926_29 , :Review105926_30 , :Review105926_31 , :Review105926_32 , :Review105926_33 , :Review105926_34 , :Review105926_35 , :Review105926_36 , :Review105926_37 , :Review105926_38 , :Review105926_39 , :Review105926_40 , :Review105926_41 , :Review105926_42 , :Review105926_43 , :Review105926_44 , :Review105926_45 , :Review105926_46 , :Review105926_47 , :Review105926_48 , :Review105926_49 , :Review105926_50 , :Review105926_51 , :Review105926_52 , :Review105926_53 , :Review105926_54 , :Review105926_55 , :Review105926_56 , :Review105926_57 , :Review105926_58 , :Review105926_59 , :Review105926_60 , :Review105926_61 , :Review105926_62 , :Review105926_63 , :Review105926_64 , :Review105926_65 , :Review105926_66 , :Review105926_67 , :Review105926_68 , :Review105926_69 , :Review105926_70 , :Review105926_71 , :Review105926_72 , :Review105926_73 , :Review105926_74 , :Review105926_75 , :Review105926_76 , :Review105926_77 , :Review105926_78 , :Review105926_79 , :Review105926_80 , :Review105926_81 , :Review105926_82 , :Review105926_83 , :Review105926_84 , :Review105926_85 , :Review105926_86 , :Review105926_87 , :Review105926_88 , :Review105926_89 , :Review105926_90 , :Review105926_91 , :Review105926_92 , :Review105926_93 , :Review105926_94 , :Review105926_95 , :Review105926_96 , :Review105926_97 , :Review105926_98 , :Review105926_99 , :Review105926_100 .
+:Product298721 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical ELECTROLUX Ergorapido EERC73SW, 0.5l, 14.4V, autonomie max 30 min, auriu-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.882352941176471 ;
+               :hasReview :Review298721_1 , :Review298721_2 , :Review298721_3 , :Review298721_4 , :Review298721_5 , :Review298721_6 , :Review298721_7 , :Review298721_8 , :Review298721_9 , :Review298721_10 , :Review298721_11 , :Review298721_12 , :Review298721_13 , :Review298721_14 , :Review298721_15 , :Review298721_16 , :Review298721_17 , :Review298721_19 , :Review298721_20 , :Review298721_21 , :Review298721_22 , :Review298721_23 , :Review298721_24 , :Review298721_25 , :Review298721_26 , :Review298721_27 , :Review298721_28 , :Review298721_29 , :Review298721_30 , :Review298721_31 , :Review298721_32 , :Review298721_33 , :Review298721_34 , :Review298721_35 , :Review298721_36 , :Review298721_37 , :Review298721_38 , :Review298721_39 , :Review298721_40 , :Review298721_41 , :Review298721_42 , :Review298721_43 , :Review298721_44 , :Review298721_45 , :Review298721_46 , :Review298721_47 , :Review298721_48 , :Review298721_49 , :Review298721_50 , :Review298721_51 .
+:Product238293 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical BOSCH Readyy'y 20Vmax BCHF2MX20, 0.4l, 18V, autonomie max 44 min, EasyClean, albastru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.3 ;
+               :hasReview :Review238293_1 , :Review238293_2 , :Review238293_3 , :Review238293_4 , :Review238293_5 , :Review238293_6 , :Review238293_7 , :Review238293_8 , :Review238293_9 , :Review238293_10 .
+:Product123053 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac PHILIPS PowerPro Expert FC9729/09, 2l, 650W, 76dB, rosu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.875 ;
+               :hasReview :Review123053_1 , :Review123053_2 , :Review123053_3 , :Review123053_4 , :Review123053_5 , :Review123053_6 , :Review123053_7 , :Review123053_8 , :Review123053_9 , :Review123053_10 , :Review123053_11 , :Review123053_12 , :Review123053_13 , :Review123053_14 , :Review123053_15 , :Review123053_18 , :Review123053_19 , :Review123053_20 , :Review123053_21 , :Review123053_22 , :Review123053_23 , :Review123053_24 , :Review123053_25 , :Review123053_26 , :Review123053_27 , :Review123053_28 , :Review123053_29 , :Review123053_30 , :Review123053_31 .
+:Product313203 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac ELECTROLUX PD82-4MB, 3.5l, 600W, 57dB, bleu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review313203_1 , :Review313203_2 , :Review313203_3 , :Review313203_4 , :Review313203_5 .
+:Product274545 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical PHILIPS SpeedPro Aqua FC6719/01, 0.4l, 21.6V, autonomie max 50 min, PowerCyclone 7, albastru-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.956521739130435 ;
+               :hasReview :Review274545_1 , :Review274545_2 , :Review274545_3 , :Review274545_4 , :Review274545_5 , :Review274545_6 , :Review274545_7 , :Review274545_8 , :Review274545_9 , :Review274545_10 , :Review274545_11 , :Review274545_12 , :Review274545_13 , :Review274545_14 , :Review274545_15 , :Review274545_16 , :Review274545_17 , :Review274545_18 , :Review274545_19 , :Review274545_20 , :Review274545_21 , :Review274545_22 , :Review274545_23 .
+:Product271826 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical ROWENTA X-Force Flex 8.60 Aqua RH9690WO, 0.55l, autonomie max 45 min, gri-albastru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.75 ;
+               :hasReview :Review271826_1 , :Review271826_2 , :Review271826_3 , :Review271826_4 , :Review271826_5 , :Review271826_6 , :Review271826_7 , :Review271826_8 , :Review271826_9 , :Review271826_10 , :Review271826_11 , :Review271826_12 , :Review271826_15 , :Review271826_16 , :Review271826_17 , :Review271826_18 , :Review271826_19 , :Review271826_20 , :Review271826_21 , :Review271826_22 , :Review271826_23 , :Review271826_24 .
+:Product306386 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical 2in1 BOSCH Unlimited 7 BCS711EXT, 0.3l, 18V, autonomie max 40 min, Quick Stan, negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.6 ;
+               :hasReview :Review306386_1 , :Review306386_2 , :Review306386_3 , :Review306386_4 , :Review306386_5 , :Review306386_6 , :Review306386_7 , :Review306386_8 , :Review306386_9 , :Review306386_10 .
+:Product163110 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac GORENJE Compact XS VCEA11CXWII, 2l, 750W, 78dB, alb-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.72093023255814 ;
+               :hasReview :Review163110_1 , :Review163110_2 , :Review163110_3 , :Review163110_4 , :Review163110_5 , :Review163110_6 , :Review163110_7 , :Review163110_8 , :Review163110_9 , :Review163110_10 , :Review163110_11 , :Review163110_12 , :Review163110_13 , :Review163110_14 , :Review163110_15 , :Review163110_16 , :Review163110_17 , :Review163110_18 , :Review163110_19 , :Review163110_20 , :Review163110_21 , :Review163110_22 , :Review163110_23 , :Review163110_24 , :Review163110_25 , :Review163110_26 , :Review163110_27 , :Review163110_28 , :Review163110_29 , :Review163110_30 , :Review163110_31 , :Review163110_32 , :Review163110_33 , :Review163110_34 , :Review163110_35 , :Review163110_36 , :Review163110_37 , :Review163110_38 , :Review163110_39 , :Review163110_40 , :Review163110_41 , :Review163110_42 , :Review163110_43 .
+:Product236632 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac ROWENTA Compact Power XXL RO4825EA, 2.5l, 550W, 75dB, negru-argintiu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.880952380952381 ;
+               :hasReview :Review236632_1 , :Review236632_2 , :Review236632_3 , :Review236632_4 , :Review236632_5 , :Review236632_6 , :Review236632_7 , :Review236632_8 , :Review236632_9 , :Review236632_10 , :Review236632_11 , :Review236632_12 , :Review236632_13 , :Review236632_14 , :Review236632_15 , :Review236632_16 , :Review236632_17 , :Review236632_18 , :Review236632_19 , :Review236632_20 , :Review236632_21 , :Review236632_22 , :Review236632_23 , :Review236632_24 , :Review236632_25 , :Review236632_26 , :Review236632_27 , :Review236632_28 , :Review236632_29 , :Review236632_30 , :Review236632_31 , :Review236632_32 , :Review236632_33 , :Review236632_34 , :Review236632_35 , :Review236632_36 , :Review236632_37 , :Review236632_38 , :Review236632_39 , :Review236632_40 , :Review236632_41 , :Review236632_42 , :Review236632_43 , :Review236632_44 , :Review236632_45 , :Review236632_46 , :Review236632_47 , :Review236632_48 , :Review236632_49 , :Review236632_50 , :Review236632_51 , :Review236632_52 , :Review236632_53 , :Review236632_54 , :Review236632_55 , :Review236632_56 , :Review236632_57 , :Review236632_58 , :Review236632_59 , :Review236632_60 , :Review236632_61 , :Review236632_62 , :Review236632_63 , :Review236632_64 , :Review236632_65 , :Review236632_66 , :Review236632_67 , :Review236632_68 , :Review236632_69 , :Review236632_70 , :Review236632_71 , :Review236632_72 , :Review236632_73 , :Review236632_74 , :Review236632_75 , :Review236632_76 , :Review236632_77 , :Review236632_78 , :Review236632_79 , :Review236632_80 , :Review236632_81 , :Review236632_82 , :Review236632_83 , :Review236632_84 .
+:Product313532 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac MIELE Classic C1 Flex PowerLine, 4.5l, 800W, alb lotus" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review313532_1 , :Review313532_2 , :Review313532_3 , :Review313532_4 , :Review313532_5 .
+:Product300435 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator robot ROWENTA X-Plorer Serie 120 Animal&Allergy RR7865WH, 0.7l, autonomie max 120 min, Tehnologie laser+, negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.25 ;
+               :hasReview :Review300435_1 , :Review300435_2 , :Review300435_3 , :Review300435_4 , :Review300435_5 , :Review300435_6 , :Review300435_7 , :Review300435_8 , :Review300435_9 , :Review300435_10 , :Review300435_11 , :Review300435_12 .
+:Product307989 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical DYSON V12 Slim Detect Absolute, 0.35l, 25.2V, autonomie max 60 min, Root Cyclone, argintiu-galben" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.695652173913044 ;
+               :hasReview :Review307989_1 , :Review307989_2 , :Review307989_3 , :Review307989_4 , :Review307989_5 , :Review307989_6 , :Review307989_7 , :Review307989_8 , :Review307989_9 , :Review307989_10 , :Review307989_11 , :Review307989_12 , :Review307989_13 , :Review307989_14 , :Review307989_15 , :Review307989_16 , :Review307989_17 , :Review307989_18 , :Review307989_19 , :Review307989_20 , :Review307989_22 , :Review307989_23 .
+:Product219309 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac ROWENTA Swift Power Cyclonic RO2933EA, 1.2l, 750W, 77dB, visiniu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.7073170731707314 ;
+               :hasReview :Review219309_1 , :Review219309_2 , :Review219309_3 , :Review219309_4 , :Review219309_5 , :Review219309_6 , :Review219309_7 , :Review219309_8 , :Review219309_9 , :Review219309_10 , :Review219309_11 , :Review219309_12 , :Review219309_13 , :Review219309_14 , :Review219309_15 , :Review219309_16 , :Review219309_17 , :Review219309_18 , :Review219309_19 , :Review219309_20 , :Review219309_21 , :Review219309_22 , :Review219309_23 , :Review219309_24 , :Review219309_25 , :Review219309_26 , :Review219309_27 , :Review219309_28 , :Review219309_29 , :Review219309_30 , :Review219309_31 , :Review219309_32 , :Review219309_33 , :Review219309_34 , :Review219309_35 , :Review219309_36 , :Review219309_37 , :Review219309_38 , :Review219309_39 , :Review219309_40 , :Review219309_41 .
+:Product201982 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical PHILIPS SpeedPro Duo 2 in1 FC6727/01, 0.4l, 21.6V, autonomie max 50 min, PowerCyclone, turcoaz-argintiu " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.863636363636363 ;
+               :hasReview :Review201982_1 , :Review201982_2 , :Review201982_3 , :Review201982_4 , :Review201982_5 , :Review201982_6 , :Review201982_7 , :Review201982_8 , :Review201982_9 , :Review201982_10 , :Review201982_11 , :Review201982_12 , :Review201982_13 , :Review201982_14 , :Review201982_15 , :Review201982_16 , :Review201982_17 , :Review201982_18 , :Review201982_19 , :Review201982_20 , :Review201982_21 , :Review201982_22 , :Review201982_23 , :Review201982_24 , :Review201982_25 , :Review201982_26 , :Review201982_27 , :Review201982_28 , :Review201982_29 , :Review201982_30 , :Review201982_31 , :Review201982_32 , :Review201982_33 , :Review201982_34 , :Review201982_35 , :Review201982_36 , :Review201982_37 , :Review201982_38 , :Review201982_39 , :Review201982_40 , :Review201982_41 , :Review201982_42 , :Review201982_43 , :Review201982_44 .
+:Product191553 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac BEKO VCO32801AR, 1.8l, 800W, 76dB, rosu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.658536585365853 ;
+               :hasReview :Review191553_1 , :Review191553_2 , :Review191553_3 , :Review191553_4 , :Review191553_5 , :Review191553_6 , :Review191553_7 , :Review191553_8 , :Review191553_9 , :Review191553_10 , :Review191553_11 , :Review191553_12 , :Review191553_13 , :Review191553_14 , :Review191553_15 , :Review191553_16 , :Review191553_17 , :Review191553_19 , :Review191553_20 , :Review191553_21 , :Review191553_22 , :Review191553_23 , :Review191553_24 , :Review191553_26 , :Review191553_27 , :Review191553_28 , :Review191553_29 , :Review191553_30 , :Review191553_31 , :Review191553_32 , :Review191553_33 , :Review191553_34 , :Review191553_35 , :Review191553_36 , :Review191553_37 , :Review191553_38 , :Review191553_39 , :Review191553_40 , :Review191553_41 .
+:Product114510 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac SAMSUNG VC07M3110VB/GE, 2l, 700W, 80dB, albastru inchis-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.708333333333333 ;
+               :hasReview :Review114510_1 , :Review114510_2 , :Review114510_3 , :Review114510_4 , :Review114510_5 , :Review114510_6 , :Review114510_7 , :Review114510_8 , :Review114510_9 , :Review114510_10 , :Review114510_11 , :Review114510_12 , :Review114510_13 , :Review114510_14 , :Review114510_15 , :Review114510_16 , :Review114510_17 , :Review114510_18 , :Review114510_19 , :Review114510_20 , :Review114510_21 , :Review114510_22 , :Review114510_23 , :Review114510_24 , :Review114510_25 , :Review114510_26 , :Review114510_27 , :Review114510_28 , :Review114510_29 , :Review114510_30 , :Review114510_31 , :Review114510_32 , :Review114510_33 , :Review114510_34 , :Review114510_35 , :Review114510_36 , :Review114510_37 , :Review114510_38 , :Review114510_39 , :Review114510_40 , :Review114510_41 , :Review114510_42 , :Review114510_43 , :Review114510_44 , :Review114510_45 , :Review114510_46 , :Review114510_47 , :Review114510_48 .
+:Product71393 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac PHILIPS Performer Active FC8578/09, 4l, 650W, 77dB, negru-albastru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.829268292682927 ;
+               :hasReview :Review71393_1 , :Review71393_2 , :Review71393_3 , :Review71393_4 , :Review71393_5 , :Review71393_6 , :Review71393_7 , :Review71393_8 , :Review71393_9 , :Review71393_10 , :Review71393_11 , :Review71393_12 , :Review71393_13 , :Review71393_14 , :Review71393_15 , :Review71393_16 , :Review71393_17 , :Review71393_18 , :Review71393_19 , :Review71393_20 , :Review71393_21 , :Review71393_22 , :Review71393_23 , :Review71393_25 , :Review71393_26 , :Review71393_27 , :Review71393_28 , :Review71393_29 , :Review71393_30 , :Review71393_31 , :Review71393_32 , :Review71393_33 , :Review71393_34 , :Review71393_35 , :Review71393_36 , :Review71393_37 , :Review71393_38 , :Review71393_39 , :Review71393_40 , :Review71393_41 .
+:Product202758 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical 2 in 1 ROWENTA Dual Force RH6756WO, 0.6l, 21.6V, autonomie max 75 min, tehnologie ciclonica, gri " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.469879518072289 ;
+               :hasReview :Review202758_1 , :Review202758_2 , :Review202758_3 , :Review202758_4 , :Review202758_5 , :Review202758_6 , :Review202758_7 , :Review202758_8 , :Review202758_9 , :Review202758_10 , :Review202758_11 , :Review202758_12 , :Review202758_13 , :Review202758_14 , :Review202758_15 , :Review202758_16 , :Review202758_17 , :Review202758_18 , :Review202758_19 , :Review202758_20 , :Review202758_21 , :Review202758_22 , :Review202758_23 , :Review202758_24 , :Review202758_25 , :Review202758_26 , :Review202758_27 , :Review202758_28 , :Review202758_29 , :Review202758_30 , :Review202758_31 , :Review202758_32 , :Review202758_33 , :Review202758_34 , :Review202758_35 , :Review202758_36 , :Review202758_37 , :Review202758_38 , :Review202758_39 , :Review202758_40 , :Review202758_41 , :Review202758_42 , :Review202758_43 , :Review202758_44 , :Review202758_45 , :Review202758_46 , :Review202758_47 , :Review202758_48 , :Review202758_49 , :Review202758_50 , :Review202758_51 , :Review202758_52 , :Review202758_53 , :Review202758_54 , :Review202758_55 , :Review202758_56 , :Review202758_57 , :Review202758_58 , :Review202758_59 , :Review202758_60 , :Review202758_61 , :Review202758_62 , :Review202758_63 , :Review202758_64 , :Review202758_65 , :Review202758_66 , :Review202758_67 , :Review202758_68 , :Review202758_69 , :Review202758_70 , :Review202758_71 , :Review202758_72 , :Review202758_73 , :Review202758_74 , :Review202758_75 , :Review202758_76 , :Review202758_77 , :Review202758_78 , :Review202758_79 , :Review202758_80 , :Review202758_81 , :Review202758_82 , :Review202758_83 .
+:Product191097 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical BOSCH Athlet BCH6L2561, 0.9l, 25.2V, autonomie max 60 min, SensorBagless, maro" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.526315789473684 ;
+               :hasReview :Review191097_1 , :Review191097_2 , :Review191097_3 , :Review191097_4 , :Review191097_5 , :Review191097_6 , :Review191097_7 , :Review191097_8 , :Review191097_9 , :Review191097_10 , :Review191097_11 , :Review191097_12 , :Review191097_13 , :Review191097_14 , :Review191097_15 , :Review191097_16 , :Review191097_17 , :Review191097_19 .
+:Product127165 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator de mana GORENJE Free Go MVC148FW, 0.7l, 14.8V, autonomie max 20 min, SoftStart, alb" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.540983606557377 ;
+               :hasReview :Review127165_1 , :Review127165_2 , :Review127165_3 , :Review127165_4 , :Review127165_5 , :Review127165_6 , :Review127165_7 , :Review127165_8 , :Review127165_9 , :Review127165_10 , :Review127165_11 , :Review127165_12 , :Review127165_13 , :Review127165_14 , :Review127165_15 , :Review127165_16 , :Review127165_17 , :Review127165_18 , :Review127165_19 , :Review127165_20 , :Review127165_21 , :Review127165_22 , :Review127165_23 , :Review127165_24 , :Review127165_25 , :Review127165_26 , :Review127165_27 , :Review127165_28 , :Review127165_29 , :Review127165_30 , :Review127165_31 , :Review127165_32 , :Review127165_33 , :Review127165_34 , :Review127165_35 , :Review127165_36 , :Review127165_37 , :Review127165_38 , :Review127165_39 , :Review127165_40 , :Review127165_41 , :Review127165_42 , :Review127165_43 , :Review127165_44 , :Review127165_45 , :Review127165_46 , :Review127165_47 , :Review127165_48 , :Review127165_49 , :Review127165_50 , :Review127165_51 , :Review127165_52 , :Review127165_53 , :Review127165_54 , :Review127165_55 , :Review127165_56 , :Review127165_57 , :Review127165_58 , :Review127165_59 , :Review127165_60 , :Review127165_61 .
+:Product236663 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical ROWENTA Dual Force 2in1 RH6753WO, 0.6l, 21.6V, autonomie max 75 min, iluminare LED, rosu-gri inchis" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.275862068965517 ;
+               :hasReview :Review236663_1 , :Review236663_2 , :Review236663_3 , :Review236663_4 , :Review236663_5 , :Review236663_6 , :Review236663_7 , :Review236663_8 , :Review236663_9 , :Review236663_10 , :Review236663_11 , :Review236663_12 , :Review236663_13 , :Review236663_14 , :Review236663_15 , :Review236663_16 , :Review236663_17 , :Review236663_18 , :Review236663_19 , :Review236663_20 , :Review236663_21 , :Review236663_22 , :Review236663_23 , :Review236663_24 , :Review236663_25 , :Review236663_26 , :Review236663_27 , :Review236663_28 , :Review236663_29 , :Review236663_31 , :Review236663_32 , :Review236663_33 , :Review236663_34 , :Review236663_35 , :Review236663_36 , :Review236663_37 , :Review236663_38 , :Review236663_39 , :Review236663_40 , :Review236663_41 , :Review236663_42 , :Review236663_43 , :Review236663_44 , :Review236663_45 , :Review236663_46 , :Review236663_47 , :Review236663_48 , :Review236663_49 , :Review236663_50 , :Review236663_51 , :Review236663_52 , :Review236663_53 , :Review236663_54 , :Review236663_55 , :Review236663_56 , :Review236663_57 , :Review236663_58 , :Review236663_59 , :Review236663_60 , :Review236663_61 , :Review236663_62 , :Review236663_63 , :Review236663_64 , :Review236663_65 , :Review236663_66 , :Review236663_67 , :Review236663_68 , :Review236663_69 , :Review236663_70 , :Review236663_71 , :Review236663_72 , :Review236663_73 , :Review236663_74 , :Review236663_75 , :Review236663_76 , :Review236663_77 , :Review236663_78 , :Review236663_79 , :Review236663_80 , :Review236663_81 , :Review236663_82 , :Review236663_83 , :Review236663_84 , :Review236663_85 , :Review236663_86 , :Review236663_87 .
+:Product204404 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu spalare BOSCH AquaWash&Clean BWD41720, 5l, 1700W, alb-turcoaz" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.606060606060606 ;
+               :hasReview :Review204404_1 , :Review204404_2 , :Review204404_3 , :Review204404_4 , :Review204404_5 , :Review204404_6 , :Review204404_7 , :Review204404_8 , :Review204404_9 , :Review204404_11 , :Review204404_12 , :Review204404_13 , :Review204404_14 , :Review204404_15 , :Review204404_16 , :Review204404_17 , :Review204404_18 , :Review204404_19 , :Review204404_20 , :Review204404_21 , :Review204404_22 , :Review204404_23 , :Review204404_24 , :Review204404_25 , :Review204404_26 , :Review204404_27 , :Review204404_28 , :Review204404_29 , :Review204404_30 , :Review204404_31 , :Review204404_32 , :Review204404_33 .
+:Product204409 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu spalare BOSCH AquaWash&Clean BWD421PET, 5l, 2100W, negru-rosu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.819444444444445 ;
+               :hasReview :Review204409_1 , :Review204409_2 , :Review204409_3 , :Review204409_4 , :Review204409_5 , :Review204409_6 , :Review204409_7 , :Review204409_8 , :Review204409_9 , :Review204409_10 , :Review204409_11 , :Review204409_12 , :Review204409_13 , :Review204409_14 , :Review204409_15 , :Review204409_16 , :Review204409_17 , :Review204409_18 , :Review204409_19 , :Review204409_20 , :Review204409_21 , :Review204409_22 , :Review204409_23 , :Review204409_24 , :Review204409_25 , :Review204409_26 , :Review204409_27 , :Review204409_28 , :Review204409_29 , :Review204409_30 , :Review204409_31 , :Review204409_32 , :Review204409_33 , :Review204409_34 , :Review204409_35 , :Review204409_36 , :Review204409_37 , :Review204409_38 , :Review204409_39 , :Review204409_40 , :Review204409_41 , :Review204409_42 , :Review204409_43 , :Review204409_44 , :Review204409_45 , :Review204409_46 , :Review204409_47 , :Review204409_48 , :Review204409_49 , :Review204409_50 , :Review204409_51 , :Review204409_52 , :Review204409_53 , :Review204409_54 , :Review204409_55 , :Review204409_56 , :Review204409_57 , :Review204409_58 , :Review204409_59 , :Review204409_60 , :Review204409_61 , :Review204409_62 , :Review204409_63 , :Review204409_64 , :Review204409_65 , :Review204409_66 , :Review204409_67 , :Review204409_68 , :Review204409_69 , :Review204409_70 , :Review204409_71 , :Review204409_72 .
+:Product204408 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu spalare BOSCH AquaWash&Clean BWD420HYG, 5l, 2000W, alb-bleu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.9714285714285715 ;
+               :hasReview :Review204408_1 , :Review204408_2 , :Review204408_3 , :Review204408_4 , :Review204408_5 , :Review204408_6 , :Review204408_7 , :Review204408_8 , :Review204408_9 , :Review204408_10 , :Review204408_11 , :Review204408_12 , :Review204408_13 , :Review204408_14 , :Review204408_15 , :Review204408_16 , :Review204408_17 , :Review204408_18 , :Review204408_19 , :Review204408_20 , :Review204408_21 , :Review204408_22 , :Review204408_23 , :Review204408_24 , :Review204408_25 , :Review204408_26 , :Review204408_27 , :Review204408_28 , :Review204408_29 , :Review204408_31 , :Review204408_33 , :Review204408_34 , :Review204408_35 .
+:Product128103 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac GORENJE G Force Lite VCEA21GLW, 3l, 700W, 65dB, alb-gri inchis " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.884615384615385 ;
+               :hasReview :Review128103_1 , :Review128103_2 , :Review128103_3 , :Review128103_4 , :Review128103_5 , :Review128103_6 , :Review128103_7 , :Review128103_8 , :Review128103_9 , :Review128103_10 , :Review128103_11 , :Review128103_12 , :Review128103_13 , :Review128103_14 , :Review128103_15 , :Review128103_16 , :Review128103_17 , :Review128103_18 , :Review128103_19 , :Review128103_20 , :Review128103_21 , :Review128103_22 , :Review128103_23 , :Review128103_24 , :Review128103_25 , :Review128103_26 .
+:Product249186 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical BOSCH Readyy'y BCHF216B, 0.4l, 14.4V, autonomie max 40 min, EasyClean, negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.6 ;
+               :hasReview :Review249186_1 , :Review249186_2 , :Review249186_3 , :Review249186_4 , :Review249186_5 , :Review249186_6 , :Review249186_7 , :Review249186_8 , :Review249186_9 , :Review249186_10 , :Review249186_11 , :Review249186_12 , :Review249186_13 , :Review249186_14 , :Review249186_15 , :Review249186_16 , :Review249186_17 , :Review249186_18 , :Review249186_19 , :Review249186_20 , :Review249186_21 , :Review249186_22 , :Review249186_23 , :Review249186_24 , :Review249186_25 , :Review249186_26 , :Review249186_27 , :Review249186_29 , :Review249186_30 .
+:Product233892 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator auto BLACK & DECKER NVB12AV, 0.31l, 12V, negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review233892_1 , :Review233892_2 , :Review233892_3 , :Review233892_4 , :Review233892_5 , :Review233892_6 , :Review233892_7 , :Review233892_8 , :Review233892_9 , :Review233892_10 .
+:Product258096 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Mop cu aburi GORENJE SC1200W, 0.35l, 1200W, alb-albastru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.672413793103448 ;
+               :hasReview :Review258096_1 , :Review258096_2 , :Review258096_3 , :Review258096_4 , :Review258096_5 , :Review258096_6 , :Review258096_7 , :Review258096_8 , :Review258096_9 , :Review258096_10 , :Review258096_11 , :Review258096_12 , :Review258096_13 , :Review258096_14 , :Review258096_15 , :Review258096_16 , :Review258096_17 , :Review258096_18 , :Review258096_19 , :Review258096_21 , :Review258096_22 , :Review258096_23 , :Review258096_24 , :Review258096_25 , :Review258096_26 , :Review258096_27 , :Review258096_28 , :Review258096_29 , :Review258096_30 , :Review258096_31 , :Review258096_32 , :Review258096_33 , :Review258096_34 , :Review258096_35 , :Review258096_36 , :Review258096_37 , :Review258096_38 , :Review258096_39 , :Review258096_40 , :Review258096_41 , :Review258096_42 , :Review258096_43 , :Review258096_44 , :Review258096_45 , :Review258096_46 , :Review258096_47 , :Review258096_48 , :Review258096_49 , :Review258096_50 , :Review258096_51 , :Review258096_52 , :Review258096_53 , :Review258096_54 , :Review258096_55 , :Review258096_56 , :Review258096_57 , :Review258096_58 .
+:Product258472 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical GORENJE Freestyle SVC180FW, 0.6l, 18V, autonomie max 45 min, iluminare LED, alb-gri inchis" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.444444444444445 ;
+               :hasReview :Review258472_1 , :Review258472_2 , :Review258472_3 , :Review258472_4 , :Review258472_5 , :Review258472_6 , :Review258472_7 , :Review258472_8 , :Review258472_9 , :Review258472_10 , :Review258472_11 , :Review258472_12 , :Review258472_13 , :Review258472_14 , :Review258472_15 , :Review258472_16 , :Review258472_17 , :Review258472_18 , :Review258472_19 , :Review258472_20 , :Review258472_21 , :Review258472_22 , :Review258472_23 , :Review258472_24 , :Review258472_25 , :Review258472_26 , :Review258472_27 , :Review258472_28 , :Review258472_29 , :Review258472_30 , :Review258472_31 , :Review258472_32 , :Review258472_33 , :Review258472_34 , :Review258472_35 , :Review258472_36 , :Review258472_37 , :Review258472_38 , :Review258472_39 , :Review258472_40 , :Review258472_41 , :Review258472_42 , :Review258472_43 , :Review258472_44 , :Review258472_45 .
+:Product314118 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical ELECTROLUX Ergorapido Classic EERC75WRK, 0.5l, 18V, autonomie max 35 min, rosu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.833333333333333 ;
+               :hasReview :Review314118_1 , :Review314118_2 , :Review314118_3 , :Review314118_4 , :Review314118_5 , :Review314118_6 , :Review314118_7 , :Review314118_8 , :Review314118_9 , :Review314118_10 , :Review314118_11 , :Review314118_12 .
+:Product313217 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical 2in1 BOSCH Flexxo 2 BBH32551, 0.4l, 25.2V, autonomie max 55 min, Sistem EasyClean, alb-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.6 ;
+               :hasReview :Review313217_1 , :Review313217_2 , :Review313217_3 , :Review313217_4 , :Review313217_5 , :Review313217_6 , :Review313217_7 , :Review313217_8 , :Review313217_9 , :Review313217_10 , :Review313217_11 , :Review313217_12 , :Review313217_13 , :Review313217_14 , :Review313217_15 .
+:Product324822 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical DYSON V11 Absolute, 0.54l, 25.5V, autonomie max 60 min, Tehnologia Radial Root Cyclone, albastru-argintiu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review324822_1 , :Review324822_2 .
+:Product287291 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical DYSON V15 Detect Absolute, 0.77l, 25.2V, autonomie max 60 min, Root Cyclone, argintiu-portocaliu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.590909090909091 ;
+               :hasReview :Review287291_1 , :Review287291_2 , :Review287291_3 , :Review287291_4 , :Review287291_5 , :Review287291_6 , :Review287291_7 , :Review287291_8 , :Review287291_9 , :Review287291_10 , :Review287291_11 , :Review287291_12 , :Review287291_13 , :Review287291_14 , :Review287291_15 , :Review287291_16 , :Review287291_17 , :Review287291_18 , :Review287291_19 , :Review287291_20 , :Review287291_21 , :Review287291_22 .
+:Product202103 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac GORENJE Force Air VCEA01GACBUCY, 2.2l, 800W, 78dB, albastru-gri " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.55 ;
+               :hasReview :Review202103_1 , :Review202103_2 , :Review202103_3 , :Review202103_4 , :Review202103_5 , :Review202103_6 , :Review202103_7 , :Review202103_8 , :Review202103_9 , :Review202103_10 , :Review202103_11 , :Review202103_12 , :Review202103_13 , :Review202103_14 , :Review202103_15 , :Review202103_16 , :Review202103_17 , :Review202103_18 , :Review202103_19 , :Review202103_20 , :Review202103_21 , :Review202103_22 , :Review202103_23 , :Review202103_24 , :Review202103_25 , :Review202103_26 , :Review202103_27 , :Review202103_28 , :Review202103_29 , :Review202103_30 , :Review202103_31 , :Review202103_32 , :Review202103_33 , :Review202103_34 , :Review202103_36 , :Review202103_37 , :Review202103_38 , :Review202103_39 , :Review202103_40 , :Review202103_41 , :Review202103_42 , :Review202103_43 , :Review202103_44 , :Review202103_45 , :Review202103_46 , :Review202103_47 , :Review202103_48 , :Review202103_49 , :Review202103_50 , :Review202103_51 , :Review202103_52 , :Review202103_53 , :Review202103_54 , :Review202103_55 , :Review202103_56 , :Review202103_57 , :Review202103_58 , :Review202103_59 , :Review202103_60 .
+:Product238249 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator de mana BOSCH Move BHN16L, 14.4V, autonomie max 40 min, High Airflow System, maro-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.75 ;
+               :hasReview :Review238249_1 , :Review238249_2 , :Review238249_3 , :Review238249_4 , :Review238249_5 , :Review238249_6 , :Review238249_7 , :Review238249_8 , :Review238249_9 , :Review238249_10 , :Review238249_11 , :Review238249_12 , :Review238249_13 , :Review238249_14 , :Review238249_15 , :Review238249_16 , :Review238249_17 , :Review238249_18 , :Review238249_19 .
+:Product115335 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac BEKO VCM71605AP, 2.8l, 800W, 73dB, mov-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.45 ;
+               :hasReview :Review115335_1 , :Review115335_2 , :Review115335_3 , :Review115335_4 , :Review115335_5 , :Review115335_6 , :Review115335_7 , :Review115335_8 , :Review115335_9 , :Review115335_10 , :Review115335_11 , :Review115335_12 , :Review115335_13 , :Review115335_14 , :Review115335_15 , :Review115335_16 , :Review115335_17 , :Review115335_18 , :Review115335_19 , :Review115335_20 , :Review115335_21 , :Review115335_22 , :Review115335_23 , :Review115335_24 , :Review115335_25 , :Review115335_26 , :Review115335_27 , :Review115335_28 , :Review115335_29 , :Review115335_30 , :Review115335_31 , :Review115335_32 , :Review115335_34 , :Review115335_35 , :Review115335_36 , :Review115335_37 , :Review115335_38 , :Review115335_39 , :Review115335_40 .
+:Product114501 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac SAMSUNG VC07M25E0WR/GE, 2.5l, 750W, 79dB, rosu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.6 ;
+               :hasReview :Review114501_1 , :Review114501_2 , :Review114501_3 , :Review114501_4 , :Review114501_5 , :Review114501_6 , :Review114501_7 , :Review114501_8 , :Review114501_9 , :Review114501_10 , :Review114501_11 , :Review114501_12 , :Review114501_13 , :Review114501_14 , :Review114501_15 .
+:Product114079 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac ROWENTA Compact Power RO3953EA, 3l, 750W, 75dB, rosu " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.905882352941177 ;
+               :hasReview :Review114079_1 , :Review114079_2 , :Review114079_3 , :Review114079_4 , :Review114079_5 , :Review114079_6 , :Review114079_7 , :Review114079_8 , :Review114079_9 , :Review114079_10 , :Review114079_11 , :Review114079_12 , :Review114079_13 , :Review114079_14 , :Review114079_15 , :Review114079_16 , :Review114079_17 , :Review114079_18 , :Review114079_19 , :Review114079_20 , :Review114079_21 , :Review114079_22 , :Review114079_23 , :Review114079_24 , :Review114079_25 , :Review114079_26 , :Review114079_27 , :Review114079_28 , :Review114079_29 , :Review114079_30 , :Review114079_31 , :Review114079_32 , :Review114079_33 , :Review114079_34 , :Review114079_35 , :Review114079_36 , :Review114079_37 , :Review114079_38 , :Review114079_39 , :Review114079_40 , :Review114079_41 , :Review114079_42 , :Review114079_43 , :Review114079_44 , :Review114079_45 , :Review114079_46 , :Review114079_47 , :Review114079_48 , :Review114079_49 , :Review114079_50 , :Review114079_51 , :Review114079_52 , :Review114079_53 , :Review114079_54 , :Review114079_55 , :Review114079_56 , :Review114079_57 , :Review114079_58 , :Review114079_59 , :Review114079_60 , :Review114079_61 , :Review114079_62 , :Review114079_63 , :Review114079_64 , :Review114079_65 , :Review114079_66 , :Review114079_67 , :Review114079_68 , :Review114079_69 , :Review114079_70 , :Review114079_71 , :Review114079_72 , :Review114079_73 , :Review114079_74 , :Review114079_75 , :Review114079_76 , :Review114079_77 , :Review114079_78 , :Review114079_79 , :Review114079_80 , :Review114079_81 , :Review114079_82 , :Review114079_83 , :Review114079_85 .
+:Product308699 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac BOSCH BGBS2BU1T, 3.5l, 850W, 80dB, albastru inchis-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review308699_1 , :Review308699_2 , :Review308699_3 , :Review308699_4 , :Review308699_5 , :Review308699_6 , :Review308699_7 , :Review308699_8 , :Review308699_9 .
+:Product312636 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical BEKO ErgoClean PRO VRT84225VI, 0.55l, 25.2V, autonomie max 45 min, negru-gri" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review312636_1 , :Review312636_2 .
+:Product286313 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac PHILIPS PowerPro Active seria 5000 FC9557/09, 1.5l, 900W, 77dB, albastru-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.935483870967742 ;
+               :hasReview :Review286313_1 , :Review286313_2 , :Review286313_3 , :Review286313_4 , :Review286313_5 , :Review286313_6 , :Review286313_7 , :Review286313_8 , :Review286313_9 , :Review286313_10 , :Review286313_11 , :Review286313_12 , :Review286313_13 , :Review286313_14 , :Review286313_15 , :Review286313_16 , :Review286313_17 , :Review286313_18 , :Review286313_19 , :Review286313_20 , :Review286313_21 , :Review286313_22 , :Review286313_23 , :Review286313_24 , :Review286313_25 , :Review286313_26 , :Review286313_27 , :Review286313_28 , :Review286313_29 , :Review286313_30 , :Review286313_31 .
+:Product320778 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical DYSON  V8 Absolute, 0.54l, 21.6V, autonomie max 40 min, Tehnologia 2 Tier Radial, mov-argintiu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review320778_1 , :Review320778_2 , :Review320778_3 , :Review320778_4 .
+:Product313218 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical 2in1 BOSCH Unlimited 6 BBS611BSC, 0.3l, 18V, autonomie max 30 min, Power for ALL, negru-argintiu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review313218_1 , :Review313218_2 , :Review313218_3 , :Review313218_4 , :Review313218_5 , :Review313218_6 , :Review313218_7 , :Review313218_8 , :Review313218_9 , :Review313218_10 , :Review313218_11 .
+:Product264326 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac ELECTROLUX Ease C2 ECC21-2IW, 1.3l, 800W, 78dB, alb-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.775862068965517 ;
+               :hasReview :Review264326_1 , :Review264326_2 , :Review264326_3 , :Review264326_4 , :Review264326_5 , :Review264326_6 , :Review264326_7 , :Review264326_8 , :Review264326_9 , :Review264326_10 , :Review264326_11 , :Review264326_12 , :Review264326_13 , :Review264326_14 , :Review264326_15 , :Review264326_16 , :Review264326_17 , :Review264326_18 , :Review264326_19 , :Review264326_20 , :Review264326_21 , :Review264326_22 , :Review264326_23 , :Review264326_24 , :Review264326_25 , :Review264326_26 , :Review264326_27 , :Review264326_28 , :Review264326_29 , :Review264326_30 , :Review264326_31 , :Review264326_32 , :Review264326_33 , :Review264326_34 , :Review264326_35 , :Review264326_36 , :Review264326_37 , :Review264326_38 , :Review264326_39 , :Review264326_40 , :Review264326_41 , :Review264326_42 , :Review264326_43 , :Review264326_44 , :Review264326_45 , :Review264326_46 , :Review264326_47 , :Review264326_48 , :Review264326_49 , :Review264326_50 , :Review264326_51 , :Review264326_52 , :Review264326_53 , :Review264326_54 , :Review264326_55 , :Review264326_56 , :Review264326_57 , :Review264326_58 .
+:Product219163 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Mop cu aburi MYRIA MY4537, 0.35l, 1500W, alb-albastru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.43859649122807 ;
+               :hasReview :Review219163_1 , :Review219163_2 , :Review219163_3 , :Review219163_4 , :Review219163_5 , :Review219163_6 , :Review219163_7 , :Review219163_8 , :Review219163_9 , :Review219163_10 , :Review219163_11 , :Review219163_12 , :Review219163_13 , :Review219163_14 , :Review219163_15 , :Review219163_16 , :Review219163_17 , :Review219163_18 , :Review219163_19 , :Review219163_20 , :Review219163_21 , :Review219163_22 , :Review219163_23 , :Review219163_24 , :Review219163_25 , :Review219163_26 , :Review219163_27 , :Review219163_28 , :Review219163_29 , :Review219163_30 , :Review219163_31 , :Review219163_32 , :Review219163_33 , :Review219163_34 , :Review219163_35 , :Review219163_36 , :Review219163_37 , :Review219163_38 , :Review219163_39 , :Review219163_40 , :Review219163_41 , :Review219163_42 , :Review219163_43 , :Review219163_44 , :Review219163_45 , :Review219163_46 , :Review219163_47 , :Review219163_48 , :Review219163_49 , :Review219163_50 , :Review219163_51 , :Review219163_52 , :Review219163_53 , :Review219163_54 , :Review219163_55 , :Review219163_56 , :Review219163_57 .
+:Product159811 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac VORTEX VO4501, 3l, 750W, 76dB, negru-albastru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review159811_1 , :Review159811_2 , :Review159811_3 .
+:Product191826 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical BEKO VRT61821VD, 0.5l, 21.6V, autonomie max 70 min, PerformCyclone, albastru inchis" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.1875 ;
+               :hasReview :Review191826_1 , :Review191826_2 , :Review191826_3 , :Review191826_4 , :Review191826_5 , :Review191826_6 , :Review191826_7 , :Review191826_8 , :Review191826_9 , :Review191826_10 , :Review191826_11 , :Review191826_12 , :Review191826_13 , :Review191826_14 , :Review191826_15 , :Review191826_16 , :Review191826_17 , :Review191826_18 , :Review191826_19 , :Review191826_20 , :Review191826_21 , :Review191826_22 , :Review191826_23 , :Review191826_24 , :Review191826_25 , :Review191826_26 , :Review191826_27 , :Review191826_28 , :Review191826_29 , :Review191826_30 , :Review191826_31 , :Review191826_32 , :Review191826_33 , :Review191826_34 , :Review191826_35 , :Review191826_36 , :Review191826_37 , :Review191826_38 , :Review191826_39 , :Review191826_40 , :Review191826_41 , :Review191826_42 , :Review191826_43 , :Review191826_44 , :Review191826_46 , :Review191826_47 , :Review191826_48 .
+:Product124898 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac ELECTROLUX EasyGo EEG43IGM, 3l, 650W, 80dB, gri " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.913978494623656 ;
+               :hasReview :Review124898_1 , :Review124898_2 , :Review124898_3 , :Review124898_4 , :Review124898_5 , :Review124898_6 , :Review124898_7 , :Review124898_8 , :Review124898_9 , :Review124898_10 , :Review124898_11 , :Review124898_12 , :Review124898_13 , :Review124898_14 , :Review124898_15 , :Review124898_16 , :Review124898_17 , :Review124898_18 , :Review124898_19 , :Review124898_20 , :Review124898_21 , :Review124898_22 , :Review124898_23 , :Review124898_24 , :Review124898_25 , :Review124898_26 , :Review124898_27 , :Review124898_28 , :Review124898_29 , :Review124898_30 , :Review124898_31 , :Review124898_32 , :Review124898_33 , :Review124898_34 , :Review124898_35 , :Review124898_36 , :Review124898_37 , :Review124898_38 , :Review124898_39 , :Review124898_40 , :Review124898_41 , :Review124898_42 , :Review124898_43 , :Review124898_44 , :Review124898_45 , :Review124898_46 , :Review124898_47 , :Review124898_48 , :Review124898_49 , :Review124898_50 , :Review124898_51 , :Review124898_52 , :Review124898_53 , :Review124898_54 , :Review124898_55 , :Review124898_56 , :Review124898_57 , :Review124898_58 , :Review124898_59 , :Review124898_60 , :Review124898_61 , :Review124898_62 , :Review124898_63 , :Review124898_64 , :Review124898_65 , :Review124898_66 , :Review124898_67 , :Review124898_68 , :Review124898_69 , :Review124898_70 , :Review124898_71 , :Review124898_72 , :Review124898_73 , :Review124898_74 , :Review124898_75 , :Review124898_76 , :Review124898_77 , :Review124898_78 , :Review124898_79 , :Review124898_80 , :Review124898_81 , :Review124898_82 , :Review124898_83 , :Review124898_84 , :Review124898_85 , :Review124898_86 , :Review124898_87 , :Review124898_88 , :Review124898_89 , :Review124898_90 , :Review124898_91 , :Review124898_92 , :Review124898_93 .
+:Product309424 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical 2in1 BOSCH Flexxo Gen2 Seria 4 BBH3ALL23, 0.4l, 21.6V, autonomie max 50 min, Sistem RobustAir, maro-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.8 ;
+               :hasReview :Review309424_1 , :Review309424_2 , :Review309424_3 , :Review309424_4 , :Review309424_5 .
+:Product271875 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical ELECTROLUX Well Q7-P WQ71-P52SS, 0.35l, 21.6V, autonomie max 50 min, bej" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.898039215686275 ;
+               :hasReview :Review271875_1 , :Review271875_2 , :Review271875_3 , :Review271875_4 , :Review271875_5 , :Review271875_6 , :Review271875_7 , :Review271875_8 , :Review271875_9 , :Review271875_10 , :Review271875_11 , :Review271875_12 , :Review271875_13 , :Review271875_14 , :Review271875_15 , :Review271875_16 , :Review271875_17 , :Review271875_18 , :Review271875_19 , :Review271875_20 , :Review271875_21 , :Review271875_22 , :Review271875_23 , :Review271875_24 , :Review271875_25 , :Review271875_26 , :Review271875_27 , :Review271875_28 , :Review271875_29 , :Review271875_30 , :Review271875_31 , :Review271875_32 , :Review271875_33 , :Review271875_34 , :Review271875_35 , :Review271875_36 , :Review271875_37 , :Review271875_38 , :Review271875_39 , :Review271875_40 , :Review271875_41 , :Review271875_42 , :Review271875_43 , :Review271875_44 , :Review271875_45 , :Review271875_46 , :Review271875_47 , :Review271875_48 , :Review271875_49 , :Review271875_50 , :Review271875_51 , :Review271875_52 , :Review271875_53 , :Review271875_54 , :Review271875_55 , :Review271875_56 , :Review271875_57 , :Review271875_58 , :Review271875_59 , :Review271875_60 , :Review271875_61 , :Review271875_62 , :Review271875_63 , :Review271875_64 , :Review271875_65 , :Review271875_66 , :Review271875_67 , :Review271875_68 , :Review271875_69 , :Review271875_70 , :Review271875_71 , :Review271875_72 , :Review271875_73 , :Review271875_74 , :Review271875_75 , :Review271875_76 , :Review271875_77 , :Review271875_78 , :Review271875_79 , :Review271875_80 , :Review271875_81 , :Review271875_82 , :Review271875_83 , :Review271875_84 , :Review271875_85 , :Review271875_86 , :Review271875_87 , :Review271875_88 , :Review271875_89 , :Review271875_90 , :Review271875_91 , :Review271875_92 , :Review271875_93 , :Review271875_94 , :Review271875_95 , :Review271875_96 , :Review271875_97 , :Review271875_98 , :Review271875_99 , :Review271875_100 .
+:Product114494 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac SAMSUNG VC07M25E0WB/GE, 2.5l, 750W, 79dB, albastru-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.363636363636363 ;
+               :hasReview :Review114494_1 , :Review114494_2 , :Review114494_3 , :Review114494_4 , :Review114494_5 , :Review114494_6 , :Review114494_7 , :Review114494_8 , :Review114494_9 , :Review114494_10 , :Review114494_11 .
+:Product115880 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac BEKO VCC5325AR, 3.2l, 800W, 76dB, rosu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.753623188405797 ;
+               :hasReview :Review115880_1 , :Review115880_2 , :Review115880_3 , :Review115880_4 , :Review115880_5 , :Review115880_6 , :Review115880_7 , :Review115880_8 , :Review115880_9 , :Review115880_10 , :Review115880_11 , :Review115880_12 , :Review115880_13 , :Review115880_14 , :Review115880_15 , :Review115880_16 , :Review115880_17 , :Review115880_18 , :Review115880_19 , :Review115880_20 , :Review115880_21 , :Review115880_22 , :Review115880_23 , :Review115880_24 , :Review115880_25 , :Review115880_26 , :Review115880_27 , :Review115880_28 , :Review115880_30 , :Review115880_31 , :Review115880_32 , :Review115880_33 , :Review115880_34 , :Review115880_36 , :Review115880_37 , :Review115880_38 , :Review115880_39 , :Review115880_40 , :Review115880_41 , :Review115880_42 , :Review115880_43 , :Review115880_44 , :Review115880_45 , :Review115880_46 , :Review115880_47 , :Review115880_48 , :Review115880_49 , :Review115880_50 , :Review115880_51 , :Review115880_52 , :Review115880_53 , :Review115880_54 , :Review115880_55 , :Review115880_56 , :Review115880_57 , :Review115880_58 , :Review115880_59 , :Review115880_60 , :Review115880_61 , :Review115880_62 , :Review115880_64 , :Review115880_65 , :Review115880_66 , :Review115880_67 , :Review115880_68 , :Review115880_69 .
+:Product300434 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac ROWENTA Swift Power Cyclonic RO2957EA, 1.2l, 750W, 77dB, alb-negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.619047619047619 ;
+               :hasReview :Review300434_1 , :Review300434_2 , :Review300434_3 , :Review300434_4 , :Review300434_5 , :Review300434_6 , :Review300434_7 , :Review300434_8 , :Review300434_9 , :Review300434_10 , :Review300434_11 , :Review300434_12 , :Review300434_13 , :Review300434_14 , :Review300434_15 , :Review300434_16 , :Review300434_17 , :Review300434_18 , :Review300434_19 , :Review300434_20 , :Review300434_21 .
+:Product296403 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical MYRIA MY4541, 0.6l, 31V, autonomie max 40 min, alb-argintiu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.833333333333333 ;
+               :hasReview :Review296403_1 , :Review296403_2 , :Review296403_3 , :Review296403_4 , :Review296403_5 , :Review296403_6 , :Review296403_7 , :Review296403_8 , :Review296403_9 , :Review296403_10 , :Review296403_11 , :Review296403_12 , :Review296403_13 , :Review296403_14 , :Review296403_15 , :Review296403_16 , :Review296403_17 , :Review296403_18 , :Review296403_19 , :Review296403_20 , :Review296403_21 , :Review296403_22 , :Review296403_23 , :Review296403_24 , :Review296403_25 , :Review296403_26 , :Review296403_27 , :Review296403_28 , :Review296403_29 , :Review296403_30 , :Review296403_31 , :Review296403_32 , :Review296403_33 , :Review296403_34 , :Review296403_35 , :Review296403_36 , :Review296403_37 , :Review296403_38 , :Review296403_39 , :Review296403_40 , :Review296403_41 , :Review296403_42 , :Review296403_43 , :Review296403_44 , :Review296403_45 , :Review296403_46 , :Review296403_47 , :Review296403_48 , :Review296403_49 , :Review296403_50 , :Review296403_51 , :Review296403_52 , :Review296403_53 , :Review296403_54 .
+:Product123120 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac PHILIPS PowerGo FC8243/09, 3l, 750W, 77dB, rosu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.738095238095238 ;
+               :hasReview :Review123120_1 , :Review123120_2 , :Review123120_3 , :Review123120_4 , :Review123120_5 , :Review123120_6 , :Review123120_7 , :Review123120_8 , :Review123120_9 , :Review123120_10 , :Review123120_11 , :Review123120_12 , :Review123120_13 , :Review123120_14 , :Review123120_15 , :Review123120_16 , :Review123120_17 , :Review123120_18 , :Review123120_19 , :Review123120_20 , :Review123120_21 , :Review123120_22 , :Review123120_23 , :Review123120_24 , :Review123120_25 , :Review123120_26 , :Review123120_27 , :Review123120_28 , :Review123120_29 , :Review123120_30 , :Review123120_31 , :Review123120_32 , :Review123120_33 , :Review123120_34 , :Review123120_35 , :Review123120_36 , :Review123120_37 , :Review123120_38 , :Review123120_39 , :Review123120_40 , :Review123120_41 , :Review123120_42 .
+:Product128087 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical GORENJE Freestyle SVC144FBK, 0.6l, 14.4V, autonomie max 38 min, iluminare LED, negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.219512195121951 ;
+               :hasReview :Review128087_1 , :Review128087_2 , :Review128087_3 , :Review128087_4 , :Review128087_5 , :Review128087_6 , :Review128087_7 , :Review128087_8 , :Review128087_9 , :Review128087_10 , :Review128087_11 , :Review128087_12 , :Review128087_13 , :Review128087_14 , :Review128087_15 , :Review128087_16 , :Review128087_17 , :Review128087_18 , :Review128087_19 , :Review128087_20 , :Review128087_21 , :Review128087_22 , :Review128087_23 , :Review128087_24 , :Review128087_25 , :Review128087_26 , :Review128087_27 , :Review128087_28 , :Review128087_29 , :Review128087_30 , :Review128087_31 , :Review128087_32 , :Review128087_33 , :Review128087_34 , :Review128087_35 , :Review128087_36 , :Review128087_37 , :Review128087_38 , :Review128087_39 , :Review128087_40 , :Review128087_41 .
+:Product309427 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator vertical 2in1 BOSCH Flexxo Gen2 Seria 4 BCH3K2801, 0.4l, 25.2V, autonomie max 55 min, Sistem RobustAir, gri " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.5625 ;
+               :hasReview :Review309427_1 , :Review309427_2 , :Review309427_3 , :Review309427_4 , :Review309427_5 , :Review309427_6 , :Review309427_7 , :Review309427_8 , :Review309427_9 , :Review309427_10 , :Review309427_11 , :Review309427_12 , :Review309427_13 , :Review309427_14 , :Review309427_15 , :Review309427_16 , :Review309427_17 , :Review309427_18 , :Review309427_19 , :Review309427_20 , :Review309427_21 , :Review309427_22 , :Review309427_23 , :Review309427_24 , :Review309427_25 , :Review309427_26 , :Review309427_27 , :Review309427_28 , :Review309427_29 , :Review309427_30 , :Review309427_31 , :Review309427_32 .
+:Product136215 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac BEKO VCO42701AR, 1.8l, 750W, 75dB, rosu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.697674418604651 ;
+               :hasReview :Review136215_1 , :Review136215_2 , :Review136215_3 , :Review136215_4 , :Review136215_5 , :Review136215_6 , :Review136215_7 , :Review136215_8 , :Review136215_9 , :Review136215_10 , :Review136215_11 , :Review136215_12 , :Review136215_13 , :Review136215_14 , :Review136215_15 , :Review136215_16 , :Review136215_17 , :Review136215_18 , :Review136215_19 , :Review136215_20 , :Review136215_21 , :Review136215_22 , :Review136215_23 , :Review136215_24 , :Review136215_25 , :Review136215_26 , :Review136215_27 , :Review136215_28 , :Review136215_29 , :Review136215_30 , :Review136215_31 , :Review136215_32 , :Review136215_33 , :Review136215_34 , :Review136215_35 , :Review136215_36 , :Review136215_37 , :Review136215_38 , :Review136215_39 , :Review136215_40 , :Review136215_41 , :Review136215_42 , :Review136215_43 .
+:Product238286 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator de mana BOSCH Move BHN24L, 21.6V, autonomie max 45 min, High Airflow System, negru" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.892857142857143 ;
+               :hasReview :Review238286_1 , :Review238286_2 , :Review238286_3 , :Review238286_4 , :Review238286_5 , :Review238286_6 , :Review238286_7 , :Review238286_8 , :Review238286_9 , :Review238286_10 , :Review238286_11 , :Review238286_12 , :Review238286_13 , :Review238286_14 , :Review238286_15 , :Review238286_16 , :Review238286_18 , :Review238286_19 , :Review238286_20 , :Review238286_21 , :Review238286_22 , :Review238286_23 , :Review238286_24 , :Review238286_25 , :Review238286_26 , :Review238286_27 , :Review238286_28 .
+:Product114026 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac BEKO VCC6480T, 3.5l, 800W, 73dB, maro-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.656716417910448 ;
+               :hasReview :Review114026_1 , :Review114026_2 , :Review114026_3 , :Review114026_4 , :Review114026_5 , :Review114026_6 , :Review114026_7 , :Review114026_8 , :Review114026_9 , :Review114026_10 , :Review114026_11 , :Review114026_12 , :Review114026_13 , :Review114026_14 , :Review114026_15 , :Review114026_16 , :Review114026_17 , :Review114026_18 , :Review114026_19 , :Review114026_20 , :Review114026_21 , :Review114026_22 , :Review114026_24 , :Review114026_25 , :Review114026_26 , :Review114026_27 , :Review114026_28 , :Review114026_29 , :Review114026_30 , :Review114026_31 , :Review114026_32 , :Review114026_33 , :Review114026_34 , :Review114026_35 , :Review114026_36 , :Review114026_37 , :Review114026_38 , :Review114026_39 , :Review114026_40 , :Review114026_41 , :Review114026_42 , :Review114026_43 , :Review114026_44 , :Review114026_45 , :Review114026_46 , :Review114026_47 , :Review114026_48 , :Review114026_49 , :Review114026_50 , :Review114026_51 , :Review114026_52 , :Review114026_53 , :Review114026_54 , :Review114026_55 , :Review114026_56 , :Review114026_57 , :Review114026_58 , :Review114026_59 , :Review114026_61 , :Review114026_62 , :Review114026_63 , :Review114026_64 , :Review114026_65 , :Review114026_66 , :Review114026_67 .
+:Product64660 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac ROWENTA Compact Power Cyclonic Animal Care RO3786EA, 1.5l, 750W, 79dB, gri" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.8283582089552235 ;
+               :hasReview :Review64660_1 , :Review64660_2 , :Review64660_3 , :Review64660_4 , :Review64660_5 , :Review64660_6 , :Review64660_7 , :Review64660_8 , :Review64660_9 , :Review64660_10 , :Review64660_11 , :Review64660_12 , :Review64660_13 , :Review64660_14 , :Review64660_15 , :Review64660_16 , :Review64660_17 , :Review64660_18 , :Review64660_19 , :Review64660_20 , :Review64660_21 , :Review64660_22 , :Review64660_23 , :Review64660_24 , :Review64660_25 , :Review64660_26 , :Review64660_27 , :Review64660_28 , :Review64660_29 , :Review64660_30 , :Review64660_31 , :Review64660_32 , :Review64660_33 , :Review64660_34 , :Review64660_35 , :Review64660_37 , :Review64660_38 , :Review64660_39 , :Review64660_40 , :Review64660_41 , :Review64660_42 , :Review64660_43 , :Review64660_44 , :Review64660_45 , :Review64660_46 , :Review64660_47 , :Review64660_48 , :Review64660_49 , :Review64660_50 , :Review64660_51 , :Review64660_52 , :Review64660_53 , :Review64660_54 , :Review64660_55 , :Review64660_56 , :Review64660_57 , :Review64660_58 , :Review64660_59 , :Review64660_60 , :Review64660_61 , :Review64660_62 , :Review64660_63 , :Review64660_64 , :Review64660_65 , :Review64660_66 , :Review64660_67 , :Review64660_68 , :Review64660_69 , :Review64660_70 , :Review64660_71 , :Review64660_72 , :Review64660_73 , :Review64660_74 , :Review64660_75 , :Review64660_76 , :Review64660_77 , :Review64660_78 , :Review64660_79 , :Review64660_80 , :Review64660_81 , :Review64660_82 , :Review64660_83 , :Review64660_84 , :Review64660_85 , :Review64660_86 , :Review64660_87 , :Review64660_88 , :Review64660_89 , :Review64660_90 , :Review64660_91 , :Review64660_92 , :Review64660_93 , :Review64660_94 , :Review64660_95 , :Review64660_96 , :Review64660_97 , :Review64660_98 , :Review64660_99 , :Review64660_100 .
+:Product238809 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator robot ROBOROCK Cleaner S5 Max, 0.46l, 14.4V, autonomie max 190 min, Wi-Fi, Navigare Lidar, functie mop, alb " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.7023809523809526 ;
+               :hasReview :Review238809_1 , :Review238809_2 , :Review238809_3 , :Review238809_4 , :Review238809_5 , :Review238809_6 , :Review238809_7 , :Review238809_8 , :Review238809_9 , :Review238809_10 , :Review238809_11 , :Review238809_12 , :Review238809_13 , :Review238809_14 , :Review238809_15 , :Review238809_16 , :Review238809_17 , :Review238809_18 , :Review238809_19 , :Review238809_20 , :Review238809_21 , :Review238809_22 , :Review238809_23 , :Review238809_24 , :Review238809_25 , :Review238809_26 , :Review238809_27 , :Review238809_28 , :Review238809_30 , :Review238809_31 , :Review238809_32 , :Review238809_33 , :Review238809_34 , :Review238809_35 , :Review238809_36 , :Review238809_37 , :Review238809_38 , :Review238809_39 , :Review238809_40 , :Review238809_41 , :Review238809_42 , :Review238809_43 , :Review238809_44 , :Review238809_45 , :Review238809_46 , :Review238809_48 , :Review238809_49 , :Review238809_50 , :Review238809_51 , :Review238809_52 , :Review238809_53 , :Review238809_54 , :Review238809_55 , :Review238809_56 , :Review238809_57 , :Review238809_58 , :Review238809_59 , :Review238809_60 , :Review238809_61 , :Review238809_62 , :Review238809_63 , :Review238809_64 , :Review238809_65 , :Review238809_66 , :Review238809_67 , :Review238809_68 , :Review238809_69 , :Review238809_70 , :Review238809_71 , :Review238809_72 , :Review238809_73 , :Review238809_74 , :Review238809_75 , :Review238809_77 , :Review238809_78 , :Review238809_79 , :Review238809_80 , :Review238809_81 , :Review238809_82 , :Review238809_83 .
+:Product105930 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac PHILIPS PowerPro Compact FC9331/09, 1.5l, 900W, 76dB, negru-albastru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.6231884057971016 ;
+               :hasReview :Review105930_1 , :Review105930_2 , :Review105930_3 , :Review105930_4 , :Review105930_5 , :Review105930_6 , :Review105930_7 , :Review105930_8 , :Review105930_9 , :Review105930_10 , :Review105930_11 , :Review105930_12 , :Review105930_13 , :Review105930_14 , :Review105930_15 , :Review105930_16 , :Review105930_17 , :Review105930_18 , :Review105930_19 , :Review105930_20 , :Review105930_21 , :Review105930_22 , :Review105930_23 , :Review105930_24 , :Review105930_25 , :Review105930_26 , :Review105930_27 , :Review105930_28 , :Review105930_29 , :Review105930_30 , :Review105930_31 , :Review105930_32 , :Review105930_33 , :Review105930_34 , :Review105930_35 , :Review105930_36 , :Review105930_37 , :Review105930_38 , :Review105930_39 , :Review105930_40 , :Review105930_41 , :Review105930_42 , :Review105930_43 , :Review105930_44 , :Review105930_45 , :Review105930_46 , :Review105930_47 , :Review105930_48 , :Review105930_49 , :Review105930_50 , :Review105930_51 , :Review105930_52 , :Review105930_53 , :Review105930_54 , :Review105930_55 , :Review105930_56 , :Review105930_57 , :Review105930_58 , :Review105930_59 , :Review105930_60 , :Review105930_61 , :Review105930_62 , :Review105930_63 , :Review105930_64 , :Review105930_65 , :Review105930_66 , :Review105930_67 , :Review105930_68 , :Review105930_69 .
+:Product300453 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac KARCHER WD 2 1.628-050.0, 15l, 1000W, galben-argintiu" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.710843373493976 ;
+               :hasReview :Review300453_1 , :Review300453_2 , :Review300453_3 , :Review300453_4 , :Review300453_5 , :Review300453_6 , :Review300453_7 , :Review300453_8 , :Review300453_9 , :Review300453_10 , :Review300453_11 , :Review300453_12 , :Review300453_13 , :Review300453_14 , :Review300453_15 , :Review300453_16 , :Review300453_17 , :Review300453_18 , :Review300453_19 , :Review300453_20 , :Review300453_21 , :Review300453_22 , :Review300453_23 , :Review300453_24 , :Review300453_25 , :Review300453_26 , :Review300453_27 , :Review300453_28 , :Review300453_29 , :Review300453_30 , :Review300453_31 , :Review300453_32 , :Review300453_33 , :Review300453_34 , :Review300453_35 , :Review300453_36 , :Review300453_37 , :Review300453_38 , :Review300453_39 , :Review300453_40 , :Review300453_41 , :Review300453_42 , :Review300453_43 , :Review300453_44 , :Review300453_45 , :Review300453_46 , :Review300453_47 , :Review300453_48 , :Review300453_49 , :Review300453_50 , :Review300453_51 , :Review300453_52 , :Review300453_53 , :Review300453_54 , :Review300453_55 , :Review300453_56 , :Review300453_57 , :Review300453_58 , :Review300453_59 , :Review300453_60 , :Review300453_61 , :Review300453_62 , :Review300453_63 , :Review300453_64 , :Review300453_65 , :Review300453_66 , :Review300453_67 , :Review300453_68 , :Review300453_69 , :Review300453_70 , :Review300453_71 , :Review300453_72 , :Review300453_73 , :Review300453_74 , :Review300453_75 , :Review300453_76 , :Review300453_77 , :Review300453_78 , :Review300453_79 , :Review300453_80 , :Review300453_81 , :Review300453_83 .
+:Product114541 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac SAMSUNG VCC45T0S3R/BOL, 1.3l, 850W, 80dB, rosu-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.869565217391304 ;
+               :hasReview :Review114541_1 , :Review114541_2 , :Review114541_3 , :Review114541_4 , :Review114541_5 , :Review114541_6 , :Review114541_7 , :Review114541_8 , :Review114541_9 , :Review114541_10 , :Review114541_11 , :Review114541_12 , :Review114541_13 , :Review114541_14 , :Review114541_15 , :Review114541_16 , :Review114541_17 , :Review114541_18 , :Review114541_19 , :Review114541_20 , :Review114541_21 , :Review114541_22 , :Review114541_23 .
+:Product154655 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac SAMSUNG VCC43Q0V3D-BOL, 1.3l, 850W, 80dB, albastru-negru " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.848214285714286 ;
+               :hasReview :Review154655_1 , :Review154655_2 , :Review154655_3 , :Review154655_4 , :Review154655_5 , :Review154655_6 , :Review154655_7 , :Review154655_8 , :Review154655_9 , :Review154655_10 , :Review154655_11 , :Review154655_12 , :Review154655_13 , :Review154655_14 , :Review154655_15 , :Review154655_16 , :Review154655_17 , :Review154655_18 , :Review154655_19 , :Review154655_20 , :Review154655_21 , :Review154655_22 , :Review154655_23 , :Review154655_24 , :Review154655_25 , :Review154655_26 , :Review154655_27 , :Review154655_28 , :Review154655_29 , :Review154655_30 , :Review154655_31 , :Review154655_32 , :Review154655_33 , :Review154655_34 , :Review154655_35 , :Review154655_36 , :Review154655_37 , :Review154655_38 , :Review154655_39 , :Review154655_40 , :Review154655_41 , :Review154655_42 , :Review154655_43 , :Review154655_44 , :Review154655_45 , :Review154655_46 , :Review154655_47 , :Review154655_48 , :Review154655_49 , :Review154655_50 , :Review154655_51 , :Review154655_52 , :Review154655_53 , :Review154655_54 , :Review154655_55 , :Review154655_56 , :Review154655_57 , :Review154655_58 , :Review154655_59 , :Review154655_60 , :Review154655_61 , :Review154655_62 , :Review154655_63 , :Review154655_64 , :Review154655_65 , :Review154655_66 , :Review154655_67 , :Review154655_68 , :Review154655_69 , :Review154655_70 , :Review154655_71 , :Review154655_72 , :Review154655_73 , :Review154655_74 , :Review154655_75 , :Review154655_76 , :Review154655_77 , :Review154655_78 , :Review154655_80 , :Review154655_81 , :Review154655_82 , :Review154655_84 , :Review154655_85 , :Review154655_86 , :Review154655_87 , :Review154655_88 , :Review154655_89 , :Review154655_90 , :Review154655_91 , :Review154655_93 , :Review154655_94 , :Review154655_95 , :Review154655_96 , :Review154655_97 , :Review154655_98 , :Review154655_99 , :Review154655_100 .
+:Product305127 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator cu sac KARCHER WD 3 V-17/4/20, 17l, 1000W, 75dB, galben" ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.8604651162790695 ;
+               :hasReview :Review305127_1 , :Review305127_2 , :Review305127_3 , :Review305127_4 , :Review305127_5 , :Review305127_6 , :Review305127_7 , :Review305127_8 , :Review305127_9 , :Review305127_10 , :Review305127_11 , :Review305127_12 , :Review305127_13 , :Review305127_14 , :Review305127_15 , :Review305127_16 , :Review305127_17 , :Review305127_18 , :Review305127_19 , :Review305127_20 , :Review305127_21 , :Review305127_22 , :Review305127_23 , :Review305127_24 , :Review305127_25 , :Review305127_26 , :Review305127_27 , :Review305127_28 , :Review305127_29 , :Review305127_30 , :Review305127_31 , :Review305127_32 , :Review305127_33 , :Review305127_34 , :Review305127_35 , :Review305127_36 , :Review305127_37 , :Review305127_38 , :Review305127_39 , :Review305127_40 , :Review305127_41 , :Review305127_42 , :Review305127_43 , :Review305127_44 , :Review305127_45 , :Review305127_46 , :Review305127_47 , :Review305127_48 , :Review305127_49 , :Review305127_50 , :Review305127_51 , :Review305127_52 , :Review305127_53 , :Review305127_54 , :Review305127_55 , :Review305127_56 , :Review305127_57 , :Review305127_58 , :Review305127_59 , :Review305127_60 , :Review305127_61 , :Review305127_62 , :Review305127_63 , :Review305127_64 , :Review305127_65 , :Review305127_66 , :Review305127_67 , :Review305127_68 , :Review305127_69 , :Review305127_70 , :Review305127_71 , :Review305127_72 , :Review305127_73 , :Review305127_74 , :Review305127_75 , :Review305127_76 , :Review305127_77 , :Review305127_78 , :Review305127_79 , :Review305127_80 , :Review305127_81 , :Review305127_82 , :Review305127_83 , :Review305127_84 , :Review305127_85 , :Review305127_86 , :Review305127_88 , :Review305127_89 , :Review305127_90 , :Review305127_91 , :Review305127_92 , :Review305127_93 , :Review305127_94 , :Review305127_95 , :Review305127_96 , :Review305127_97 , :Review305127_98 , :Review305127_99 , :Review305127_100 .
+:Product202102 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Aspirator fara sac GORENJE G Force Air Compact VCEA01GACWCY, 2.2l, 800W, 83dB, alb-gri " ;
+                :belongsTo :Vacuum_Cleaner ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.625 ;
+               :hasReview :Review202102_1 , :Review202102_2 , :Review202102_3 , :Review202102_4 , :Review202102_5 , :Review202102_6 , :Review202102_7 , :Review202102_8 , :Review202102_9 , :Review202102_10 , :Review202102_11 , :Review202102_12 , :Review202102_13 , :Review202102_14 , :Review202102_15 , :Review202102_16 .
+:Product114851 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied foto PROMATE Precise 150, 150cm, negru" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.545454545454546 ;
+               :hasReview :Review114851_1 , :Review114851_2 , :Review114851_3 , :Review114851_4 , :Review114851_5 , :Review114851_6 , :Review114851_7 , :Review114851_8 , :Review114851_9 , :Review114851_10 .
+:Product3499 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Mini trepied foto-video HAMA Ball XL 4065, 26 cm, negru-argintiu" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review3499_1 .
+:Product204255 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Mini trepied HAMA Flex 4609, 14 cm, negru" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.0 ;
+               :hasReview :Review204255_1 .
+:Product71497 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied foto-video HAMA Traveller 117 Ball, 117 cm, negru" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review71497_1 , :Review71497_2 .
+:Product241067 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied GOPRO ASBHM-002 pentru MAX" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review241067_1 , :Review241067_2 .
+:Product245456 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied/Grip Sony GP-VPT2BT, Bluetooth, negru" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review245456_1 .
+:Product237810 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied HAMA 4613, 26 cm, negru" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review237810_1 , :Review237810_2 , :Review237810_3 , :Review237810_4 .
+:Product3508 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied foto-video HAMA STAR 5 4105, 106,5 cm, auriu" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.7 ;
+               :hasReview :Review3508_1 , :Review3508_2 , :Review3508_3 , :Review3508_4 , :Review3508_5 , :Review3508_6 , :Review3508_7 , :Review3508_9 , :Review3508_10 .
+:Product3512 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied foto-video HAMA Star 75 4175, 125 cm, auriu" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review3512_1 , :Review3512_2 , :Review3512_3 , :Review3512_4 , :Review3512_5 , :Review3512_6 , :Review3512_7 , :Review3512_8 .
+:Product114818 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied foto Travel PROMATE Precise-160, 160cm, negru" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review114818_1 , :Review114818_2 .
+:Product285526 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Suport HAMA 4633, 1 segment, negru" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review285526_1 .
+:Product204252 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied foto-video HAMA Star Black 153 4469, 153 cm, negru" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 2.8 ;
+               :hasReview :Review204252_1 , :Review204252_2 , :Review204252_3 , :Review204252_4 , :Review204252_5 .
+:Product3517 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied foto-video HAMA Star 62 4162, 160 cm, auriu" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.333333333333333 ;
+               :hasReview :Review3517_1 , :Review3517_2 , :Review3517_3 .
+:Product3516 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied foto-video HAMA Star Pro 61 4161, 153 cm, auriu" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.857142857142857 ;
+               :hasReview :Review3516_1 , :Review3516_2 , :Review3516_5 , :Review3516_6 , :Review3516_7 , :Review3516_8 , :Review3516_9 , :Review3516_10 , :Review3516_11 , :Review3516_12 , :Review3516_13 , :Review3516_14 .
+:Product114842 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Trepied foto PROMATE Precise 155, 153 cm, negru" ;
+                :belongsTo :Tripod ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.2 ;
+               :hasReview :Review114842_1 , :Review114842_2 , :Review114842_3 , :Review114842_5 , :Review114842_6 , :Review114842_7 , :Review114842_8 , :Review114842_9 , :Review114842_10 .
+:Product307883 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless AQIRYS Lyra, multiplatforma, stereo, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.3076923076923075 ;
+               :hasReview :Review307883_1 , :Review307883_2 , :Review307883_3 , :Review307883_4 , :Review307883_5 , :Review307883_6 , :Review307883_7 , :Review307883_8 , :Review307883_9 , :Review307883_10 , :Review307883_11 , :Review307883_12 , :Review307883_13 .
+:Product311174 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming HyperX Cloud Stinger 2, Spatial Audio, multiplatforma, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.0 ;
+               :hasReview :Review311174_1 .
+:Product273380 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming HyperX CloudX, Xbox, 3.5mm, argintiu" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review273380_1 .
+:Product311332 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming STEELSERIES Arctis Nova 1, surround, multiplatforma, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review311332_1 , :Review311332_2 , :Review311332_3 , :Review311332_4 , :Review311332_5 .
+:Product304627 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming ROCCAT Elo X Stereo, multiplatforma, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review304627_1 .
+:Product279767 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming LOGITECH G335, multiplatforma, 3.5mm, alb" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.25 ;
+               :hasReview :Review279767_1 , :Review279767_2 , :Review279767_3 , :Review279767_4 .
+:Product299041 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless AQIRYS Andromeda Blue, multiplatforma, 7.1 surround, albastru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 2.0 ;
+               :hasReview :Review299041_1 , :Review299041_2 , :Review299041_3 .
+:Product304618 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming TURTLE BEACH Recon 500, multiplatforma, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review304618_1 .
+:Product306551 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming SONY INZONE H3 MDR-G300NW, 7.1, multiplatforma, 3.5mm, alb-negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review306551_1 .
+:Product304623 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless TURTLE BEACH Stealth 600p Gen 2, PS4, PS5, Nintendo Switch, alb" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review304623_1 .
+:Product305014 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless LOGITECH G535 LIGHTSPEED, multiplatforma, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review305014_1 , :Review305014_2 , :Review305014_3 , :Review305014_4 .
+:Product311335 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming STEELSERIES Arctis Nova 3, surround, multiplatforma, USB-C, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.0 ;
+               :hasReview :Review311335_1 , :Review311335_2 .
+:Product306554 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless SONY INZONE H9 WH-G900NW, 7.1, multiplatforma, Noise Cancelling, alb-negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review306554_1 , :Review306554_2 .
+:Product63937 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti PC HAMA Essential HS 300, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review63937_1 .
+:Product285353 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MARVO HG8958, stereo, USB, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review285353_1 .
+:Product208888 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MARVO HG8930, stereo, 3.5 mm, USB, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.8 ;
+               :hasReview :Review208888_1 , :Review208888_2 , :Review208888_3 , :Review208888_4 , :Review208888_5 .
+:Product290830 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MARVO HG9068, 7.1 surround, USB, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review290830_1 , :Review290830_2 .
+:Product295447 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming VERTUX Miami, multiplatforma, USB, verde" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review295447_1 .
+:Product279766 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming LOGITECH G335, multiplatforma, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.6666666666666665 ;
+               :hasReview :Review279766_1 , :Review279766_2 , :Review279766_3 .
+:Product278432 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming HyperX Cloud Core, 3.5mm, multiplatforma, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.181818181818182 ;
+               :hasReview :Review278432_1 , :Review278432_2 , :Review278432_3 , :Review278432_4 , :Review278432_5 , :Review278432_6 , :Review278432_7 , :Review278432_8 , :Review278432_9 , :Review278432_10 , :Review278432_11 .
+:Product297847 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless HyperX Cloud Core, 7.1, surround, 3.5mm, PC, PS4, PS5, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.6 ;
+               :hasReview :Review297847_1 , :Review297847_2 , :Review297847_3 , :Review297847_4 , :Review297847_5 , :Review297847_6 , :Review297847_7 , :Review297847_8 , :Review297847_9 , :Review297847_10 .
+:Product306990 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Kit Gaming Wireless casti + mouse LOGITECH G G435 SE + G305 SE, multiplatforma, 3.5mm, USB-C, alb-negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.333333333333333 ;
+               :hasReview :Review306990_1 , :Review306990_2 , :Review306990_3 , :Review306990_4 , :Review306990_5 , :Review306990_6 , :Review306990_7 , :Review306990_8 , :Review306990_9 .
+:Product198536 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless LOGITECH G935, 7.1 surround, multiplatforma, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.125 ;
+               :hasReview :Review198536_1 , :Review198536_2 , :Review198536_3 , :Review198536_4 , :Review198536_5 , :Review198536_6 , :Review198536_7 , :Review198536_8 .
+:Product63936 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti PC HAMA Essential HS 200, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review63936_1 .
+:Product236596 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti PC HAMA PC-Office HS-USB400, USB, negru-rosu" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.0 ;
+               :hasReview :Review236596_1 .
+:Product273387 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless HyperX Cloud Stinger Core, PS4, PS5, PC, 3.5mm, alb" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.5 ;
+               :hasReview :Review273387_1 , :Review273387_2 , :Review273387_3 , :Review273387_4 , :Review273387_5 , :Review273387_6 , :Review273387_7 , :Review273387_8 , :Review273387_9 , :Review273387_10 , :Review273387_11 , :Review273387_12 , :Review273387_14 , :Review273387_15 , :Review273387_16 , :Review273387_17 , :Review273387_18 .
+:Product285007 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless LOGITECH G435 Lightspeed, multiplatforma, 3.5mm, USB-C, alb" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.363636363636363 ;
+               :hasReview :Review285007_1 , :Review285007_2 , :Review285007_3 , :Review285007_4 , :Review285007_5 , :Review285007_6 , :Review285007_7 , :Review285007_8 , :Review285007_9 , :Review285007_10 , :Review285007_11 .
+:Product208948 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming LOGITECH PRO X, 7.1 surround, multiplatforma, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.470588235294118 ;
+               :hasReview :Review208948_1 , :Review208948_2 , :Review208948_3 , :Review208948_4 , :Review208948_5 , :Review208948_6 , :Review208948_7 , :Review208948_8 , :Review208948_9 , :Review208948_10 , :Review208948_11 , :Review208948_12 , :Review208948_13 , :Review208948_14 , :Review208948_15 , :Review208948_16 , :Review208948_17 .
+:Product308060 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless LOGITECH G735, RGB, surround, alb" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review308060_1 .
+:Product274205 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti HAMA uRage SoundZ 320, PC/PS5, 7.1, USB, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.25 ;
+               :hasReview :Review274205_1 , :Review274205_2 , :Review274205_3 , :Review274205_4 .
+:Product309027 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless AQIRYS Lyra, multiplatforma, stereo, roz" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.333333333333333 ;
+               :hasReview :Review309027_1 , :Review309027_2 , :Review309027_3 .
+:Product208949 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming LOGITECH PRO, stereo, multiplatforma, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.6666666666666665 ;
+               :hasReview :Review208949_1 , :Review208949_2 , :Review208949_3 .
+:Product119653 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MARVO HG8914, stereo, USB, 3.5mm, negru-rosu" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.333333333333333 ;
+               :hasReview :Review119653_1 , :Review119653_2 , :Review119653_3 , :Review119653_4 , :Review119653_6 , :Review119653_7 , :Review119653_8 , :Review119653_9 , :Review119653_11 , :Review119653_12 .
+:Product260192 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming VERTUX Malaga, Stereo, 3.5mm, albastru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 2.3333333333333335 ;
+               :hasReview :Review260192_1 , :Review260192_2 , :Review260192_3 .
+:Product285471 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming LENOVO IdeaPad H100, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.3333333333333335 ;
+               :hasReview :Review285471_1 , :Review285471_2 , :Review285471_3 .
+:Product265241 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MYRIA Reaver MG7804 RGB, stereo, multiplatforma, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.8 ;
+               :hasReview :Review265241_1 , :Review265241_2 , :Review265241_3 , :Review265241_4 , :Review265241_5 , :Review265241_6 , :Review265241_7 , :Review265241_8 , :Review265241_9 , :Review265241_10 .
+:Product285354 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MARVO HG9065, 7.1 surround, USB, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review285354_1 .
+:Product265240 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MYRIA Wolver X MG7803 RGB, stereo, multiplatforma, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.733333333333333 ;
+               :hasReview :Review265240_1 , :Review265240_2 , :Review265240_3 , :Review265240_4 , :Review265240_5 , :Review265240_7 , :Review265240_8 , :Review265240_9 , :Review265240_10 , :Review265240_11 , :Review265240_12 , :Review265240_13 , :Review265240_14 , :Review265240_15 .
+:Product290805 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming AQIRYS Cygnus, USB, 7.1 surround, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.8461538461538463 ;
+               :hasReview :Review290805_1 , :Review290805_2 , :Review290805_3 , :Review290805_4 , :Review290805_5 , :Review290805_6 , :Review290805_7 , :Review290805_8 , :Review290805_9 , :Review290805_10 , :Review290805_11 , :Review290805_12 , :Review290805_13 , :Review290805_14 , :Review290805_15 , :Review290805_16 , :Review290805_17 , :Review290805_18 , :Review290805_19 , :Review290805_20 , :Review290805_21 , :Review290805_22 , :Review290805_23 , :Review290805_24 , :Review290805_25 , :Review290805_26 .
+:Product299040 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless AQIRYS Andromeda, multiplatforma, 7.1 surround, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review299040_1 , :Review299040_2 .
+:Product137894 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MARVO H8323, stereo, 3.5mm, negru-verde" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.625 ;
+               :hasReview :Review137894_1 , :Review137894_2 , :Review137894_3 , :Review137894_4 , :Review137894_5 , :Review137894_6 , :Review137894_7 , :Review137894_8 .
+:Product260193 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming VERTUX Malaga, Stereo, 3.5mm, rosu" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review260193_1 , :Review260193_2 , :Review260193_3 .
+:Product265242 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MYRIA Wolver MG7805 RGB, stereo, multiplatforma, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.565217391304348 ;
+               :hasReview :Review265242_1 , :Review265242_2 , :Review265242_3 , :Review265242_4 , :Review265242_5 , :Review265242_6 , :Review265242_7 , :Review265242_8 , :Review265242_9 , :Review265242_10 , :Review265242_11 , :Review265242_12 , :Review265242_13 , :Review265242_14 , :Review265242_15 , :Review265242_16 , :Review265242_17 , :Review265242_18 , :Review265242_19 , :Review265242_20 , :Review265242_21 , :Review265242_22 , :Review265242_23 .
+:Product289718 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MYRIA Reaver X MG7807 RGB, 7.1, multiplatforma, gri" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.75 ;
+               :hasReview :Review289718_1 , :Review289718_2 , :Review289718_3 , :Review289718_4 .
+:Product264216 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming AQIRYS Vega, 7.1 surround, USB, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.086956521739131 ;
+               :hasReview :Review264216_1 , :Review264216_2 , :Review264216_3 , :Review264216_4 , :Review264216_5 , :Review264216_6 , :Review264216_7 , :Review264216_8 , :Review264216_9 , :Review264216_10 , :Review264216_11 , :Review264216_12 , :Review264216_13 , :Review264216_14 , :Review264216_15 , :Review264216_16 , :Review264216_17 , :Review264216_18 , :Review264216_19 , :Review264216_20 , :Review264216_21 , :Review264216_22 , :Review264216_23 .
+:Product285008 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless LOGITECH G435 Lightspeed, multiplatforma, 3.5mm, USB-C, albastru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review285008_1 , :Review285008_2 .
+:Product280314 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming VORTEX VG7801, 3.5mm, multiplatforma, negru-rosu" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review280314_1 .
+:Product264214 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming AQIRYS Sirius, 7.1 surround, USB, 3.5mm, multiplatforma, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.129032258064516 ;
+               :hasReview :Review264214_1 , :Review264214_3 , :Review264214_4 , :Review264214_5 , :Review264214_6 , :Review264214_7 , :Review264214_9 , :Review264214_10 , :Review264214_11 , :Review264214_12 , :Review264214_13 , :Review264214_14 , :Review264214_15 , :Review264214_16 , :Review264214_17 , :Review264214_18 , :Review264214_19 , :Review264214_20 , :Review264214_21 , :Review264214_22 , :Review264214_23 , :Review264214_24 , :Review264214_25 , :Review264214_26 , :Review264214_27 , :Review264214_28 , :Review264214_29 , :Review264214_30 , :Review264214_31 .
+:Product307884 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless AQIRYS Lyra, multiplatforma, stereo, alb" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.8 ;
+               :hasReview :Review307884_1 , :Review307884_2 , :Review307884_3 , :Review307884_4 , :Review307884_5 .
+:Product285006 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming Wireless LOGITECH G435 Lightspeed, multiplatforma, 3.5mm, USB-C, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.296296296296297 ;
+               :hasReview :Review285006_1 , :Review285006_2 , :Review285006_3 , :Review285006_4 , :Review285006_5 , :Review285006_6 , :Review285006_7 , :Review285006_8 , :Review285006_9 , :Review285006_10 , :Review285006_11 , :Review285006_12 , :Review285006_13 , :Review285006_14 , :Review285006_15 , :Review285006_16 , :Review285006_17 , :Review285006_18 , :Review285006_19 , :Review285006_20 , :Review285006_21 , :Review285006_22 , :Review285006_23 , :Review285006_24 , :Review285006_25 , :Review285006_26 , :Review285006_27 .
+:Product120867 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming HyperX Cloud Alpha Red, surround, multiplatforma, 3.5mm, negru-rosu" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.446601941747573 ;
+               :hasReview :Review120867_1 , :Review120867_2 , :Review120867_3 , :Review120867_4 , :Review120867_5 , :Review120867_6 , :Review120867_7 , :Review120867_8 , :Review120867_9 , :Review120867_10 , :Review120867_11 , :Review120867_12 , :Review120867_13 , :Review120867_14 , :Review120867_15 , :Review120867_16 , :Review120867_18 , :Review120867_19 , :Review120867_20 , :Review120867_21 , :Review120867_22 , :Review120867_23 , :Review120867_24 , :Review120867_25 , :Review120867_26 , :Review120867_27 , :Review120867_28 , :Review120867_29 , :Review120867_30 , :Review120867_31 , :Review120867_32 , :Review120867_33 , :Review120867_34 , :Review120867_35 , :Review120867_36 , :Review120867_37 , :Review120867_38 , :Review120867_39 , :Review120867_40 , :Review120867_41 , :Review120867_42 , :Review120867_43 , :Review120867_44 , :Review120867_45 , :Review120867_46 , :Review120867_47 , :Review120867_48 , :Review120867_49 , :Review120867_50 , :Review120867_51 , :Review120867_52 , :Review120867_53 , :Review120867_54 , :Review120867_55 , :Review120867_56 , :Review120867_57 , :Review120867_58 , :Review120867_59 , :Review120867_62 , :Review120867_63 , :Review120867_64 , :Review120867_65 , :Review120867_67 , :Review120867_68 , :Review120867_69 , :Review120867_71 , :Review120867_74 , :Review120867_75 , :Review120867_76 , :Review120867_77 , :Review120867_78 , :Review120867_80 , :Review120867_81 , :Review120867_82 , :Review120867_83 , :Review120867_87 , :Review120867_88 , :Review120867_89 , :Review120867_90 , :Review120867_91 , :Review120867_92 , :Review120867_93 , :Review120867_94 , :Review120867_95 , :Review120867_96 , :Review120867_97 , :Review120867_98 , :Review120867_99 , :Review120867_100 .
+:Product281019 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming MARVO H8321S, stereo, 3.5mm, multiplatforma, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review281019_1 , :Review281019_2 , :Review281019_3 , :Review281019_4 .
+:Product264208 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming AQIRYS Altair, 7.1 surround, USB, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.25 ;
+               :hasReview :Review264208_1 , :Review264208_2 , :Review264208_3 , :Review264208_4 , :Review264208_5 , :Review264208_6 , :Review264208_7 , :Review264208_8 , :Review264208_9 , :Review264208_10 , :Review264208_11 , :Review264208_12 , :Review264208_13 , :Review264208_14 , :Review264208_15 , :Review264208_16 , :Review264208_17 , :Review264208_18 , :Review264208_19 , :Review264208_20 , :Review264208_21 , :Review264208_22 , :Review264208_23 , :Review264208_24 , :Review264208_25 , :Review264208_26 , :Review264208_27 , :Review264208_28 , :Review264208_29 , :Review264208_30 , :Review264208_31 , :Review264208_32 , :Review264208_33 , :Review264208_34 , :Review264208_35 , :Review264208_36 , :Review264208_37 , :Review264208_38 , :Review264208_39 , :Review264208_40 .
+:Product198530 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming LOGITECH G432, 7.1 surround, multiplatforma, 3.5mm, negru-albastru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.125 ;
+               :hasReview :Review198530_1 , :Review198530_2 , :Review198530_3 , :Review198530_4 , :Review198530_5 , :Review198530_6 , :Review198530_7 , :Review198530_8 , :Review198530_9 , :Review198530_10 , :Review198530_11 , :Review198530_12 , :Review198530_13 , :Review198530_14 , :Review198530_15 , :Review198530_16 .
+:Product281016 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming AQIRYS Altair, 7.1 surround, USB, alb" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.695652173913044 ;
+               :hasReview :Review281016_1 , :Review281016_2 , :Review281016_3 , :Review281016_4 , :Review281016_5 , :Review281016_6 , :Review281016_7 , :Review281016_8 , :Review281016_9 , :Review281016_12 , :Review281016_13 , :Review281016_14 , :Review281016_15 , :Review281016_16 , :Review281016_17 , :Review281016_18 , :Review281016_19 , :Review281016_20 , :Review281016_21 , :Review281016_22 , :Review281016_23 .
+:Product62492 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming HyperX Cloud II Gun Metal, 7.1 surround, multiplatforma, USB, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.878787878787879 ;
+               :hasReview :Review62492_1 , :Review62492_2 , :Review62492_3 , :Review62492_4 , :Review62492_5 , :Review62492_6 , :Review62492_7 , :Review62492_8 , :Review62492_9 , :Review62492_10 , :Review62492_11 , :Review62492_12 , :Review62492_13 , :Review62492_14 , :Review62492_15 , :Review62492_16 , :Review62492_17 , :Review62492_18 , :Review62492_19 , :Review62492_20 , :Review62492_21 , :Review62492_22 , :Review62492_23 , :Review62492_24 , :Review62492_25 , :Review62492_26 , :Review62492_28 , :Review62492_29 , :Review62492_30 , :Review62492_31 , :Review62492_32 , :Review62492_33 .
+:Product210061 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming RAZER Kraken X Lite, 7.1, multiplatforma, 3.5mm, negru" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.337349397590361 ;
+               :hasReview :Review210061_1 , :Review210061_2 , :Review210061_4 , :Review210061_5 , :Review210061_6 , :Review210061_7 , :Review210061_8 , :Review210061_9 , :Review210061_10 , :Review210061_11 , :Review210061_12 , :Review210061_13 , :Review210061_14 , :Review210061_15 , :Review210061_16 , :Review210061_17 , :Review210061_18 , :Review210061_19 , :Review210061_20 , :Review210061_21 , :Review210061_22 , :Review210061_23 , :Review210061_25 , :Review210061_26 , :Review210061_27 , :Review210061_28 , :Review210061_29 , :Review210061_30 , :Review210061_31 , :Review210061_32 , :Review210061_33 , :Review210061_34 , :Review210061_35 , :Review210061_36 , :Review210061_37 , :Review210061_38 , :Review210061_39 , :Review210061_40 , :Review210061_41 , :Review210061_42 , :Review210061_43 , :Review210061_44 , :Review210061_45 , :Review210061_46 , :Review210061_47 , :Review210061_48 , :Review210061_49 , :Review210061_50 , :Review210061_51 , :Review210061_52 , :Review210061_53 , :Review210061_54 , :Review210061_55 , :Review210061_56 , :Review210061_57 , :Review210061_58 , :Review210061_59 , :Review210061_60 , :Review210061_61 , :Review210061_62 , :Review210061_63 , :Review210061_64 , :Review210061_65 , :Review210061_66 , :Review210061_67 , :Review210061_68 , :Review210061_69 , :Review210061_70 , :Review210061_71 , :Review210061_72 , :Review210061_73 , :Review210061_74 , :Review210061_75 , :Review210061_76 , :Review210061_78 , :Review210061_79 , :Review210061_80 , :Review210061_81 , :Review210061_82 , :Review210061_83 .
+:Product62501 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Casti Gaming HyperX Cloud II Red, 7.1 surround, multiplatforma, USB, 3.5mm, negru-rosu" ;
+                :belongsTo :Gaming_Headset ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.627118644067797 ;
+               :hasReview :Review62501_1 , :Review62501_2 , :Review62501_3 , :Review62501_4 , :Review62501_5 , :Review62501_6 , :Review62501_7 , :Review62501_8 , :Review62501_9 , :Review62501_10 , :Review62501_11 , :Review62501_12 , :Review62501_13 , :Review62501_14 , :Review62501_15 , :Review62501_16 , :Review62501_17 , :Review62501_18 , :Review62501_19 , :Review62501_20 , :Review62501_21 , :Review62501_22 , :Review62501_23 , :Review62501_24 , :Review62501_25 , :Review62501_26 , :Review62501_27 , :Review62501_28 , :Review62501_29 , :Review62501_30 , :Review62501_31 , :Review62501_32 , :Review62501_33 , :Review62501_34 , :Review62501_35 , :Review62501_36 , :Review62501_37 , :Review62501_38 , :Review62501_39 , :Review62501_40 , :Review62501_41 , :Review62501_42 , :Review62501_43 , :Review62501_44 , :Review62501_45 , :Review62501_46 , :Review62501_47 , :Review62501_48 , :Review62501_50 , :Review62501_51 , :Review62501_52 , :Review62501_53 , :Review62501_54 , :Review62501_55 , :Review62501_56 , :Review62501_57 , :Review62501_58 , :Review62501_59 .

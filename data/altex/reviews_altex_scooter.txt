@@ -1,0 +1,604 @@
+:Review127095_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este o trotineta foarte buna fata de alte trotinete, merge foarte bine si are si difuzor fata de alte trotinete care nu au. " ; :hasAuthor "Razvan Bruca" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review127095_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am stat mai mult ai am folosit o trotineta merge foarte bine o recomand din plin prinde 20 dar are boxa in ea si poti baga orice si claxon!!! RECOMAND''' " ; :hasAuthor "Robert David" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review127095_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Parerea mea este una foarte proasta se pliaza foarte greu nu merge sa bagi incarcatoru prinde 20 la ora si nu merge claxonu nu are leduri nu merita" ; :hasAuthor "Robert David" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review236174_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotinetă excelenta, face toți banii. " ; :hasAuthor "IONUT RATOI" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review236174_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotineta are roti de 8.5 inch, foarte buna la capitolul calitate pret (am cumparat resigilata cu 712 lei). Dimensiuni mari, pentru adulti, este putin mai mare decat xiaomi. La o persoana de 100 kg autonomia ajunge la 12-15 km per incarcare..tinand cont ca nu merg cu bateria pe rosu (cand viteza se limiteaza la 15km/h)." ; :hasAuthor "Daniel Grigore" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review236174_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O am de aproximativ de o sptmână,l-am cumpârat ca produs resigilat la prețul de 674 Ron  și sunt mulțumit de trotinetă." ; :hasAuthor "Bandean Janos" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review236174_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O am de aproximativ o săptămână și am 170km cu ea Este ok pentru prețul ei și trebuie avut grija cu ea" ; :hasAuthor "Veronica Simon" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review236174_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am trotineta de 2 zile și deja nu mai pornește " ; :hasAuthor "Dumitru Ionut" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review236174_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buna recomand" ; :hasAuthor "Lidia Angela Bocsardi" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review214633_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta foarte puternica si f buna" ; :hasAuthor "daniel marin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review214633_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "is foarte multumit de ea, mi o mai fura fratele meu din cand in cand deoarece merge mai repede fata de ce are el" ; :hasAuthor "Claudia Chera" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review214633_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte multumit de ea, autonomie mare am 100+ KG si am mers fara probleme" ; :hasAuthor "MARIUS MUNTEAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review214633_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Specificațiile trotinetei in descriere….vs realitate 👎" ; :hasAuthor "Floarea Alexandru" ; :hasRating 2 ; :aggregatesOpinion marl:Negative .
+
+:Review214633_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ok , foarte bună o am de 2 ani" ; :hasAuthor "Cristi Purici" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review214633_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "După 300m trotineta sa stins și mai pornea doar la incarcat. Am. Lăsat-o sa își facă încărcarea completa, dar la fel, se stingea în mers și nu mai pornea. Mecanismul de pliere destul de greu de acționat. " ; :hasAuthor "Ion Ciuca" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review214633_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produsul este excelent, construcția este solidă, achiziționat la prețul de 1679 lei. Produsul sau variante ale acestuia sunt comercializate și sub marca Kugoo (sau echivalent).  Viteza de rulare maximă poate fi modificată din meniul de configurare care se accesează prin apăsarea simultană a tastelor [Power] + [Mode] pentru aprox. 3 secunde și din aceleași taste se selectează codul P15, care permite modificarea vitezei maxime în toate cele 3 trepte de viteză (fiecare treaptă de viteză se raportează automat la viteza maximă specificată). Valoarea vitezei maxime este exprimată în procente, pentru care valoarea 66 reprezintă 25 km/h, iar valoarea 100 reprezintă 40 km/h. Alte valori intermediare vor modifica viteza maximă în concordanță.  Modificarea vitezei maxime de rulare de la 25 km/h la 40 km/h presupune o creștere de 60%, respectiv, pentru aceelași cuplu de încărcare (sarcină) a trotinetei, puterea absorbită de către motor pentru deplasare va crește cu aprox. 60%, prin urmare autonomia acumulatorului se va reduce și ea cu aprox. 60%, ceea ce înseamnă că rularea continuă la viteză constantă permite, din punct de vedere teoretic, o deplasare de doar 16 km @ 40 km/h față de cei 40 km @ 25 km/h declarați de producător." ; :hasAuthor "Ciprian Bejenar" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review214633_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "am cumparat aceasta trotineta din altex , vreau sa stiu saca se poate conecta la telefon si daca exista vreun meniu care sa maresc viteza de la 20km/h macar la 30km... in rest pare o trotineta buna, stabila , pt drum lung ...si recomandata pt persoane care nu is prea pline..macar pana la 70kg ..ca sa nu se tureze prea tare motoru." ; :hasAuthor "Amortoae Petru" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review214633_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Dupa ce am testat aceasta minunata trotineta(eu avand 90kg) pe toate tipurile de drum pot spune ca isi merita banii. O recomand fata de alte modele mai scumpe." ; :hasAuthor "Marian Adrian Gheorghe" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review214633_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O folosesc de o luna și pot sa spun ca e ok. O problema ar fi ca nu poți scoate limita de viteza și dacă stai la bloc e puțin cam grea. (Peste 20 kg) Dacă te mulțumești sa mergi cu 24 km/h și nu te deranjează greutatea atunci meritată  toți banii. " ; :hasAuthor "Cristian Sabo" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review214633_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La pretul de 1970 lei este super oferta la specificatiile pe care le are aceasta trotineta.Arata excelent,nu simti zdrucinaturile cand mergi cu ea,pot sa zic ca e chiar confortabila. Pe timp de noapte vizibilitatea e ok.Clar nu e pentru fete(e destul de grea),doar daca stai in bloc cu lift,intra in orice lift fara sa fie nevoie sa o rabatezi. Am testat-o doar 5km,deoarece nu a fost timpul favorabil.Voi revenii asupra recenziei dupa ce voi testa si autonomia bateriei. " ; :hasAuthor "Iosif Fodor" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review214633_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotineta este fabricata in China. Eu am returnat-o imediat pentru ca avea roata din spate descentrata, iar ventilul era ”strangulat” astfel incat mansonul pompei/compresorului nu putea fi atasat.  Atentie- este destul de grea, rularea obisnuita (fara actiunea motorului) este destul de anevoioasa!" ; :hasAuthor "Mihaela Dirvareanu" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review305859_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta foarte buna si calitativa" ; :hasAuthor "Nae Catalin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300413_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "fosrte apreciata de copil" ; :hasAuthor "florentina mircescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review273685_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs ok dar din păcate Xiaomi este peste.. " ; :hasAuthor "Rusu Marian" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review273685_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "sa rupt axa de directie dar in rest e foart buna trotineta" ; :hasAuthor "Filip Nechita" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review273685_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bateria nu tine mai mult de 10 km daca e pe modul sport. Aripa din spate scoate (se mișcă) un sunet de aiurea la cea mai mica denivelare. Stop pe frana nu are (nu se aprinde stopul când acționeazi frana. Arata superb dar motoul nu pare să fie de 350W. Consider că Xiaomi 1S e ceva mai buna, varianta Xiaomi Pro 2 e cu mult peste acest model ca performante (având cam aceleași preț)" ; :hasAuthor "Dan Damian" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review273685_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotineta este foarte agila si suspensia este foarte buna  Pro:-bateria tine 27km       -ghidonul este lad pentru un control mai bun      -baza pentru picioare este foarte mare  Contra:-cricul este din plastic deci se va putea rupe   " ; :hasAuthor "Florinel daniel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300099_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Băiatul a fost foarte incantat de trotineta. 2" ; :hasAuthor "Ionel Mihai" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300099_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Copilul are 11 ani si este incantat de ea." ; :hasAuthor "Alina Dragan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300099_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "LIKE LIKE LIKE" ; :hasAuthor "Nicoleta Ioana Maier" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202996_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte mulțumită de acest produs" ; :hasAuthor "Catalina Pavel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202996_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "ideala pt copii, nerecomandata adultilor asta din cauza limitatii greutatii" ; :hasAuthor "CATALIN Trif" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202996_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Fratele meu este foarte incantat de ea,merge super bine si am prins o si la oferta in momentul achiziționării! " ; :hasAuthor "Alina Unc" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202996_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pentru un copil de 12 ani este buna,foarte multumita" ; :hasAuthor "MIRELA TODINCA" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202996_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu am nicio întrebare , trotineta merge perfect !! Recomand cu cea mai mare încredere ................" ; :hasAuthor "David Regele" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202996_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu am nicio întrebare , trotineta merge perfect !! Recomand cu cea mai mare încredere ................" ; :hasAuthor "Raisa Hategan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202996_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "suporta doar 100 kg max ,nu cum scrie in specificatiile ei in rest este foarte ok:) " ; :hasAuthor "Stefan Valentin Dragoi" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review236394_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "recomand foarte bună merită și pret bun" ; :hasAuthor "Ioan Acostachioaiei pasalau" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review236394_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bucuria copiilor,foarte buna la autonomie" ; :hasAuthor "daniel marin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review236394_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "cea mai interesanta trotineta, pacat ca are rotile mici" ; :hasAuthor "Mihai Dina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review236394_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Myria City Traveller + Buna seara! Am achizitionat trotineta pt cel mic este super incantat de ea,aj undeva la 24km/25 km h(noi am limitat o pana se obisnuieste cu ea)luminile se schimba din aplicatie super! Are diferite jocuri de lumini ,pt ei sunt super atractive,mi se pare stabila ,suspensia pe fata ajuta,are cric , atunci cand accelerezi se simnte puterea,usor de acelerat si franat (nu are frana ca cea de bicicleta)sper sa nu fie probleme pe mai departe," ; :hasAuthor "Iuliana Nachila" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review236394_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Avantaje: - Este o trotineta foarte buna, solida, suspensie pe fata, specificatiile sunt reale.  - Exista un canal intre baza si tub prin care se poate trece lantul antifurt. Dezavantaje:  - Maneta de frana poate reprezenta o problema pentru persoanele care s-au obisnuit cu manetele de bicicleta. Cine face tranzitia intre bicicleta si trotineta au nevoie de adaptare. - Nu are stop de culoare rosie, doar lumini albastre pe roata spate. Nu am intrebat un politist daca este suficienta iluminarea spate, dar va recomand un stop montabil pe rucsac/trotineta. - Iluminarea tubului vertical reprezinta o risipa de energie in timpul zilei. " ; :hasAuthor "George Bruma" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review236394_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achizitionat acest produs resigilat (cu cateva zgarieturi) acum 2 luni si copilul meu este foarte multumit de ea si eu lafel comparand cu o miria pro 2 mult mai rapida cu toate ca este mult mai grea . Demaraj puternic si autonomie reala chiar aproape de 40 km/27kg si o viteza maxima de 27 km/h cand este full incarcata. Nu mai zic de luminite care se pot schimba din aplicatie(si culoare si joc luminii.) Super  " ; :hasAuthor "Marcel Petcu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review236394_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte mulțumit de trotineta electrica myria city traveller + Recomand acestă trotineta electrica  Trotineta este de încredere  Arată foarte bine are multe led-uri și tine foarte mult bateria încărcată Însă scrie ca viteza maxima este de 24.9 km  Dar eu am prins 27 km  Deci dacă vreți să aveți o trotinetă electrică bună cumpărați această trotineta electrica " ; :hasAuthor "Razvi Mihet" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review236394_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achizitionat produsul in data de 4 Ianuarie 2021. In total am facut 60 km. Viteza maxima atinsa este 26,8 la o greutate de 37 Kg si 25.6 la o greutate de 80 kg. Pana la data prezentei nu au aparut defectiuni. Singura problema este greutatea lui 13 kg (trebuie sa-l ridic pana la etajul 3). In rest, copilul meu este fascinat de el. De asemenea, pe strada se intorc foarte multi sa-l vada. Probabil, luminile si designul sunt incantatoare. Astfel ca, il recomand cu drag. " ; :hasAuthor "Dragos-Patru Covei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202993_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta de care se bucura mult copii" ; :hasAuthor "daniel marin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202993_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "- Raport pret/calitate. - Recomand pentru copii de peste 8 ani (ideal 12-18 ani)" ; :hasAuthor "alina daniela iatan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202993_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am comandat o resigilata si era stricata. Dupa ce am trimis o in service a doua zi, a venit tot asa si au incercat sa dea vina pe mine ca am stricat o eu. Ar fi trebuit facuta o reclamatie la anpc si la toate forumurile europene. Am reusit intr un final s o returnez. " ; :hasAuthor "Paul Dragus" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review202993_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "buna pt copii...micuta usoara...cel mic e incantat" ; :hasAuthor "Silvia Alexandru" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review202993_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta buna pentru cei de inaltime mica, dar si copii." ; :hasAuthor "Iosif Budau" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review202993_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cum pornești farul la ea că nu scrie nici în carte nicăieri,in rest este chiar super ok, merită!!" ; :hasAuthor "Iakab Paul" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202993_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotineta este perfecta pentru oras,are 3 trepte de viteza pe 1 prinzi 6 km/h,pe 2 prinzi 15,iar pe a 3 a prinzi 24,25, " ; :hasAuthor "Buibas Alexandru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta foarte rezistenta si usor de transportat.   Acumulatorul nu tine insa suficient de mult daca trotineta este folosita pe modul sport." ; :hasAuthor "CLAUDIU TIUTIU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O am de un an, este foarte buna se mișcă bine și pana acum nu am avut problema cu ea, recomand !" ; :hasAuthor "Mihai Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand cu incredere. Autonomie foarte buna." ; :hasAuthor "CRISTIAN LOLOIU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Acest scuter este încă uimitor până în ziua de azi, singurul lucru ciudat este că bateria ține aproximativ 1 zi, așa că trebuie să o încărc în fiecare noapte și este parțial ecologic." ; :hasAuthor "Vilmos Kibedi" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "mereu aproape cand ai nevoie de ea cand esti in grabit. rezistent" ; :hasAuthor "Bea Iovan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buna ,pret accesibil si rezistenta" ; :hasAuthor "LIDIA CORDUNEANU" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review240519_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "După 1 an de zile nu mai funcționează trebuie sa o duc la garanție și nu știu unde. " ; :hasAuthor "Adrian Moldovan" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review240519_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am folosit-o saptamanal sa ma deplasez in oras. Foarte utila si ocupa un spatiu mediu. Autonomia este mai mica decat la celelalte modele din gama dar isi face treaba." ; :hasAuthor "Goran Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Excelenta, are autonomie sufiecienta si viteza buna." ; :hasAuthor "George Catalin Paulescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Exact ce trebuie ca și raport preț calitate " ; :hasAuthor "Solomon Lucian Sebastian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Rezistenta si cu autonomie decenta. in pretul acesta este best deal" ; :hasAuthor "Iosif Budau" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte ok. Autonomia bateriei este relativa. " ; :hasAuthor "Marian Stoica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "A fost facuta cadou nepotului meu dar am inteles ca este un produs excelent si corespunde asteptarilor. Pana in prezent este ok si ceea ce este super se poate limita viteza pana la 15 km/ora din aplicatia telefonica. Recomand." ; :hasAuthor "Alin Popescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Eu am cumpărat una second-hand să îmi fac o părere despre trotinete, în general, coincidenta a făcut să fie acest model. Este o trotineta foarte buna la care îi poți face MULTE modificări mai mult sau mai puțin legale. Autonomia este in funcție de greutatea pasagerului, eu am 100, deci aproximativ 10 km fără pante abrupte, frâne excelente, viteza se obține maximă și chiar mai mult dacă se folosesc softuri adecvate, dar scade autonomia. Chiar și așa e de ajutor dar și pentru distracție, construcție solidă care îți creează o stare bună de siguranță când ești pe ea. pliabilă suficient cât să încapă în mașină sau in spații înguste de depozitare. Nu este Porsche dar este foarte ok. Recomad un stagiu de acomodare pentru o trotineta mai performantă. Have fun!" ; :hasAuthor "Dan Moga" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achizitionat aceasta trotineta si pot sa spun ca am fost placut surprins de calitatea produsului. Prima proba cu trotineta 20-21 km/h pentru o persoana 80+ kg, pe aplicatie la 56 % incarcare scria 11 km atuonomie. Constructie robusta, materiale de foarte buna calitate, roti destul de mari (22 cm). " ; :hasAuthor "Balog Robert" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Avantaje: are un pret atragator in comparatie cu celeleate trotinete, ajunge la viteza maxima ( 20 km/h ) , are functia de pilot automat adica iti fixeaza viteza daca este mentinuta ( aprox. 45 de secunde ) si sustie 2 oameni. Dezavantaje: Baterie se consuma foarte repede, pilotul automata se fixeaza prea rapid, aplicatia nu este de mare ajutor in senul in care se deconecteaza foarte rapit de trotineta si in cazul in care te departezi doi metri se deconecteaza si trotineta se deblocheaza. " ; :hasAuthor "Matei Iorga" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review240519_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La drum drept merge foarte bine, în dealuri mai puțin. Este o metodă foarte bună de deplasare pentru cei care nu vor să aibă mereu o ținută pentru ciclism (mersul pe bicicleta în blugi e oribil, spun din experienta). Doar să nu vă așteptați la prea multe, până la urmă este o trotineta destul de ieftină, dar merită banii. " ; :hasAuthor "Eduard Aparaschivei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte ok. Autonomia bateriei este relativa. Depinde cum mergi cu ea.15-20 km in general, 80 de kg.Pana si temperatura de afara influienteaza bateria. De ex, la frig,sub 10 grade,  tine mult mai putin.Totul este relativ- Albert Einstein." ; :hasAuthor "DORIN CIOBANU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Da am achiziționat și eu această trotinetă electrică sunt foarte mulțumit de ea o recomand cu încredere. " ; :hasAuthor "Tuser Dan -Cosmin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_21 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Stau la țară și sunt câteva dealuri abrupte pe ici-colo,merge perfect.  Vine in pachet cu un încărcător cu specificațiile:  Input: 100- 240 V - 50/60 Hz  2.0 A MAX Output Voltage: 42 V Rated Output: 41 V  Acumulatorul are o capacitate de 5100 mAh Se încarcă in aproximativ 2 h și jumătate" ; :hasAuthor "Simon Pal" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_22 rdf:type owl:NamedIndividual , rev:Review ; rev:text " După 6 luni achiziționată din magazin Altex mă declar foarte mulțumit .este fenomenală pt copii de greutate mica/medie autonomie ff buna " ; :hasAuthor "dobre constantin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte mulțumit de ea, singurul dezavantaj este ca pe modul sport se descarca mai rapid in rest este perfecta pentru copii" ; :hasAuthor "Tudorescu Denis" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Are inclus si incarcator? Sau este pe baterii?? ..................Mi ar placea sa stiu...as dori sa imi cumpar" ; :hasAuthor "Emanuel Rusu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport calitate-pret, excelent! Băiețelul meu e foarte încântat de ea, a atins viteza de 33km/h in coborârea unei pante iar la drum intins 23km/h.  " ; :hasAuthor "Lavinia-corina Popescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_26 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta buna, am achizitionat-o la pretul unei trotinete normale (resigilata), pentru banii pe care i-am dat nu am ce comenta, dar la pret intreg se schimba povestea: Pro: -Greutate redusa (12kg) -Display cu functii avansate -Bluetooth -Frana buna -Elemente de siguranta (reflectorizante) -Constructie solida -Aspect placut -Manevrabilitate Contra: -Viteza (20km/h) - la 80 de kg ale mele se simte cum se chinuie sa traga, (problema inexistenta la varianta 1S) -Autonomia (20km) - din nou redusa de greutatea mea  In concluzie pot zice ca e o trotineta excelenta pt doamne/domnisoare/copii, sau persoane mai usurele in general. Pentru persoane mai grele/adulti e mult mai ok modelul urmator din serie." ; :hasAuthor "Paul Matei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_27 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparat-o pentru copil. Este foarte mulțumit. Singurul dezavantaj este ca nu are indicațiile si in limba română " ; :hasAuthor "Marin Capalb" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_28 rdf:type owl:NamedIndividual , rev:Review ; rev:text "azi a fost a 4 ora cand am iesit cu ea facand 22 de km pe zii cu ea mergand constant cu 13km/h,bateria tine extrem de mult ,dar pe modul sport se duce mai repede ,in fine recomand cu incredere " ; :hasAuthor "MIhaela Culcescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_29 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotineta e nouă? " ; :hasAuthor "King YT" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240519_30 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Salut, aceasta trotineta e peste așteptări. Este foarte calitativa, arata foarte bine și merge foarte bine. Trotineta nu prinde 20km/h și 22km/h la drum drept,autonomia este una care ma surprins în loc de 20km eu am făcut 27km pe modul eco și sport uneori având o greutate de 50kg,cred ca dacă mergem numai eco scoteam 30km autonomie,. Pe scurt trotineta merita toți bani. " ; :hasAuthor "Alim Patrascu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300411_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs ok perfect a ajuns in timp rapid. Aleg mereu Altex" ; :hasAuthor "George Vlada" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300411_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumpărat acest produs in urma solicitării serviciului  de doua ori diferența  la 1400 lei. Recomand cu desăvârșire, o folosesc de doua zile și este extraordinara. Trage și la dealuri abrupte, este eficienta. Singura problemă a fost personalul din magazin, care nu cunostea regulamentul și a fost foarte dezamăgitor, am fost la toate cele 3 magazine Altex din orașul Suceava și mi s-a vorbit foarte urat, nimeni nu a vrut să mă ajute, spuneau că ei nu cunosc, că ce vin eu cu:  de doua ori diferenta ;  ce-i asta ;  voucherul nu se transforma in numerar , și cel mai nasol este că scrie mare cat casa pe mall  oferim de doua ori diferența dacă găsești în altă mare mai ieftin  (pe bune, scrie cat jumătate de mall) și ei când colo nu cunosc nimic...Unde mai pui că scrie și  profesionistii noștri sunt gata sa te ajute  Rușine personalului Altex Suceava, dar mulțumită celor de la Altex Romania pe care i-am apelat la nevoie am rezolvat situația cu vorba buna și pe un ton primitor!  Totuși nu dau 4 stele cum mi-am propus, produsul merita 5 la raportul calitate-pret! Revin cu o alta recenzie despre cum se comporta peste câteva luni." ; :hasAuthor "MARCELA MONICA PINZARIU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300411_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumpărat-o recent Pro: design plăcut, destul de bine construită, compactă  Pentru mine e foarte ok la greutatea de aprox 65kg, pentru o distanță de 20km s-a consumat jumătate din acumulator, drum fără pantă,testată in 4 zile consecutive  Constra: încărcătorul se încinge prea tare cât timp intra în rolul încărcarea(led roșu)-soluție: l-a așezat vertical pe un cooler de laptop cu 2 ventilatoare" ; :hasAuthor "sorin Horga" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review247105_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu este deloc adevarat ca nu tine prin oras daca vrei sa te plimbi! Cu conditia sa te plimbi prin oras pe modul Standard!!! Poti sa o folosesti pe Sport daca vrei sa urci o panta dar atat! In rest daca te plimbi cu ea pe modul Standard te tine suficient. Eu am iesit cu  prietenii mei care mergeau pe biciclete si prin tot orasul ne-am plimbat, tin sa va spun ca locuiesc in Sibiu un oras mare si am plecat cu ea dintr-un capat al orasului, am traversat centrul si am ajuns in celalalt capat al orasului, am trecut prin parcul Subarin, am ajuns la gradina zoologica si ne-am si intors, cand am ajuns acasa mai aveam 33 % baterie fara sa am baterie externa.       O recomand cu toata increderea!!! Pe mine nu m-a dezamagit niciodata si o am din 1 mai 2021! Bucurati-va cu drag de ea daca o aveti deja!!! " ; :hasAuthor "Andreea Pletteriu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review247105_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Mi-am achiziționat trotineta asta săptămâna trecută, ce să zic, merge super bine, pe modul sport nu dă zvâcuri mari când accelerezi deodată cum fac alte trotinete, problema este că dacă vrei să te duci la o plombare cu ea să poți să te întorci acasă mai greu dacă vrei o distanță puțin mai lungă. Mi-aș cumpăra o baterie externă de la ninebot să o fac de 45 km pentru că doar așa este bună doar de câteva ture în oraș la categoria plimbat dar pentru muncă casa este perfect dacă locuiți într-un oraș mai micuț. Recomand cu toată încrederea, merge super!" ; :hasAuthor "George Dinu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review247105_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Despre aceasta trotineta nu pot sa exprim decat numai laude!!!! O am din 1 mai anul acesta si pot spune cu mana pe inima ca nu m-o dezamagit deloc pana in acest moment. O folosesc pe distante de 14 km dus-intors in total pana la lucru si inapoi, am in drumul meu suisuri si coborasuri, urca cu brio o panta chiar mai inclinata decat presupune ca ar putea urca(diferenta este ca scade viteza). Am prins ploaie pe drum si nu s-a intamplat absolut nimic,nu am alunecat, rotile au o aderenta foarte buna si pe ploaie dar la curbe am incetinit asta este clar si obligatoriu!          O folosesc cel mai mult pe modul sport, denivelarile le trece foarte ok, sunt amortizate foarte bine socurile. Acum sa va spun ca autonomia bateriei tine si de alti factori cum ar fi vantul puternic,deci atentie cand mergeti pe vant va mai scade din baterie iar cand coboara bateria sub 20 % intra automat pe modul eco deci veti merge mult mai incet chiar daca sunteti pe sport si ati vrea sa atingeti viteza de 25 km la ora nu va va mai permite, asta este ok deoarece aveti garantia ca va duce totusi pana la destinatie :)).        Bateria se incarca destul de repede, farul si stopul lumineaza puternic nu ai cum sa nu fi observat in trafic.  Eu o iubesc la nebunie, nu am cum sa imi exprim mai mult de atat multumirea fata de tot ce inseamna ea pentru mine, este bestiala si devi dependent de ea foarte repede!!!! O recomand cu tot sufletul!!! Felicitari NINEBOT!!! Sunteti extraordinari!!! " ; :hasAuthor "Andreea Pletteriu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284692_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "o trotineta super .." ; :hasAuthor "TUDOR ADRIAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review306407_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ambalaj mare greu , 2 persoane necesita , montarea destul de anevoios necesita vizionare clip video. Incarcarea usora ,pornirea  aplicatiei de pe telefon greoaie necesita timp , mersul sau folosirea trotinetei un lucru bun ,usor si viteaza depasita cu 3 km maxim,alimentarea 3 ore minim, transoportul greut . in rest placere maxim . recomand . uiti de toate neplacerile folosindo." ; :hasAuthor "Vasile clipici" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284693_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte ok trotineta. Un singur minus ar fi faptul ca mi-a dat o eroare dupa cateva luni si nu am mai putut sa o accelerez dar s-a rezolvat repede de la sine." ; :hasAuthor "Alexandru Babiuc" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review284694_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "A venit în stare perfecta, este exact ce am vrut!" ; :hasAuthor "Teodor Zbircea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284694_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "trotineta este foarte stabila ,autonimia cam slaba !" ; :hasAuthor "florin alexandru ochea" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review284694_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta capabila, rapida, prind 37 km / h max la o greutaate ce 80 kg. Putin instabila la viteza mare probabil din cauza amplasarii motorului pe roata din spate!" ; :hasAuthor "Cosmin Mihai" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review284694_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotineta este excelentă.  Cine a făcut designul la acest model era un artist. Arată excelent și se comportă nemaipomenit.  Dacă ai sub 70 kg și mergi prin oraș, te poți biziu pe 25-35 km, dar dacă ai aproape 100, doar pe 20 km.    Merită toți banii acest review... DAR trotineta merită si un plus de admirație.  " ; :hasAuthor "Elvis Nica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300094_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Arata foarte bine si pare destul de rezistenta. Vedem in timp.  " ; :hasAuthor "Iurasog Lucian Alin" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review300094_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Merita fiecare banut. " ; :hasAuthor "Alida Crisan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300094_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achiziționat trotineta pentru fetița mea de 5 ani. Este încântată." ; :hasAuthor "Alexandra Caciuc" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300097_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte multumit de produs" ; :hasAuthor "Bogdan Ionut Stan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review300097_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pentru un copil de 8 ani(130 cm) este perfecta, 3 moduri de viteza,fetita este incantata. " ; :hasAuthor "mirodone carmen" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302633_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "constructie masiva, accelerare rapida, rotile de 10 ajuta sa nu simti foarte tare toate denivelarile" ; :hasAuthor "Lucian Pop" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302633_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bateria este cam slaba. In realitate mergi 15 km pe Eco. Constructia trotinetei foarte buna, foarte rezistenta vs Xiaomi" ; :hasAuthor "Bogdan Safta" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302633_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta decenta. isi face treaba foarte bine. Cadrul este destul de bine structurat. Autonomia este de 18km, daca este folosita in modul drive. Daca este pusa in mod eco mai castigi aprox 2-3 km. Viteza maxima in Drive de 25km/h este suficienta pentru o plimbare. Eu personal o folosesc pentru a merge la munca, un traseu de aprox 3km. Raport pret calitate foarte bun." ; :hasAuthor "Bogdan Nica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302633_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achiziționat modelul D18 pentru fiul meu de 16 ani, dar o folosesc și eu cu plăcere, deoarece e solidă, se conectează la telefon, are sistem rudimentar de alarma, in caz ca e deplasată de cineva când e activat acest sistem(notifică în aplicație și activează frânarea electronică, piuind în acelasi timp). Duce cu ușurință 100kg(eu cu feciorul cel mic)... Autonomia e cea specificată, probabil pe modul Eco, dar pentru drumuri prin oras e absolut ok. E destul de grea, dar nu o plimb rabatată oricum." ; :hasAuthor "Nicolae Lucian Moldovan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302633_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buna, solida, accelereaza destul de repede.O recomand celor care folosesc trotineta pe distante mici zilnic." ; :hasAuthor "Lucian Pop" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302633_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta buna , cu timpul isi merita banii ." ; :hasAuthor "Iuliana Manolache" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302633_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte bună, cu rotile de 10 inch nu se simt denivelările. Foarte bună " ; :hasAuthor "IONUT RATOI" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review302633_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotinrta decenta. am achizitionat-o de curand. Isi face treaba foarte bine. un mic dezavantaj ca nu se poate conecta la telefon." ; :hasAuthor "Madalin Laurentiu Moise" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302633_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta buna cu raspuns rapid in acceleratie, posibilitate setari moduri de mers. Acumulator decent, contructie solida, roti generoase. Necesita conctare la un telefon pentru a fi activata." ; :hasAuthor "Alexandru Mechetei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este o trotinata foarte buna, trebuie citite foarte bine instructiunile de utilizare pentru a reusi sa va conectati cu telefonul la ea si sa puteti sa o folositi, altfel trotineta nu functioneaza. Dar, dupa descarcarea aplicatiei pe telefon si conectarea trotinetei la aplicatie este foarte usor de utilizat. Merita!" ; :hasAuthor "cristian dinita" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta foarte buna si cu un aspect placut pe culoarea gri." ; :hasAuthor "Visan Razvan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achizițonat 2 trotinete Mi 3 și sunt mulțumit . Se mișcă foarte bine ." ; :hasAuthor "Bogdan Ionut Stan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Super experienta! Produs de calitate, bine construit. Am reusit sa fac o pana pe spate , de altfel sunt aproape de limita superioara a greutatii suportate. Se poate rezolva definitic prin montarea unor cauciucuri solide " ; :hasAuthor "Bogdan Bilga" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte utila în oraș. " ; :hasAuthor "Mihai Cobianu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Fiabila, rezistenta, pret excelent" ; :hasAuthor "vasile bildea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotineta se misca surprinzator de bine, depasind asteptarile, pentru moment.  Din ce am inteles, au existat multe probleme cu trotinetele Xiaomi cand au fost folosite prin ploaie.. deci, evitati apa, pe cat posibil." ; :hasAuthor "Alin Mesesan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "produs ok,face exact ca in descriere ,tine 35km lejer,prinde 25/km/h" ; :hasAuthor "Eduard Eduard" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Totul este perfect in privinta ei . singurul gand pe care il am este ca am mers in modul sport vreo 3.5 km cu mici pauze si de la 100 % am ajuns la 86 %  poate mi se pare mie ca sa descarcat putin ca repede , sau oare bateria trebuie reformatata /.. habar nu am recomand aceasta trotineta pret calitate este extraordinara ! daca va hotariti sa cumparati cutia este mare va trebuie masina mica ca sa o carati din magazin !" ; :hasAuthor "alecu marian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nota 10+ merita toti banii! Mai bine ceva brevetat decat chinezarii supraevaluate pe olx. Ambalata bine accesorii totul e impecabil." ; :hasAuthor "Alexandru Bordeianu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Probabil cea mai buna trotineta pentru pretul ei. Am luat-o ieri si pot spune ca sunt placut impresionat. In modul sport mai ales are o acceleratie incredibila, asa ca aveti grijă cu ea. Bateria tine mult si se incarca repede. De invidiat pentru pretul ei!!! " ; :hasAuthor "Ionut Udrea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review284302_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "  Trotineta e geniala, are o acceleratie in modul sport de invidiat si ajunge la 25km/h imediat, in ciuda greutatii mele de 87-90kg. Pur si simplu te smunceste si trebuie sa te tii temeinic de ghidon." ; :hasAuthor "Paraschiv Toni" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta foarte buna, autonomie mare, frane bune, aplicatie interactiva! " ; :hasAuthor "Dragos  Cosmin LUNGU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "sunt f multumita de trotineta. am cumpărat o pt fiul de 15 ani si e super incantat de ea. " ; :hasAuthor "Alexandra Dima" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "o trotineta foarte buna. raport calitate pret ok" ; :hasAuthor "COSTICA DRAGOS LUMINITA" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "raport calitate pret , ok. recomand." ; :hasAuthor "zoltan berei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte buna. Copilul meu o adora!" ; :hasAuthor "Radu Manolache" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "momentan sunt in teste cu ea, pana acum se prezinta bine, am reusit sa setez rapid cu aplicatia mihome per total multimit" ; :hasAuthor "tudor iordan" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review299303_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "singurul lucru care trebuie facut este sa umflati rotile. cu ele semiumflate cum vine din fabrica autonomia este ff mica. 14-15 km. umflate la 3.5-4 bari creste la 25 km. asta in conditii de 80 kg si 5-10 grade afara. " ; :hasAuthor "casian dusan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este o trotinetă excelentă! " ; :hasAuthor "MEMA Denus" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs excelent!" ; :hasAuthor "COSMIN VIJULAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "este foste buna." ; :hasAuthor "Florin Flo" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Dupa 5 luni folosit intensiv va împărtășesc experiențăele mele. Mai mult de 12 km autonomie (85kg) nu a depasit. Cu bateria 100% prinde 25km/ora la 60% prinde doar 21 iar sub 42% are viteza maxima de 18km/h iar la 15% nu mai duce deloc. Am trimis la service foarte rapid am primit inapoi (5 zile cu curierat) spunand ca au inlocuit bateria si bms. Totusi are aceeasi simptome. Cu bateria sub 60% nu mai vrea sa accelereze. Am mai multe produse xiaomi dar cred ca din cauza acestuia data viitoare ma voi orienta spre alte branduri" ; :hasAuthor "ZOLTAN JAMBOR" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review299303_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am testat cateva modele de trotineta electrica, Xiaomi are ce mai bun raport calitate/pret. Autonomia cred ca ajunge undeva la 25 km(am 60 kg ). O folosesc la naveta (15 Km dus) si raman cu 45-50% baterie(pe viteza maxima si cu lumina aprinsa). Franarea regenerativa este geniala(dupa ce te inveti sa o folosesti, nu mai atingi frana decat foarte rar).Aplicatia este foarte intuitiva. " ; :hasAuthor "Robert Oancea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review299303_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Autonomie max.20km . Bateria se cam descarca singura . Pentru o plimbare in parc este foarte buna ." ; :hasAuthor "Catalin Ilie" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review274100_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta cu o autonomie foarte buna. Viteza de maxim 25km acceptabila. Singurul minus este ca myria nu ofera aplicatie pentru lock la trotineta sau delimitarea sa. In rest este destul de mare recomandata in general adultilor." ; :hasAuthor "Mihai Scarlatache" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review274100_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs foarte bun! Datorită unei erori a aplicației, am fost nevoit să o trimit în service. Neștiind cauza nefuncționalității. Să nu trebuiască să aveți nevoie de trimis în service.  Politica firmei: întâi încearcă  magazinul  să o repare, fără vreo calificare, apoi dacă nu este remediat defectul, (chiar și prin demontare, deșurubare, unde cred ei că ar fi problema) apoi o trimit în service. Din service am primit-o ..., la fel cumam trimis-o. Datorită  specialiștilor  din magazin, a fost avariată la manevrabilitatea ghidonului. Piese lipsă la remontare: rulment, șaibă, etc. Ei au încercat, dacă așa este în fișa postului, dar nu au nici o idee! " ; :hasAuthor "Voicu Maddalin" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review274100_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Autonomie foarte mare,suporta 120kg lejer, pret raport calitate ok" ; :hasAuthor "MADALIN SABOU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Autonomie foarte mare 90km, puțin cam grea sa o transporți pliata, suspensii și roti bine gândite " ; :hasAuthor "Dragos Bogdan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Merita pentru autonomia pe care o ofera" ; :hasAuthor "Razvan Lica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Excelenta, autonomie destul de buna, foarte practica intr-un oras aglomerat" ; :hasAuthor "Isac Petre" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "e foarte buna pt oameni mari , ca minus este voluminoasa." ; :hasAuthor "tudor iordan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumpărat-o de trei săptămâni. Sunt sub 100 de kg și nu reușesc să scot din ea mai mult de 37 de km (de la baterie 100% pana la 0%) și asta în mod  eco , adică 12,13,14km/h. Daca folosesc modurile de 20km/h și 24.9km/h ține mult mai puțin. Diferența de la cei 95 de km din reclama este imensa. Comparând cu alte recenzii mă gândesc că probabil este o problema cu a mea și o voi duce in magazin sa verifice.   In rest, nu am experiență cu alte produse similare dar mie accelerația mi se pare ok. Suspensia și cauciucurile își fac treaba foarte bine, din acest punct de vedere e 5 stele.   Un alt punct minus este că acele mici benzi reflectorizante sunt lipite foarte prost, cel puțin la a mea au fost, una a căzut pur și simplu in timpul mersului, fără loviri de gropi sau borduri. La fel și cauciucurile mici decorative de lângă roata din spate.  In rest, totul ok și la fel ca și în reclamă." ; :hasAuthor "Vlad-Nicolae Dinu" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review274100_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cea mai buna alegere, foarte multumit de produs, de pret si de serviciile oferite de altex" ; :hasAuthor "Alex Daniel" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Duce greutate mai mare." ; :hasAuthor "Eugen Malea" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review274100_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Perfecta pentru traseul scurt pe care il parcurg de obicei la un pret rezonabil" ; :hasAuthor "Andrei Fitarau" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "o trotineta ok, peste ce face Myria de regula." ; :hasAuthor "Robert Toca" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Din pacate, desi este o trotineta robusta, motorul e extrem de slab. Pana prinde 25km/h, accelereaza  greu, in mai multe etape, ca si cum ar avea trepte de viteza. Odata ajuns la 25 km/h, mororul nu tine viteza maxima constant.  Intra intr-un fel de frana de motor, pana la 20-21km/h dupa care iar accelereaza pana la maxim si face asa la nesfarsit. Pe toate modurile, eco, drive, pro, e foarte slaba. Are acceleratie buna, dar doar la început. Gaurile de la ghidon erau date rau si coarnele stateau stramb dupa calibrare.  Poate unii vor spune ca sunt prea greu, dar am 80kg  si facand o comparatie cu cele de la Bolt, alea rup asfaltul cu 2 persoane pe ele, ceea ce cu acest model nu am indraznit sa incerc, la cat de lenes e motorul. Cele de la Bolt, net superioare.  Nu recomand acest model, este scump comparativ cu experienta pe care o ofera si intre timp s-a mai si scumpit cu 600 lei, ceea ce este o exagerare. Am cumpărat cu 3000 lei. Acum s-a scumpit ca sa para reducere de Black Friday." ; :hasAuthor "Alexandru-Florian Rata" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review274100_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "am trotineta de 3 sapt.......nu mai porneste......la service au spus sec  soc puternic  si s-au spalat pe maine cu tot cu extra garantie......fara ca acea trotineta macar sa sara o bordura cauciucul spate tot pierde aer......service a spus  pori  si atat......adica nu spun ca acei pori apar ca este un produs slab sau ca ......(asa am luat trotineta din magazin dar cine ma crede?) asadar teapa de 3000 lei sau platesc 800 servisarea p.s. este luata pe firma......anpc nu se baga :((((?" ; :hasAuthor "Snae Mihai" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review274100_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text " Este o trotineta electrică bună. Sunt mulțumit cu ea. Merge bine cu greutatea mea de 104 kg. Amortizoarele ajută mult la mici denivelări. Indicat folosit numai pe asfalt. 15 km parcurg cu ea aproape zilnic fără probleme." ; :hasAuthor "Attila Levente Nagy" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparat trotineta cu nici 24h in urma, am desfacut ACASA cutia, dupa ce am carat 24 kg (atat are ca greutate), si are multiple defecte ESTETICE (nu am montato sa stiu daca si tehnice), am fost astazi sa o dau inapoi si mi-au zis ca ei nu primesc returul decat daca il trimit in service (15 zile dureaza) sa stabileasca ei daca defectul e facut de mine sau asa a fost din fabrica. Pozele si videoclipurile mele din timpul unboxingului nu sunt  destule . Momentan lasam 1 stea, comunicarea cu personalul lasa mult de dorit, si rezolvarea practic este frectie la picior de lemn. Cu alte cuvinte ei mi-au spus ca vrei sa o pastrezi, bine, nu vrei sa o pastre,i, tot o pastrezi ca nu o primim, dand vina pe mine pentru defecte. (Mentionez ca nici nu am scos-o din ambalaj, efectiv sunt vizibile cum deschizi cutia).  Later edit: Nu pot atasa VIDEO aici, puteti lasa un comentariu sa va trimit personal sa vedeti ce cumparati (poze si video). Pret 3000 RON. " ; :hasAuthor "Alexandru Iulian Sandu" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review274100_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu porneste din start, nu da nici un semnal. Azi am cumparat..." ; :hasAuthor "Barna Nagy" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review274100_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand,se aseaza bine la drum ,suspensie fata spate nu simti nici o groapa,acumulatorul ma tine undeva la 60-70km .imi place ca pleaca dupa loc cu demaraj ,sper sa tina in timp " ; :hasAuthor "Dumitru Ungureanu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am dat 2700 lei și își merită prețul.A sosit cu acumulatorul încărcat la 65%, l-am încărcat 100% și am parcurs 58.5 km, acumulatorul mai având 12%. Am reușit să fac pană pe roata din spate și am reparat cauciucul cu un   Kit auto VGT, pentru vulcanizare / reparare anvelope de la Dedeman,m-a costat 12.59 lei.Viteza reală limitată a trotinetei este de 20 km/h. Este bine pentru siguranța deplasării,eu nefiind adeptul mersului sportiv nici cu autoturismul personal." ; :hasAuthor "Adrian Paici" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu pornește de la buton mâine o duc înapoi o dau retur " ; :hasAuthor "Stoian Catalin" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review274100_21 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este stabilă si foarte ok. Am gasit-o la reducere cand am plasat comanda si isi merită banii!🥳" ; :hasAuthor "Raida Stoica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_22 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este o trotineta foarte solidă care răspunde bine la provocările zilnice din trafic. Eu am 100kg și parcurg cu ea zilnic 45km in modul sport ,e cam maximul de autonomie +/- 1km Am parcurs cu ea peste 1000 de km in decurs de o luna și nu a trebuit să strang nici un surubel. Recomand ,merita fiecare banut" ; :hasAuthor "VILAU IONUT" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta solida,grea are 20 kg,cine trebuie sa urce la etaj cu ea va munci puțin. Amortizarea fata spate își face treaba bine.Rotile eu le am umflat la 2.5 ATM ei zic ca și 3  este ok. Sant la primii km cu ea dar eu sant mulțumit,de fapt este modelul inmotion L9 doar ca e facuta pentru Altex.Cu 74 de kg am făcut 52 km cu ea și încă am baterie.Recomand." ; :hasAuthor "Maghear Florin Liviu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Salutare, per total sunt mulțumit de aceasta trotineta trage ok având 90 kg și o folosesc și la panta, o am de 1 luna și am făcut vreo 250 km însă am întâmpinat o problema dacă ma poate ajuta cineva as fi recunoscător sa nu o mai duc în service, îmi da eroare 07 ceva la ghidon. Mulțumesc anticipat! " ; :hasAuthor "Ionut Stoian" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review274100_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Aparent acest model este infratit cu InMotion L9 sau doar pus sub brandul Myria, pentru cei ce cauta recenzii, teste si altele, insa nu prea gasesc.   Asamblarea a fost simpla, fara batai de cap, recomand totusi imbus cu crichet pentru a avea suficienta forta sa strangeti surubul din furca in special, are tot ce trebuie in pachet, insa am optat sa strang cu crichetul pentru o precizie si cuplu de strangere mai bun.  Este suficient de puternica pentru o persoana de 83 kg, dupa incarcarea ei la 100% am mers in conditii de vant si in contra vant, modul Sport dus-intors de la munca ( aproximativ 11 km dus, 11km intors ) plus cateva drumuri prin oras, accelerari, opriri, urcari, lumini aprinse, etc.. si am scos 55km autonomie, din punctul meu de vedere destul de ok pentru modul si vremea pe care s-a condus. Este foarte confortabila pentru dotarile pe care le are, comparand cu o trotineta de la Bolt/Uber sau altele unde-ti clantane dintii in gura cand iei crapaturi, nu zic gropi, asta e chiar confortabila. La crapaturi, sparturi, denivelari, canalizari decente, nu simti mare lucru, la gropi ceva mai serioase, isi fac amortizoarele treaba, avand si fata si spate ( spate sub ea daca va uitati sunt doua amortizoare micute + arcuri ) si mai ajuta si anvelopele. Farul este arhisuficient cat sa vezi pe drum noaptea, chiar lumineaza bine. Per total, multumit, pentru naveta.. numai buna. Revin daca apar modificari." ; :hasAuthor "Alexandru Tudorov" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_26 rdf:type owl:NamedIndividual , rev:Review ; rev:text "A sosit cu o parte din suruburi lipsa, dupa ce am alergat o zi sa o dau retur si sa iau alta dintr-un magazin fizic, am reusit sa o pun in miscare. Daca o comparam cu o trotineta de la Bolt, Lime sau Splash este cu mult superioara, sinele de tranvai nu exista sau alte canale prezente pe marginea carosabilului, este mult mai usor de controlat fata de cele mentionate mai sus. Daca ne raportam la ea ca la o trotineta cu autonomie de 40km este aproape perfecta pentru pretul ei. Daca asteptam performante de 95 km autonomie... este un vis pe care il poti realiza maxim pe treapta Eco fara pante etc... eu am consumat 38% din acumulator in 16 km cu farul si semnalizarea activate pe modul S, din zona Diham pana in piata Victoriei si inapoi, ceea ce releva o autonomie de 40+ km.. comparativ cu alte modele de la Xiaomi de ex, este mult mai solida si mai rezistenta, doar ca toate acestea vin la pachet si cu cateva dezavantaje precum gabaritul si greutatea, putin incomod pentru a fi depozitata si incarcata in apartament. Este practic modelul L9 de la InMotion, daca o sa cautati modelul o sa observati ca ei au regelementat aceasta informatie si are doar 40km autonomie. Daca stam sa o comparam cu altele care au in specificatii 40 km autonomie si in realitate maixm 25, cred ca este un device foarte bun raportat la pretul lui. Sa vedem cum se prezinta in timp, momentan au trecut doar doua zile. " ; :hasAuthor "alin stoica" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review274100_27 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Revin cu o recenzie dupa ce am facut mai bine 250 de km cu aceasta trotineta. Incep prin a spune ca trebuie atentie la montaj deoarce inelul de culoare argintie lucioasa trebuie pus cu diametrul exterior mai mic in jos peste rulment si deasupra trebuie asezat inelul din aliaj de aluminiu.( Voi lasa doua poze pentru a se intelege explicatia de mai sus si va rog sa scuzati  edit-ul foto ) Din punctul meu de vedere este o trotineta solida, spun asta deoarece eu am aproximativ 108 kg si suspensiile lucreaza foarte bine, denivelarile se simt foarte bine avand in vedere aceste valori. Autonomia, mergand in modul D, aproximativ 19 km/h, la greutatea mentionata mai sus este de aproximativ 40 de km in conditii normale de drum la o temperatura de aproximativ 18-20 de grade. Un alt  must do  este acela ca trebuie verificate suruburile saptamanal pentru ca altfel se vor desface si se vor pierde. Este o trotineta destul de mare si de grea, asa ca daca stati la bloc mai sus de etajul 2, va fi destul de greu de urcat, iar o alta mica problema este ca in general trebuie sa rabatezi bancheta daca vrei sa o iei cu tine cu masina La final pot spune ca recomand cu incredere aceasta trotineta, mai ales pentru persoanele cu  ceva greutate . La pretul de 2700 de lei ( am achizitionat-o ca si resigiliata desi era noua fara urme de folosire si cu un mic defect estetic ) mi s-a parut  un best buy." ; :hasAuthor "Andrei Delescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_28 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte mulțumit! Dar doresc să mai montez un motor si pe spate... Nu știu daca este posibil.... Recomand pentru că este ca și un tanc de solidă, și sincer   nu ar strica ceva viteză în plus.... " ; :hasAuthor "Marius Cirjaliu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_29 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Multumit pana acum. Dar sa vorbim despre trotineta.  Am trotineta de aproape o luna. Mentionez ca este prima ..nu am mai utilizat pana acum asa ceva.  Pro.. Suspensii super.. Autonomie reala 46 km pe modul Sport la 80kg ale mele..probabil pe Eco sau Standard poti scoate mai multi km.. Viteza max 25km.. din punctul meu de vedere este ok pentru siguranta utilizatorului..  Minusuri... Greutatea.. mai ales daca ai multe etaje fara lift..  Alte probleme...  Am vazut ca unii clienti se plang de unele probleme, ex.. suruburi lipsa..slabe... ca nu intra in portbagajul masinii e.t.c... hai sa fim seriosi putin....Sincer nu vad de ce dati review negativ pentru aceste probleme... se pot rezolva prin inlocuirea produsului(mai putin inlocuirea masinii personale in care nu incape trotineta). Sunt defecte de fabrica din punctul meu de vedere si nu ar trebui sa afecteze calitatea/descrierea reala a produsului. Dar na..  Per total.. recomand..   " ; :hasAuthor "Laurentiu Constanda" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_30 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Multe din specificații sunt exagerate. La un mers normal, urcări pante, mers pe porțiuni drepte, bateria duce doar 38km, asta la o greutate de 112kg. O folosesc doar pe modul R, cel care ajunge până la 25km/h. Pante de aproximativ 30 grade nu urca, cel puțin cu greutatea mea. La viteza și putere e comparabilă cu trotinetele de la Bolt, cu toate că acelea au motor de 350w.  La suspensia spate ii lipsea un șurub, și celelalte s-au destrans după 15-20km. Ghidonul nu a fost asamblat cum trebuie, este un inel de ghidaj care vine peste rulment, acesta a fost pus invers și freca. Rotile trebuie umflate la doua săptămâni.  Pro: E mai comoda, suspensia e eficienta. E robusta și destul de rezistenta, mai puțin apărătoare din plastic, de sub ea. Când treci prin bălți nu te stropești.  E grea și destul de mare(nu încape în portbagaj la hatchback).  O recomand doar daca îți place să mai strangi cate un șurub și ai lift la bloc( e greu de dus pe scări). " ; :hasAuthor "Alexandru Garda" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review274100_31 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand această trotinetă din toate punctele de vedere!!  De când am cumpărat-o sunt foarte mulțumit, își face treaba excelent! " ; :hasAuthor "Denis Popa" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_32 rdf:type owl:NamedIndividual , rev:Review ; rev:text "trotineta e limitata 25 km/h, merge foarte bine si pe offroad e ok  e prima mea trotineta si o linie m-a tinut 3-4 ore " ; :hasAuthor "ovidiu dutu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review274100_33 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Ca și constructie este tanc. Suspensia isi face treaba foarte bine.  În modul sport am scos 47,8 km de la 100%-0%. Autonomia de 95 cred ca se poate atinge doar în D cu viteza pana în 18 km dar și acolo depinde mult de temperatura de afara și de vant, drum, greutate.  Ceea ce nu mi-a placut deloc a fost ca a murit brusc, de la 20% în cateva minute. Calculatorul nu e calibrat deloc cum trebuie.  În rest se simte foarte bine pe drum, acceleratia e foarte buna în Sport. Ramane să vedem cât de fiabila e în timp." ; :hasAuthor "Sebastian Adrian Cocor" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review274100_34 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte mulțumit ‼️ Confort 1 Nu simți nimic când mergi prin gropi sau drum cu pietriș Recomand ‼️" ; :hasAuthor "balan eli" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review309575_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu porneste de pe loc trebuie impinsa pana ajunge la 5km/h. Mi s-a intamplat sa nu porneasca si eram prin intersectie si nu e deloc ok. Acest lucru este deranjant pentru ca cand opresti pe la semafoarte tot trebuie sa o impingi in loc sa fii atent la masinile care circula prin intersectie. Iar in aplicatie nu ai nici o posibilitate sa faci modificarea. Dupa ce dai bani buni pe ea nu poti sa setezi parametri." ; :hasAuthor "GHEORGHE DULGHERIU" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review309575_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "super interesanta 😀 ne place tare mult!" ; :hasAuthor "Panait Zina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review309575_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Imi place, Merita , Recomand , o trotinenta extrem de calitativa si cu care poti ajunge oriunde . " ; :hasAuthor "robert sanduca" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review309575_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "materiale rezistente, baterie cu qutonomie buna si motor suficient de puternic " ; :hasAuthor "ciobu gheorghe" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review309575_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand 100%! Ireprosabila. Fiabila. Echilibrata. Materiale premium. " ; :hasAuthor "Jadaneant Razvan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review309575_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pare ok, prinde viteza maxima cu mine si fetita pe ea (~110kg)" ; :hasAuthor "Calin Ghiata" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review309575_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "In cele mai multe cazuri va depasi asteptarile, am facut achizitia in ciuda putinelor review-uri online si ma declar profund multumit!  PRO: -sasiu solid -spatiu pentru picioare generos -bine semnalizata -baterie foarte buna, intre 70 si 100% din ce sustine producatorul -greutate optima pentru ce autonomie promite -posibilitate de pliere practica dpmdv ...restul mai vedeti la un test/dupa achizitie  CONTRA: -pe teren nisipos se murdareste ca un porcusor, dar urca pante si ocoleste obstocale cu usurinta in profida acestui fapt  FEEDBACK EXTRA: Pe viitor ar fi ideal daca noile modele vor avea modul Wi-Fi integrat (conectare automata), pentru a avea acces mai facil la stare/setari atunci cand gadgetul este in gospodarie, daca tot traim in era IoT. " ; :hasAuthor "Alexandru Ciorcila" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review278224_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Merita folosita in special in momentele zilei cand traficul e intens.  Usor de manevrat." ; :hasAuthor "Andrei Fitarau" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review278224_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bateria chiar tine 65km Cadrul e durabil și stabil  Viteza maxima 25 km când e bateria 100%  scade la 24km după 90% dar se menține pana la terminarea bateriei. La dealurile normale de prin oraș scade viteza pana pe la 18km! Asta consider dezavantaj.  Suspensia ar fi fost necesară.  Rotile pe 10 inch - ar fi mers cauciucurile mai inalte pentru o mai buna amortizare.  Trotineta strict pentru străzile asfaltate." ; :hasAuthor "adrian surubaru" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review278224_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Daca vrei o trotineta electrica in care sa te increzi ai gasit modelul. Nu am sa-i descriu performantele pentru ca ar insemna sa o laud inca o data pe langa specificatii. Este ideala pentru ori ce fel de deplasare in oras sau in afara. Eu o folosesc preponderent pentru naveta acasa serviciu. Parcurg cam 10km/zi si o incarc la saptamana.  O am de un an si jumatate am parcurs 3200km pana acum si singurul lucru pe care as putea sa il reprosez ar fi greutatea cand trebuie sa o cari, dar trebuie sa existe si un pret pentru performante. Este foarte robusta nu trancane nimic dupa kilometrii efectuati iar ca stabilitate si siguranta pot spune ca m-a salvat din cateva situatii limita." ; :hasAuthor "Liviu Chivu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302634_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Calitate, putere și pare destul de fiabilă." ; :hasAuthor "Daniel Moiceanu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302634_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este o trotineta bună,comparativ cu prețul." ; :hasAuthor "Anca Crisan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302634_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs de calitate de la un producator de top. Recomand presiunea in roti la 3,5-4 bari, bateria se  aseaza  dupa cam 5 cicluri de incarcare. Foarte stabila, confortabila si practica. " ; :hasAuthor "Dragos Grivei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302634_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "produs calitativ.Sa vedem cum se descurca dupa mai multe cicluri de incarcare." ; :hasAuthor "Mihai Napau" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302634_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Orice produs Nineboot este bun, insa acest D28 cu autonomia de aprox 28km se bate lejer cu Xiaomi Pro2. Aplicatia usor de folosit, franare buna si stabil in accelerare." ; :hasAuthor "Iosif Budau" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302634_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este prima mea trotinetă, deci nu am cu ce să compar. O folosesc doar să merg de la bloc până la metrou și de la metrou până la muncă și înapoi. În mers este foarte stabilă și mi se pare că trage bine (am 84kg). Apreciez roțile mari și faptul că au venit deja umflate, a trebuit doar să instalez ghidonul în cele 4 șuruburi și aia a fost. În metrou e un pic dificil cu ea pentru că este măricică și grea, chiar dacă pe hârtie pare un pic, cele 15.3kg se simt pe scări. Încerc să folosesc lifturile dar sunt foarte lente și de obicei pline de pensionari. Anyway, până acum am folosit-o cam de 5 ori și încep să mă obișnuiesc. La prețul redus cu voucher a fost chilipir." ; :hasAuthor "Andrei Gheorghe" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review279293_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "tratineta este buna insa nu are suspensie fata ,roti pline deci cam rigida" ; :hasAuthor "ELENA MONICA MANTA" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review279293_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand , functioneza foarte bine" ; :hasAuthor "Petre Florin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review279293_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte incantat de trotineta. Se incarca  chiar mai repede de 3-4 ore..este super.. " ; :hasAuthor "Nistor Gina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "la maxim 80km facuti cu ea scârție butonul de la acceleratie, la 120km deja are joc in ghidon, autonomie 30km minim." ; :hasAuthor "Gabriel Gherase" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review240542_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs ok perfect a ajuns in timp rapid. Aleg mereu Altex" ; :hasAuthor "George Vlada" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta buna Per total , autonomia nu este cea din descriere, bateria ține undeva la 30 de km la o viteze de 25km/h" ; :hasAuthor "adrian diaconescu" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review240542_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Best buy.. Am un prieten afe 6000 km facuti cu ea.... E best.. Eu is la 600 Recomand" ; :hasAuthor "Cristian Circota" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs foarte ok, usor de intretinut cu un meniu usor! " ; :hasAuthor "Dragos  Cosmin LUNGU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "autonomie buna , materiale foarte ok , sunt multumit " ; :hasAuthor "Alin Rusu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Maxim 20km autonomie, iar viteza maxima nu trece de 22 km/h, in condițiile în care am 75 de kg. Ma gândesc serios la un retur " ; :hasAuthor "Dragomir Severius" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Merita fiecare bănuț ,am făcut prin București  cam 1500 km fara nici un fel de probleme.bateria tine maxim 30 km la stilul meu de mers" ; :hasAuthor "Daniel Cristian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am prins o promotie consistenta(-40%), dupa 1 an am facut 2000Km fara probleme. " ; :hasAuthor "Radu Mateescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achizitionat aceasta trotineta pentru a ajunge cu usurinta la supermarketuri pentru mici cumparaturi, imi este foarte de folos prin oras sa ma deplasez cu ea. Bateria ma tine in jur la 32-35de km pe modul normal cea ce pentru mine este arhisuficient" ; :hasAuthor "Muresan Raul" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte multumit de ea! Autonomie foarte buna, am mai urcat si la deal cu ea si nu dezamageste, putere destula cat sa transporte o persoana de 80 de kg si sa parcurga o distanta de 40 de km cu o singura incarcare. Mi se pare echilibrul perfect intre putere-autonomie-masa, destul de usoara fata de alte trotinete cu acelasi range." ; :hasAuthor "Razvan Kraszka" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un scooter electric foarte bun la pretul sau. Are autonomie mare. Este foarte rezistent. Cam greu de carat pe scari pentru o femeie. Incape on orice portbagaj." ; :hasAuthor "George Silviu Cater" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs foarte practic !" ; :hasAuthor "Dumitriu Razvan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Super experienta! Produs de calitate, bine construit, varianta aceasta pe Alb este mult mai eleganta, arata mai bine decat cea gri/neagra." ; :hasAuthor "Bogdan Bilga" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Autonomie si calitate excelenta insa se simte lipsa suspensiilor pentru pistele de la noi pline de borduri nealiniate." ; :hasAuthor "Catalin Roata" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review240542_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cei mai bine cheltuiti bani au fost pe trotineta asta. Ajung oriunde cu ea, fara sa stau in aglomeratie. " ; :hasAuthor "Alexandru Burticioiu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "imi place, super ok" ; :hasAuthor "Catalin Selejan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Calitatea Xiaomi este tot timpul peste concurența " ; :hasAuthor "Robert Toca" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Calitatea materialelor foarte buna" ; :hasAuthor "Andrei Popa" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_20 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport preț- calitate excelent. Trebuie avut grija sa nu dai prin bălți de apa,nu este waterproof" ; :hasAuthor "Marius Chirita" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_21 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Recomand modelul, este silențioasă, ușoară, frumoasă." ; :hasAuthor "Sandra Eremia" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_22 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Din păcate a mea trotineta xiaomi mi pro 2 sau mai bine zis a fiului meu nu a ținut decât o zi.... Aseară a venit curierul cu ea în cutie, am încercat-o și astăzi când se plimba băiatul meu cu ea prin parc a murit subit cu eroare 28 rosu și cheia de service cu bipaituri. Aplicația nu o mai găsește, nu poți sa te mai conectezi la ea, iar motorul este înfrânat tot timpul. Și ce încântat a fost cel mic de ea.... Repet, cred ca am nimerit noi una proasta din fabrica. O vom da retur și vom lua alta.... Tot acelasi model, tot de la Altex! " ; :hasAuthor "Liviu Maciuceanu" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review240542_23 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte multumit cu acest trotinete , solid , calitate si usor folosit ! Puteți avea întotdeauna încredere în mărcile Xiaomi ⭐️⭐️⭐️⭐️⭐️" ; :hasAuthor "Robert Hodos" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_24 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt multumit de produs! Am deja 2 ambele cumparate de la Altex.  " ; :hasAuthor "Zsolt Kulcsar" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_25 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta foarte buna. Am 95 de kg si merg cu ea in fiecare zi la serviciu. Undeva la 8km/zi dus-intors. La greutatea mea fac minim 30km, dar pentru ce imi trebuie mie este suficient.  In 500km parcursi cu ea, am reglat doar frana. Sunt foarte multumit!" ; :hasAuthor "Petrisor Gavrila" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_26 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am luat 2 bucăți și merg ambele foarte bine, părerea mea îi că merită, merg destul de tare, bateria ține destul de mult deci îs bune! " ; :hasAuthor "Florea Edward" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_27 rdf:type owl:NamedIndividual , rev:Review ; rev:text "este foarte buna la drumuri si isi merita banii o rezistență nemaipomenita a bateriei , recomand cu încredere " ; :hasAuthor "Manucu Florentin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_28 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este cea mai buna investitie facuta in ultimii ani! Din ianuarie cand am achizitionat-o pana acum am parcurs peste 400 km.  Singura problema identificata este scartaitul de la jonctiunea barei ghidonului care poate fi ameliorata cu o bucata de cauciuc speciala ori cu un pic de ulei de motor. Dezavantajul o reprezinta pretul actual, pretul platit de mine pt achizitie fiind de sub 1800 lei, este exagerat in aceasta perioada." ; :hasAuthor "Lucian Paun" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_29 rdf:type owl:NamedIndividual , rev:Review ; rev:text "A venit azi, am luat-o la pret 1899 lei de black friday de primavara de la Altex. La fel era pretul si in Martie anul curent, insa toti au scumpit-o la 2399 lei. Eu am asteptat si am prins-o la pretul corect.  *Baiatul de la Cargus a fost foarte dragut, pe calea aceasta ii multumesc inca o data ca a ajutat-o pe sotia sa care trotineta pana la usa eu fiind plecat la munca... deci nota 10 Cargus!  Am analizat mai multe trotinete, dupa parerea mea singura cu raport pret/calitate, deci ceea ce primesti CORECT in acest raport este Xiaomi Pro 2.  Montaj foarte usor, instalare facila a aplicatiei, a venit cu 66% baterie, am apucat sa dau cateva ture ca n-am mai avut rabdare si e o bijuterie. Trebuie facuta presiunea la roti ca risti sa faci pana, in aplicatie te avertizeaza printr-un video ca are nevoie de 5 bari pe fiecare roata, etc. - atentie bipuie pana nu termini de vazut acel video introductiv complet, e de bun simt pana la urma pentru siguranta ta.  In cateva ture am reusit sa fac vreo 6-7 km cu ea in urmatoarele conditii: am mers exclusiv in mod sport, 3km relativ drum drept viteza 23-24km/h - maxim de viteza perfect calculat pt deplasarea cu o trotineta, 2km urcare in rampa de 7% (conform indicator rutier) viteza 14-17km/h, 1km urcare rampa de 12% (conform indicator rutier) viteza 7-8km/h, acumulatorul dupa fiind la 45% din capacitate, am 92kg.  O estimare de autonomie pentru situatia mea, consider ca este undeva la 25-28km parcursi plecand cu 100% acumulator incarcat.  In concluzie, MERITA! Nu am nici cel mai mic regret pentru ceea ce am dat la schimb pe munca mea.  Sper sa te ajute." ; :hasAuthor "Alex Manolescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_30 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am facut 20km cu aprox 80% din acumlator , la nivelul de 20% a devenit lenes si nu l-am mai fortat, cu o greutate de 110kg in mod D drive limitat la 20km/h si ocazional am folosit si S sport limitat la 25km/h Multumit de produs  , s-a incarcat undeva intre 6-7 ore. " ; :hasAuthor "Fodor Zsolt" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_31 rdf:type owl:NamedIndividual , rev:Review ; rev:text "primavara 18 km 90kg , vara 25km 87kg  Sa nu vizati la km mai multi decat daca sunteti slabi in rest totul ok cu produsul" ; :hasAuthor "Gogoase Ionel" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review240542_32 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Comandata sambata - primita marti. Instalata repede. Strans suruburi si reglat manerul la frana.  Pus 4 atm in roti si merge brici. Revin in toamna cu impresii.  Dupa un an de folosinta si 1000 km facuti sunt foarte multumit. Pare sa fi scazut putin autonomia dar e de speriat. Pene nu am facut, doar s-a desumflat putin roata din spata si am umflat-o la compresor, 4 atm, si all good. Am schimbat placutele de frana si am luat o husa pentru display si cam atat investitie. Periodic sa mai strangeti suruburile ghidonului. Mi-a cerut recent sa ii fac update si acum am si cruise control. Doar activezi functia din aplicatie si dupa ce ajungi la 25 km/h ( pe mod S o folosesc tot timpul ), dupa vreo 5 sec nu mai trebuie sa tii degetul pe acceleratie, ceea ce e foarte util.  Revin la anu la 2000 km :)" ; :hasAuthor "Lucian Sprinceana" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_33 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bună, am cumpărat ieri aceasta trotineta din toate punctele de vedere este buna la bani care a costat, doar ca mie pe display îmi arata ca prind maxim 15 km/h, cum fac sa o dezactivez sau ceva ca să prindă 25 km/h asa cum e normal? Mulțumesc anticipat!!!" ; :hasAuthor "Corlade Alessio" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_34 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Dupa doua cicluri de incarcare, unul de la 10% (dupa descarcarea rezervei initiale) si altul de la 37% am ajuns la 50km parcursi si baterie 100%. Imediat dupa conectare bluetooth si-a facut update de soft. I-am setat din aplicatia mobila recuperare energie pe  medium  si am activat  cruise control . Franarea regenerativa se comporta ca o frana de motor, ajutand la reducerea vitezei cand se iese din regimul accelerat sau cu viteza constanta. Trebuie tinuta constant acceleratia timp de 5 secunde ca acest mod sa se activeze. Orice atingere a acceleratiei sau franei o trece in mod normal, accelerand functie de pozitia butonului acceleratiei. De asemenea, exista posibilitate imobilizarii din aplicatia mobila, mod in care roata motoare este in regim de franare si acceleratia inactiva, ingreunand tentativele de furt. Demaraj si cuplu acceptabile pe drum drept si pante usoare. Per total este un scuter electric ce ofera destul pentru un pret decent, autonomie, robustete constructiva si facilitati oferite." ; :hasAuthor "Gheorghe Sterian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_35 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotineta e buna doar ca a început sa scârțâie la care doar într-o zi. Și deia o sa ii dau doar 4 stele. " ; :hasAuthor "Petcu Mihaela" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review240542_36 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Trotineta e foarte buna,prinde viteza chiar și pe modul D, iar pe modul S este foarte rapida. Pe drumuri cu gropi e cam rigida. Frânele sunt foarte bune,și luminile sunt foarte puternice. Merita toți banii!" ; :hasAuthor "Tudor Tulban" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_37 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am luat aceasta trotineta din curiozitate si din dorinta de putina distractie .... pe scurt , a meritat  mi-ar fi placut sa fie mai usoara si sa accelereze mai tare pana la 25 km " ; :hasAuthor "Matei Dumitrescu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_38 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La prima pornire aveam Mi Home instalat pe telefon. S-a conectat foarte usor, si-a tras si un upgrade de soft. Incarcat baterie de la 65% la 100% in 2h30'. PRO: * cruise control * bateria are 12.4Ah, ramane de vazut peste un an ;-) * functie LED spate: permanent+frana / doar frana CON: * cam rigid la denivelari, voi incerca sa mai elimin din presiunea din pneuri, poate ma ajuta Pentru mine a fost o achizitie decenta. " ; :hasAuthor "Gyozo Nemes" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_39 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este o trotineta foarte buna, dar cu siguranta softul din fabrica o limiteaza. Au eliminat functia de cruise control, au limitat nivelul de are la 11800mAh in loc de 12800mAh, cat e capacitatea bateriei si e nevoie de un kick serios pentru a porni de pe loc. Partea buna este ca toate se pot remedia cu un flash de soft custom, de unde se poate activa cruise control, se poate restabili limita maxima de incarcare a bateriei, se poate mari amperajul in sarcina, se poate seta limita maxima de viteaza la 34km/h si se poate seta sa porneasca instant de pe loc (sau de la 2-3 km/h) samd. Pentru cei care au 100+Kg, trotineta merge foarte bine, nu gafaie, singura problema e ca scade autonomia. De exemplu eu la 110Kg am autonomie 20-25km in trafic, acceleratie la maxim, viteza 25-30 km/h. I n modul D , la 15km/h , am scos 32km autonomie pana a murit bateria. " ; :hasAuthor "Ionut Tartau" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_40 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Mers destul de domol, la cele 76 kg ale mele se pare ca ma tine peste 40 km, parcursi cu viteze cuprinse intre 10-25 km/h (20-25C), foarte putine rampe/pante. Trotineta arata foarte bine, combinatia de negru cu  pete  rosii o face destul de ochioasa. A durat 10 secunde sa o imperechez cu telefonul, deoarece aveam deja aplicatia preinstalata si conectata pe contul personal (am si alte dispozitive de la Xiaomi).  Socurile sunt bine amortizate de rotile pline cu aer. Personal mi se pare OK absorbtia socurilor incomparabil mai buna decat la o trotineta de adulti cu roti pline din silicon.  Am achizitionat si extragarantie de 4 ani, dar sper sa nu-mi trebuiasca vreodata.  PRO: - Motorul trage bine in ultimele doua trepte D si S, inclusiv la deal. - Bateria rezista conform cu specificatiile (pt. mers degajat si greutate de 75 kg). - Frana foarte buna, chiar prea puternica uneori, dar se poate regla sau apasa ceva mai usor. - Farul din fata este peste asteptari, iar stopul de frana este chiar vizibil, inclusiv ziua (pe Soare puternic e totusi greu de observat). - Pentru design, baterie si motor, la pret promotional (<=2000 lei) as zice ca este un  best buy .  CON: - Cuplu redus pe prima treapta (pedestrian mode), nu urca nicio rampa, e doar pentru mers pe trotuar fara rampe. Trebuie de comutat pe Drive sau Sport pt. rampe. - M-ar fi ajutat un ecran pe care sa afiseze detalii de genul: viteza medie, odometru km si trip km. E foarte dificil sa scot telefonul ca sa aflu km parcursi de la ultimul popas sau viteza de medie de deplasare." ; :hasAuthor "Raul Trifan" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review240542_41 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este o trotineta decenta, autonomie buna, viteza suficienta, 19 km/h in modul Drive si 24-25 km/h in modul Sport (mentionez ca am o greutate de 92 kg). Autonomia este cam de 30-35 km cu greutatea mea. Dupa cateva zile de utilizare, am pierdut o piesa reflectorizanta din partea din spate (roata, spate, partea stanga). Ca intreg, produsul se poate imbunatati. Am ales totusi sa ofer 4 stele din pricina faptului ca piesele reflectorizante sunt de slaba calitate (se desprind relativ repede de pe dispozitiv) iar ecranul, mai bine spus, plasticul de pe ecran, se zgarie si se deterioreaza foarte repede. Mare grija la aceste aspecte. In rest, din punct de vedere tehnic, este o trotineta decenta, cum spuneam si in inceputul acestei recenzii." ; :hasAuthor "Mihai-Valeriu Dobra" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review240542_42 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Foarte stabila, accelereaza instant, frana de nota 10, legat de baterie... 22 km pe modul sport (mentinand mai mereu viteza de 19-24 kmh) si 30 km pe modul Driver ( metinad mai mereu viteza de 10-19 kmh) legat de 45 km cat scrie la specificatii nu cred ca se poate decat daca mergi cu 5-7 kmh mai tot timpul dar nu am testat... " ; :hasAuthor "Dan Damian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_43 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pur și simplu este excepțională,  plus functile pe care pe un Logan nu ai cum sa le ai , gen pilot automat sau funcția sport 😀 😀 , o recomand cu super încredere și sa nu uitați ca deține încă top 1 trotineta din lume !!" ; :hasAuthor "Mocanu Bogdan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_44 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Wow . 1850 de lei un preț absolut superb pentru ce oferă ! Autonomie mare ( am testat-o) , accelerează instant , materiale de calitate - aplicația super utilă și exactă ! Recomand " ; :hasAuthor "Iulian Carp" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_45 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparat produsul de cteva zile. La prima impresie sunt multumit de el. Am 95 de kg si merge binisor. Eu de fapt am luat trotineta pentru fiul meu care are 35 de kg. De autonomie nu pot spune multe momentan. Am cumparat-o la pretul de 1850 lei, niciodata nu a fost pretul pe care ei il afiseaza acum" ; :hasAuthor "Cristian Trica" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_46 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am folosit E-twow Plus S am avut mai multe, aveam parerea despre xiaomi fara sa o folosesc ca este o trotineta care nu merita cumparata, am cumparat trotineta pentru ca nu aveam buget mai mare de 2000 lei. Si mi-am schimbat parerea, acum mi se pare ca merita cumparata in locul E-twow Plus dintre cele 2 as lua xiaomi pro 2. Are viteza mare 25 km si legala mergi fara probleme, are acceleratie mai puternica, are baterie foarte mare cu autonomie mare, nu ai ce sa ii reprosezi decat de bine, mi se pare cea mai buna trotineta la 1850 lei, este o trotineta ieftina care functioneaza ca una scumpa. La 1850 lei trebuie cumparata fara discutii. Este ocazie. " ; :hasAuthor "alex alex" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_47 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am o greutate de 85 de kg, temperatura de afară era de 6 grade și am constatat următoarele: -Trotineta merge cu maxim 24 de km la oră, nu cu 25; -Am făcut 18,6 km cu 78% din baterie, deci până la autonomia de 45 km, așa cum spune producătorul, îți mai trebuie un acumulator.  În rest, materialele sunt de calitate, pare solidă. " ; :hasAuthor "Andrei Dzitac" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review240542_48 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am comandat-o la inceputul anului, insa nu am putut sa merg prea multi km cu ea pana acum, din cauza conditiilor meteo. Insa pentru cat am mers, sunt cat se poate de multumit. Accelereaza bine in modurile drive si sport, chiar si la deal, franeaza excelent, nu joaca nimic, sistemul de pliere este rapid si eficient, lumina este puternica si bine plasata la ghidon. Incape fara probleme si in portbagajul masinii, incape si in liftul blocului. Autonomia va ramane de testat atunci cand vor creste temperaturile. Poate singurul minus ar fi lipsa suspensiilor, pe drumurile mai denivelate se resimt intr-adevar cam toate socurile, deci e de avut in vedere acest aspect. Per total, sunt incantat de trotineta si incerc sa o folosesc cu fiecare ocazie. Recomand sa va luati o pompa cu manometru, pentru a va asigura periodic ca aveti in anvelope o presiune de cel putin 3.5 bari. Desi modelul Pro 2 se lauda cu anvelope mai rezistente decat modelul precedent, n-as vrea sa experimentez o pana in drum spre munca sau cand ma grabesc undeva." ; :hasAuthor "Claudiu Nicolaiev" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_49 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am luat-o in timpul ierni pt ca acm era la reducere, dar am testat-o 2 zile.... Trotineta este uimitoare!! având in vedere ca nu am putut sa merg prea mult din cauza carantinei totuși pe strada a fost uimitoare! la deal se descurca excepțional, la vale la fel! sistemul de operare este super bine optimizat!! recomand!!" ; :hasAuthor "Fotu Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review240542_50 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt mulțumit de ea. Arată bine și trage bine. Are leduri mai puternice față de prima generație. Este ușoară la transport și merge și împinsă dacă e să rămâi fără baterie. Mă bucur că nu am luat unu mai mare, mă uitam între ăsta și Max G30. Peste 1000 de lei diferență la preț. " ; :hasAuthor "Eduard Paszka" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305796_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Bun raport calitate preț , copilul să bucurat foarte mult." ; :hasAuthor "Valentina Rella" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review305796_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "recomand cu incredere" ; :hasAuthor "Krisztian Sukosd" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305796_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "pret bun, calitate buna" ; :hasAuthor "Sukosd Kriztian" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305796_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport bun calitate/preț. " ; :hasAuthor "daniela Voicu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202995_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "- Raport pret/calitate. - Recomand pentru copii de peste 8 ani (ideal 12-18 ani)" ; :hasAuthor "alina daniela iatan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202995_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Prinsa la reducere (cu putin sub 1.000 lei) eu zic ca e alegerea potrivita pt. juniori. Baiatul meu de 25 kg a mers cu ea 23 km pana cand am pus-o la incarcat si inca mai arata o liniuta de baterie. A mers incet, intre 5 si 20 km/h, fara accelerari bruste.  Am achizitionat si extragarantia de 4 ani, nu se stie niciodata cand poate ajuta.  PRO: - Raport pret/calitate. - Recomand pentru copii de peste 8 ani (ideal 12-18 ani). - Cuplu foarte bun, inclusiv pe treapta 1 (pe pedestrian mode urca dealul fara probleme). - Poate fi reglata sa porneasca de pe loc (nerecomandat pt. minori) - Pneul cu aer din fata, impreuna cu suspensia de pe ghidon absorb destul de bine socurile. - Garda la sol foarte joasa o fac ideala pentru incepatori, in special copii.  CON: - Aripa spate zdrangane putin pe pavele sau denivelari (se loveste de roata). Pt. unii nu e o problema, dar eu momentan am scos-o, pana oi gasi vreo solutie. Frana electrica isi face treaba perfect, nu pare sa fie nevoie de frana de picior, cu toate ca am reusit sa pun frana si cu talpa fara probleme. - Reversul gardei la sol reduse este la urcarea bordurilor." ; :hasAuthor "Raul Trifan" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review309195_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am luat trotineta aceasta pentru copilul meu si este foarte incantat de ea pentru ca are luminare rgb poti sa o conectezi cu blutooth si pentru ca un singur kick si ai plecat. Recomand!" ; :hasAuthor "DORIN ANGHEL" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review306406_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Sunt foarte multumit de produs..." ; :hasAuthor "Bogdan Ionut Stan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305865_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Materiale mai de calitate comparativ cu XIaomi, Lenovo, etc. Bateria tine suficient pentru o zi de plimbat prin oras" ; :hasAuthor "Bogdan Negru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305865_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta pentru dimensiuni de adult, foarte comoda cu un design modren! Recomand!" ; :hasAuthor "Janos Sandor Kovacs" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312324_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Raport calitate-pret ,isi merita bani.Am achizitionato de 3 zile ....viteza maxima undeva la 30km daca faci unlock speed,ca autonomie depinde cum o folosesti,eu am 64 kg iar pe viteza 3 (maxima) cu unlockspeed undeva la 12-15 km !Calitatea materialelor destul de buna! Per rotal este ok pentru pretul ei! Cu mult peste myria,motus etc...sub xiaomi,ninebot,kugoo! " ; :hasAuthor "Adrian Oancea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305863_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta excelenta, materiale de calitate, iar designul este chiar dragut. Ca si autonimie depășește cei 25 de km daca mergi doar in modul ECO. Față de alte branduri, eu zic ca Aprilia este cu mult peste altele, ei care fac motociclete si scutere de cand se stiu. Bateria detasabila consider ca este un plus deoarece nu este nevoie sa cari toata trotineta si sa ocupi loc." ; :hasAuthor "Iacob Movila" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305863_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Îmi place că pot incarca bateria fara a mai Cara trotineta in casa, cauciucuri de calitate , foarte silențioasă , foarte echilibrata cu display generos, cruise mode automat, piesele sunt de calitate înaltă. Se murdărește repede și este cam joasa pt persoane înalte , nu am reușit nici să mă conectez la aplicație dar nici nu prea am avut nevoie. In rest sunt foarte mulțumit de autonomie și este o plăcere să mergi pe ea, un model deosebit !" ; :hasAuthor "Alin Rusu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312319_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta cu performante decente, foarte atent finisata si care corespunde specificatiilor producatorului." ; :hasAuthor "Lucian Matisef" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305864_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O ALEGERE BUNA! ...RECOMAND CU INCREDERE!" ; :hasAuthor "Dorin Stefan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305864_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu am nimic de reprosat, incredibil de rezistenta si  agresiva . Nota 10" ; :hasAuthor "Dragos Leca" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305864_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O autonomie mai mare decât cea specificata!Probabil ca și din cauza greutății,eu am vreo 80 kg,o încărcare tine 50-55 km la temperatura optima!Raport calitate pret,excelenta!Recomand!" ; :hasAuthor "Gabriel Varlan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305864_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "La 5 zile dupa cumparare, roata spate s a desumflat complet. Se putea observa foarte usor cum camera era dezlipita si taiata in jurul valvei. Cel mai probabil, din cauza socurilor (pentru ca sistemul valva + ventil sunt proiectate cu o curbura de 90 grade) aceasta s a taiat. Bineinteles ca a urmat o constatare favorabila service ului. Mi s a transmis faptul ca roata a suferit pana si va trebui sa achit inca 400 lei pentru reparatie. Am achitat instant devizul, iar la doua saptamani distanta nu am inca niciun feedback. Garantia extinsa de pana la 5 ani, cafe a costat cateva sute de lei in plus (parca 4-500 Lei) nu acopera dauna. Fiti foarte atenti cand cumparati produsele vandute de catre Altex si cititi cu atentie t&c. personal nu recomand si nici nu voi reveni catre retailer. " ; :hasAuthor "Alexandru Ionita" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review305862_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "o trotineta perfecta, calitate ,putere si rezistenta. Recomand" ; :hasAuthor "Catalina Milea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312312_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Defapt este foarte grea si nu recomand celor care stau la bloc sau nu au spatiu de depozitare." ; :hasAuthor "Sebastian Ghinea" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review300093_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Super ok! Livrare rapida! Perfecta pentru copii de la vârsta de 6 ani!" ; :hasAuthor "Laurentiu mihai Benea" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review272218_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Autonomie buna, viteza buna, rezistenta." ; :hasAuthor "Razvan Iancu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review272218_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparat acest produs acum o luna si jumatate si sunt multumit de el. Pro: se pliaza usor; are autonomie buna; are materiale rezistente, are sistem de franare bun. Contra: momentan nu am ceva de comentat, vedem in timp cum se comporta si mai revin cu un review. Merita achizitia la acest pret, mai ales ca este si redus." ; :hasAuthor "Catalin Iancau" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review272218_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este ok merge bine o am de 3 zile și sper să meargă bine doar că frana se aude mai ciudat și desprinde un bec roșu in spate de fiecare dată când o apprin" ; :hasAuthor "Stefan Nicolae" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review272190_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Pret bun. Super ok produsul a ajuns foarte repede. Aleg mereu Altex super servicii" ; :hasAuthor "George Vlada" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305860_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Materiale mai de calitate comparativ cu XIaomi, Lenovo, etc. Bateria tine suficient pentru o zi de plimbat prin oras" ; :hasAuthor "Bogdan Negru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review305860_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "in schimb exista o problema foarte  mare nu functioneaza aplicatia de monotorizare...." ; :hasAuthor "mocanu gianina-mihaela" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review312325_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O trotineta de foarte buna calitate! Tine bateriile si usor de utilizat." ; :hasAuthor "Andrei Tene" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review312325_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Nu recomand la nimeni ,autonomie de doar 20 km dacă mergi cu 25 /h" ; :hasAuthor "ciprian petrica vintila" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review312325_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Tine foarte mult bateria. Are autonomie mare si este foarte utila in traficul din bucuresti. Recomant." ; :hasAuthor "Tene Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review289649_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este forte super merita toti bani rapit comod si ujor de folosit" ; :hasAuthor "Gorban Marius dumitru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review279300_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Eu, personal nu sunt mulțumit. In specificatii scrie ca are autonomie/încărcare de aproximativ 30 km. A mea nu merge mai mult de 5 km. Timpul de încărcare scrie ca este între 6 și 8 ore. A mea se încarcă între 35 minute si 1h40m (pana se aprinde liedul verde pe incarcator), dar la încărcarea de 1h40 merge 4 - 5 km...., dar cand se încarcă in 35 minute merge doar 2 km. Pe afișaj apare mereu baterie 5 linii, dar se oprește dintr-odată, deci sectorul  baterie  din afișaj este inutil... o voi duce înapoi si sunt sigur ca se va gasi o solutie, dar in prima faza.... dezamăgit. Imi trebuia 12km/zi cu posibilitatea de a o încarcă la 6 km (doar in plan, fără dealuri). Im momentul de față imi este inutilă " ; :hasAuthor "Mihai Vornicu" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review279300_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Cumpărat: teorteic sigilat/practic deja zgarita în mai multe locuri. Roata fără aer, fără chit ca  sa poți umfla roțile. Traba reglata frana (freaca). Suruburi ne stranse (nu doar cele indicate  în manual).  Cam dezamagitor. " ; :hasAuthor "Istvan Varga" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review274873_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "o trotineta eleganta si usor de folosit, materiale calitative" ; :hasAuthor "Radu Sorin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs foarte bun calitate - preț! Sunt mulțumit! " ; :hasAuthor "GABRIELA MASCAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Un produs foarte bun îmi place cum arata se mica bine și ușor de utiliza.!!! " ; :hasAuthor "Nicolae Mirleneanu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Produs bun ,foarte bucuros copilul pt ea" ; :hasAuthor "daniel marin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "foarte ok pentru un copil, recomand . am luat produsul cu rezervare online din magazin" ; :hasAuthor "ISTRATI CIPRIAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "pt copil merge...de distractie...plimbare prin parc...greutate mica" ; :hasAuthor "ALIN GABRIEL BOTEA" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review202992_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Această trotineta are tot ce-i trebuie la acest preț este foarte bună. Sigur daca nu iti doresti un avion :)" ; :hasAuthor "MIOARA ZOGOREAN" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review202992_7 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Această trotineta are tot ce-i trebuie la acest preț este foarte bună" ; :hasAuthor "MIOARA MONICA ZOGOREAN" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_8 rdf:type owl:NamedIndividual , rev:Review ; rev:text "raport calitate pret bun" ; :hasAuthor "bogdan puicu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_9 rdf:type owl:NamedIndividual , rev:Review ; rev:text "De când am cumparato a stat numai la reparat ( în timp ce copil meu se deplasa cu ia ,i s a rupt roata si a cazut ), plus de asta, cei de la service sunt niste hoti , mi a venit cu elemente schimbate si ruginite , nu i posibil sa iti vina din service si sa aiba ghidonul ne strâns, noroc ca am vazut inainte sa plece copilu cu ia ! Nu va recomand ." ; :hasAuthor "Liviu Baleanu" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review202992_10 rdf:type owl:NamedIndividual , rev:Review ; rev:text "am returnat produsul prima data pentru ca nu pornea, nici macar nu o scosesem pe strada…dupa primii 11km trotineta cea noua s a stricat iar , deci nu te poti folosii de ea. este inadmisibil , platesti pentru ceva de care nu te poti folosii.. voi cere restituirea banilor!" ; :hasAuthor "Sebastian Ceacusta" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review202992_11 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumpărat trotineta de 4 zile și sunt mulțumit. Am mers cu ea 30km.Am 90 kg și pe o temperatură de 32 de grade bateria a ținut 11km pe treapta trei. Demaraj bun, frâna electronică bun, lumina farului ok, încărcare baterie 3 ore, urcă pantă  de 15-20 grade cu 15 km/oră. Când ajunge la ultima linie la baterie viteza scade sub 12 km/oră. Mie îmi place. Are doar 10kg și este ușor de cărat pe scări. " ; :hasAuthor "Dorin Dorin" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_12 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este foarte buna , am 100 de km cu ea si merge foarte bine singura problema este ca nu are cric . insa este una foarte buna , eu nu stiu cum sa pornesc bluetooth-ul la ea daca stie cineva sa imi scrie" ; :hasAuthor "Marian Fodor" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_13 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Scriu aceasta recenzie dupa un an de utilizare. Am la bord 1100 de km cu ea si merge la fel ca si noua. De aratat nu mai arata ca si noua deoarece, este foarte josa si atinge la o bordura sau alt obstacol(limitator viteza, etc.) Pro: buna de incepatori, rezistenta, pretul foarte ok si merge bine. Contra: lumina spate cam slaba, e destul de joasa, este destul de mare in lungime si autonomia cam mica. Este perfecta pentru incepatori!! *Recomand" ; :hasAuthor "David Andrei" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_14 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Unde pot găsi roata fata pină pentru ea va rog Altex imi spuneti va rog am cautat și nu am găsit ajutați-mă va rog " ; :hasAuthor "daniel dani" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review202992_15 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Această trotineta are tot ce-i trebuie la acest preț este foarte bună singurul minus este cricul în rest e bună." ; :hasAuthor "Mihai Vinturis" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_16 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Are cineva vreo idee cum se aprinde lumina? Nu se aprinde cea din fata când pornesc trotineta și ma gândesc ca este vreun defect " ; :hasAuthor "Andrei Calust" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review202992_17 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Merge cu 24 km/h. Se poate seta viteza la 25 km/h? " ; :hasAuthor "Eugen Pirvu" ; :hasRating 4 ; :aggregatesOpinion marl:Neutral .
+
+:Review202992_18 rdf:type owl:NamedIndividual , rev:Review ; rev:text "O folosesc de 2 zile si e super, cricu e o problema in rest e buna " ; :hasAuthor "Andrei Cristi Strat" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_19 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este superba dar nu are cric" ; :hasAuthor "Daniel Dumitru" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review202992_21 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparato in urma cu o saptamana.Deocamdata pare ok,bateria  tine destul de mult,o foloseste un pusti de opt ani.Minus pentru noi  ar fi lipsa krikului." ; :hasAuthor "Ildi Roman" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302635_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "A venit repede, am ridicat. o din magazin!" ; :hasAuthor "Adrian Vrinceanu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302635_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "FOARTE BUNA DIN TOATE PUNCTELE DE VEDERE , PUTERE , AUTONOMIE , MATERIALE DE CALITATE" ; :hasAuthor "Alin Rusu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302635_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumparat trotineta cautand o trotineta electrica ieftina si buna.  Rotile sunt de 10 si ajuta cu asfaltul de bucuresti. Sistemul de control este simplu si intuitiv. Cadrul este rezistent, cel putin pana acum.  Inclusiv packedgingul a fost absolut minunat.  Daca ar fi sa gasesc un minus, este ca nu are un scut pentru firul de frana. El  este pe dedesupt, are un sant, dar as fi preferat ca acel sant sa fie acoperit cu o masca." ; :hasAuthor "Tiberiu Anghelina" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302635_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am prins-o la 2080 lei,un preț super bun din punctul meu de vedere.  Construcție solidă, aspect plăcut,materiale de calitate folosite,simplu de operat. Autonomia în cazul meu este de 25 km la 105 kg ale mele. Merită fiecare bănuț în parte și dacă o mai și prindeți cu un voucher deja este o afacere mai mult decât reușită.  " ; :hasAuthor "ADRIAN PISTRITU" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review302635_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am achizitionat acest model si l-am restituit cu inlocuire, apoi l-am restituit de tot. Modelul are o problema software cunoscuta de ninebot prin care nu gestioneaza nivelul de incarcare corect. Se poate sesiza numai la drumuri mai lungi (>7km fara oprire). Isi revine dupa restart, dar nu se stie daca de fiecare data. Daca nu avea problema descrisa o pastram fara nicio indoiala!   Altfel, un produs robust, rotile de 10 il fac destul de confortabil si frana, desi pe tambur, e ok. Vor aparea in curand si saboti de schimb (info de la ninebot)" ; :hasAuthor "Horia Draghiciu" ; :hasRating 3 ; :aggregatesOpinion marl:Negative .
+
+:Review302635_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este excelentă, solidă,stabilă, frână pe tambur nu pe disc ceea ce este foarte bine, limitată la 25 km cu cele 100 de kg ale mele urcă foarte bine o pantă per total merită,livrare rapidă Altex" ; :hasAuthor "virgiliu albu" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review279298_1 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am facut prima 100 km fara probleme.  La o greutatea de 86 kg  a utilizatorului s-a comportat bine. Echipa de la Media Galaxy/Altex s-a comportat exemplar pe durata achizitiei/livrarii.  " ; :hasAuthor "Andrei Bogdan Palade" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review279298_2 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Destul de rezistenta. Singurul dezavantaj ca cu se pot opri luminile led pe timp de zi" ; :hasAuthor "Andrei Seitan" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review279298_3 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am cumpărat din Altex SV Egros o trotineta Myria ,,,noua,, dar am primit una resigilata . Altex SV din Egros sunt cei mai......evitați acest magazin " ; :hasAuthor "Ionut Agarafinei" ; :hasRating 1 ; :aggregatesOpinion marl:Negative .
+
+:Review279298_4 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Am făcut cu ea primi 55 km .am o greutate de 100kg .sunt mulțumit momentan de ea ! Chiar merge bine nu mă pot plânge vedem pe viitor " ; :hasAuthor "Marius Coman" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review279298_5 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Este foarte buna merita bani e mare materialul este foarte bun și mai ales că bateria tine 35 km trotineta prinde viteza de 25km pe ora  Recomand cu toată căldura!" ; :hasAuthor "Andrei Stadniciuc" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+
+:Review279298_6 rdf:type owl:NamedIndividual , rev:Review ; rev:text "Din partea mea primește 5 stele este foarte buna mai ales pt începători este mare destul de rezistenta deci își merită bani" ; :hasAuthor "Andrei Stadniciuc" ; :hasRating 5 ; :aggregatesOpinion marl:Positive .
+

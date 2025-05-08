@@ -1,0 +1,77 @@
+:Product312747 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Volan gaming MYRIA MG7419 (PS3/PS4/PC/XBOX ONE/S)" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.0 ;
+               :hasReview :Review312747_1 .
+:Product267885 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Volan gaming GENESIS Seaborg 400 (PC/PS4/PS3/Nintendo Switch/Xbox One/Xbox 360)" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.3076923076923075 ;
+               :hasReview :Review267885_1 , :Review267885_2 , :Review267885_3 , :Review267885_4 , :Review267885_5 , :Review267885_6 , :Review267885_7 , :Review267885_9 , :Review267885_10 , :Review267885_11 , :Review267885_12 , :Review267885_13 .
+:Product47208 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Schimbator viteze LOGITECH G Driving Force Shifter G29/G920/G923" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.571428571428571 ;
+               :hasReview :Review47208_1 , :Review47208_2 , :Review47208_3 , :Review47208_4 , :Review47208_5 , :Review47208_6 , :Review47208_7 , :Review47208_8 , :Review47208_9 , :Review47208_10 , :Review47208_11 , :Review47208_13 , :Review47208_14 .
+:Product47207 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Volan gaming LOGITECH Driving Force G29 (PC/PS3/PS4/PS5)" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.784313725490196 ;
+               :hasReview :Review47207_1 , :Review47207_2 , :Review47207_3 , :Review47207_4 , :Review47207_5 , :Review47207_6 , :Review47207_7 , :Review47207_8 , :Review47207_9 , :Review47207_10 , :Review47207_11 , :Review47207_12 , :Review47207_13 , :Review47207_14 , :Review47207_15 , :Review47207_16 , :Review47207_17 , :Review47207_18 , :Review47207_19 , :Review47207_20 , :Review47207_21 , :Review47207_22 , :Review47207_23 , :Review47207_24 , :Review47207_25 , :Review47207_26 , :Review47207_27 , :Review47207_28 , :Review47207_29 , :Review47207_30 , :Review47207_38 , :Review47207_39 , :Review47207_40 , :Review47207_41 , :Review47207_42 , :Review47207_43 , :Review47207_45 , :Review47207_47 , :Review47207_48 , :Review47207_49 , :Review47207_50 , :Review47207_51 .
+:Product246955 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Volan gaming LOGITECH TrueForce G923 (PC/PS4/PS5)" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review246955_1 .
+:Product246956 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Volan gaming LOGITECH TrueForce G923 (PC/Xbox One)" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.5 ;
+               :hasReview :Review246956_1 , :Review246956_2 , :Review246956_3 , :Review246956_4 .
+:Product125432 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Volan gaming MYRIA MG7400 (PS3/PS4/PC/XBOX ONE)" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.311475409836065 ;
+               :hasReview :Review125432_1 , :Review125432_2 , :Review125432_3 , :Review125432_4 , :Review125432_5 , :Review125432_6 , :Review125432_7 , :Review125432_8 , :Review125432_9 , :Review125432_10 , :Review125432_11 , :Review125432_12 , :Review125432_13 , :Review125432_14 , :Review125432_15 , :Review125432_16 , :Review125432_17 , :Review125432_18 , :Review125432_19 , :Review125432_20 , :Review125432_21 , :Review125432_22 , :Review125432_23 , :Review125432_24 , :Review125432_25 , :Review125432_26 , :Review125432_27 , :Review125432_28 , :Review125432_29 , :Review125432_30 , :Review125432_31 , :Review125432_32 , :Review125432_33 , :Review125432_34 , :Review125432_35 , :Review125432_36 , :Review125432_37 , :Review125432_38 , :Review125432_39 , :Review125432_40 , :Review125432_41 , :Review125432_42 , :Review125432_43 , :Review125432_44 , :Review125432_45 , :Review125432_46 , :Review125432_47 , :Review125432_48 , :Review125432_49 , :Review125432_50 , :Review125432_51 , :Review125432_52 , :Review125432_53 , :Review125432_55 , :Review125432_56 , :Review125432_58 , :Review125432_59 , :Review125432_60 .
+:Product312746 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Volan gaming MYRIA MG7418 (PS3/PS4/PC/XBOX ONE/S)" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 3.8 ;
+               :hasReview :Review312746_1 , :Review312746_2 , :Review312746_3 , :Review312746_4 , :Review312746_5 , :Review312746_6 , :Review312746_7 , :Review312746_8 , :Review312746_9 , :Review312746_10 .
+:Product300188 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Volan gaming HORI Overdrive AB04-001U (Xbox Series X|S / Xbox One / Windows 10)" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.4 ;
+               :hasReview :Review300188_1 , :Review300188_2 , :Review300188_3 , :Review300188_4 , :Review300188_5 .
+:Product47632 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Volan gaming LOGITECH Driving Force G920 (PC/Xbox One)" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 4.75 ;
+               :hasReview :Review47632_1 , :Review47632_2 , :Review47632_3 , :Review47632_4 , :Review47632_5 , :Review47632_6 , :Review47632_7 , :Review47632_8 , :Review47632_9 , :Review47632_10 , :Review47632_11 , :Review47632_12 , :Review47632_13 , :Review47632_14 , :Review47632_15 , :Review47632_16 , :Review47632_17 , :Review47632_20 , :Review47632_22 , :Review47632_23 , :Review47632_24 .
+:Product300189 rdf:type owl:NamedIndividual ,
+                            :Product ;
+                :hasTitle "Volan gaming HORI Apex SPF-004U (PS4, PS5, PC)" ;
+                :belongsTo :ControllerAndSteeringWheel ;
+                :hasWebsite :Altex ;
+                :aggregatesRating 5.0 ;
+               :hasReview :Review300189_1 , :Review300189_2 , :Review300189_3 , :Review300189_4 , :Review300189_5 , :Review300189_6 , :Review300189_7 , :Review300189_8 , :Review300189_9 .
